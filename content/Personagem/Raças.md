@@ -32,7 +32,7 @@ Reencarnados roubam e possuem o corpo de algum humano mediante o consumo de um o
 - **Sangue Venenoso**: Por ser um híbrido de humano e maldição seu sangue tem propriedades venenosas. Ao sofrer dano cortante ou perfurante você pode usar sua reação para ativar seu tipo de sangue a qualquer criatura a até 1,5m de você. O sangue pode ser removido do alvo com um teste de Medicina com DC de 8 + Constituição + Bônus de Proficiência.
 	- Veneno: 1d12 de dano venenoso + salvaguarda de Constituição de DC 8 + Constituição + Bônus de Proficiência com falha resultando na condição envenenado por 1 minuto.
 	- Podridão: 2d6 de dano necrótico no início de todo turno por 1 minuto. Este dano ultrapassa resistências e imunidades.
-## Corpo Amaldiçoado
+# Corpo Amaldiçoado
 Corpos Amaldiçoados são existências totalmente artificiais criadas por feiticeiros, sendo compostos por um corpo não orgânico e um ou mais "núcleos", ao qual guardam as informações de seu ser e de sua técnica amaldiçoada, funcionando como um tipo de "alma".
 - Idade: Expectativa de vida indefinida, desde que se repare frequentemente.
 - Tamanho: Varia de pequeno a grande.
@@ -47,7 +47,7 @@ Corpos Amaldiçoados são existências totalmente artificiais criadas por feitic
 - **Surpresa!**: Uma vez por descanso longo, caso passe em um teste de Atuação pode se disfarçar naquilo que você lembra. Sua súbita demonstração de senciência pode paralizar um inimigo que falhe em um salvaguarda de Sabedoria de DC 10 + Proficiência + Carisma.
 ## Subraça: Corpo Rígido
 - **Armadura Integrada**: +1 de CA.
-## Espírito Amaldiçoado
+# Espírito Amaldiçoado
 Espíritos Amaldiçoados são seres compostos totalmente de energia amaldiçoada. Surgem a partir do acúmulo de sentimentos negativos proveniente dos humanos, os atacando de volta como forças de destruição da natureza.
 - Idade: Expectativa de vida indefinida desde que não seja exorcizado.
 - Tamanho: Podem ser de qualquer tamanho, de minúsculo a gigante.

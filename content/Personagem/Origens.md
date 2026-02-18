@@ -1,4 +1,4 @@
-As origens inclui as seguintes partes:
+As origens incluem as seguintes partes:
 - Valores de Atributo: As origens apresentam três dos valores de atributo do seu personagem. Aumente um em 2 e outro em 1, ou aumente todos os três em 1. Nenhum desses aumentos pode ser maior que 20. Também escolha 2 para possuir proficiência em salvaguarda.
 - Talento. Uma origem confere ao seu personagem um talento específico de Origem
 - Proficiência em Perícias. Uma origem confere proficiência ao seu personagem em duas perícias

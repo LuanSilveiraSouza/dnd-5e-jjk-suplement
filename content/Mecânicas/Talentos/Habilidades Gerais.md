@@ -2,26 +2,37 @@
 ## Aumento de Atributos
 **Pré-requisitos**: -
 Você escolhe aumentar um atributo em 2 ou dois atributos em 1 pontos. Você não pode ultrapassar o valor do atributo em 20. Em vez disso, você também pode optar por escolher um Talento possível.
-## Ataque Extra
+## Ataque Duplo
 **Pré-requisitos**: Grau 2
 Você pode atacar duas vezes em sua ação.
-## Ataque Extra
+## Ataque Triplo
 **Pré-requisitos**: Grau Especial
 Você pode atacar três vezes em sua ação.
 ## Caminho de Feiticeiro
 **Pré-requisitos**: -
-Você decide o caminho que trilhará como feiticeiro. Escolha entre possuir apenas Energia Amaldiçoada, possuir Técnica Inata ou possuir uma Restrição Celestial Física ou Mental (caso seja Humano).
-## Energia Amaldiçoada
+Você decide o caminho que trilhará como feiticeiro. Escolha entre possuir apenas Energia Amaldiçoada, possuir Técnica Inata ou possuir uma Restrição Celestial Física ou Mental (caso seja Humano). Você receberá novas habilidades referentes ao seu caminho de feiticeiro sempre que receber este recurso ao subir de nível.
+### Multi-Caminho
+**Pré-requisitos**: Energia Amaldiçoada, Técnica Inata
+Você pode decidir seguir mais de um caminho feiticeiro desde que não possua Restrição Celestial, sendo um multi especialista. O recurso de "Caminho de Feiticeiro" recebido ao subir de nível pode ser alocado em qualquer caminho possível, respeitando o limite de 1 Técnica Inata apenas. Exemplo:
+- Nível 1: Técnica Inata (Nível 1)
+- Nível 3: Novo Estilo da Sombra (Nível 1)
+- Nível 7: Técnica Inata (Nível 3)
+- Nível 10: Técnica Inata (Nível 7)
+- Nível 13: Técnica Inata (Nível 10)
+- Nível 18: Novo Estilo da Sombra (Nível 3)
+- Nível 20: Técnica Inata (Nível 13)
+Você também pode optar por utilizar seu recurso de "Caminho de Feiticeiro" em um momento qualquer póstumo, inclusive no meio de qualquer encontro. Esta opção visa principalmente ampliar os efeitos narrativos, como personagens que ainda não descobriram se possuem Técnica Inata, por Exemplo.  
+### Energia Amaldiçoada
 **Pré-requisitos**: -
-Como todos, você possui Energia Amaldiçoada, porém faz parte do seleto grupo de indivíduos que tem a capacidade de interagir e utilizá-la em benefício próprio. Ao receber o "Talento de Energia Amaldiçoada" você pode escolher qualquer talento que cumpra os pré-requisitos das categorias de de Aptidão Física, Energia Amaldiçoada, Energia Amaldiçoada Reversa e Barreiras..
-## Técnica Inata
+Como todos, você possui Energia Amaldiçoada, porém faz parte do seleto grupo de indivíduos que tem a capacidade de interagir e utilizá-la em benefício próprio. Ao receber o "Talento de Energia Amaldiçoada" você pode escolher qualquer talento que cumpra os pré-requisitos das categorias de de Aptidão Física, Energia Amaldiçoada, Energia Amaldiçoada Reversa e Barreiras.
+### Técnica Inata
 **Pré-requisitos**: Energia Amaldiçoada
 Além de manipular a Energia Amaldiçoada você nasceu com uma técnica gravada em seu ser, sua Técnica Inata. Você pode escolher uma técnica inata da lista de exemplos ou trazer sua própria, ao qual deve ser acordada com o Mestre. Ao receber o "Talento de Energia Amaldiçoada" você pode escolher qualquer talento que cumpra os pré-requisitos da lista de Talentos de sua Técnica Inata.
-## Restrição Celestial
+### Restrição Celestial
 **Pré-requisitos**: -
 A Restrição Celestial faz de você o mais raro dos humanos. O universo o escolheu para ser o ponto fora da curva, um voto vinculativo de nascença, uma balança desequilibrada: 
 - Você possui nenhum traço de Energia Amaldiçoada em troca de um corpo físico aprimorado e super humano. Você não tem acesso aos Talentos de Energia Amaldiçoada, Energia Amaldiçoada Reversa e Barreiras, e muito menos possui uma Técnica Inata. Em vez disso, você segue seu próprio caminho, o da Restrição Celestial Física.
-- Você tem reservas incomensuráveis de Energia Amaldiçoada em troca de um corpo frágil, febril e constantemente doente. Seu valor de atributo de constituição é 1 e não pode ser aumentado com nenhum meio. Você não tem acesso aos Talentos Físicos e tem seu caminho exclusivo, o da Restrição Celestial Mental.
+- Você tem reservas incomensuráveis de Energia Amaldiçoada em troca de um corpo frágil, febril e constantemente doente. Seu valor de atributo de constituição é 1 e não pode ser aumentado com nenhum meio. Você não tem acesso aos Talentos Físicos, pode possuir uma Técnica Inata e tem o caminho exclusivo da Restrição Celestial Amaldiçoada.
 ## Movimento Desarmado
 **Pré-requisitos**: -
 Sua velocidade aumenta em 3m enquanto não estiver usando armaduras ou escudos.
