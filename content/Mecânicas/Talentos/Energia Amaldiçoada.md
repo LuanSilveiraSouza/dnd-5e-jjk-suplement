@@ -1,14 +1,14 @@
 
 # Regeneração
 
-## Reservas de Energia Amaldiçoada
+## Recuperação de Energia Amaldiçoada
 **Pré-requisitos**: -
-Você consegue recuperar seu "tanque" de EA no meio do combate. Com uma ação bônus, retire de suas reservas a quantia que quiser repor.
+Você consegue recuperar sua EA no meio do combate. Com uma ação bônus, ganhe 1 ponto de EA que deve ser retirado de suas reservas de EA.
 ## Regeneração de Energia Amaldiçoada
-**Pré-requisitos**: Reservas de Energia Amaldiçoada.
-No início de seu turno você recupera 1 ponto de EA.
+**Pré-requisitos**: Grau 2 ou superior; Recuperação de Energia Amaldiçoada
+Você amplia sua capacidade de recuperar EA no meio do combate. Com uma ação bônus, ganhe pontos de EA iguais ao seu Bônus de Proficiência atual. A quantia deve ser retirada de suas reservas de EA.
 ## Otimização de Energia Amaldiçoada
-**Pré-requisitos**: Semi grau 1 ou superior; Reservas de Energia Amaldiçoada
+**Pré-requisitos**: Semi grau 1 ou superior; Recuperação de Energia Amaldiçoada
 Ao recuperar EA a partir de suas reservas você pode optar por usar como uma ação para recuperar um valor extra de acordo com seu bônus de proficiência. Este valor extra não é subtraído do valor da reserva:
 
 | Bônus de Proficiência | Dado |
@@ -18,7 +18,9 @@ Ao recuperar EA a partir de suas reservas você pode optar por usar como uma aç
 | +4                    | 1d8  |
 | +5                    | 1d10 |
 | +6                    | 1d12 |
-
+## Estocagem de Energia Amaldiçoada
+**Pré-requisitos**: Grau 1 ou superior; Regeneração/Otimização de Energia Amaldiçoada.
+Sua regeneração de EA atinge o auge. Além da ação bônus de recuperação, você também pode gastar sua ação para recuperar até metade de seu total de EA, arredondado para baixo.
 ## Conversão de Energia Vital
 **Pré-requisitos**: -
 As situações de desespero lhe trouxeram a capacidade de transformar sua vitalidade em energia amaldiçoada. Uma vez por descanso longo, caso esteja com 1 ponto ou menos de EA você pode usar sua ação bônus para transformar 3HP em 1 ponto de EA, com o limite sendo seu bônus de proficiência + Constituição ou até chegar a 1HP. 

@@ -29,9 +29,9 @@ Representa confiança, orgulho e charme. Usado como atributo de energia amaldiç
 **Perícias**: Atuação, Enganação, Intimidação, Persuasão
 
 # Outros Atributos
-## Energia Amaldiçoada
-Representa o "tanque" de energia amaldiçoada do indivíduo. As ações que usam energia amaldiçoada subtraem do total. Este atributo é definido de forma diferentes dos outros, tendo sua própria progressão. Na base a energia amaldiçoada é o nível atual do personagem + bônus de proficiência, mas há formas de ampliar este total ainda mais. 
-A energia amaldiçoada pode ser recuperada há qualquer momento fora de combate usando a reserva de energia, ao qual compreende o mesmo valor do tanque principal. A recuperação pode ser dividida em várias etapas desde que respeite o limite máximo, que é reabastecido após um descanso longo. Exemplo:
+## Energia Amaldiçoada (EA)
+Representa o "tanque" de energia amaldiçoada do indivíduo. As ações que usam energia amaldiçoada subtraem do total. Este atributo é definido de forma diferentes dos outros, tendo sua própria progressão. Com exceção do nível 1, o cálculo base de energia amaldiçoada é **(nível atual do personagem + bônus de proficiência x 2)**, mas há formas de ampliar este total ainda mais. 
+Para recuperar energia amaldiçoada usa-se a reserva de energia, um "tanque secundário" ao qual compreende o mesmo valor do tanque principal. A recuperação pode ser dividida em várias etapas desde que respeite o limite máximo, que é reabastecido junto do tanque principal após um descanso longo. Exemplo:
 - Personagem de nível 3 com 3 pontos de EA. Ele utiliza os 3 pontos em um combate.
 - O personagem recupera 2 pontos de EA após o combate, utiliza 1 fora de combate e outro no próximo combate.
 - Após isso, recupera mais 1 ponto e o utiliza fora de combate, ficando completamente sem EA. Após concluir a missão ele realiza um descanso longo, recuperando 3 pontos de EA e reabastecendo sua reserva em 3 pontos.

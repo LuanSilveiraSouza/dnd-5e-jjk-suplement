@@ -17,7 +17,7 @@ Seu controle evoluiu ao ponto de separar cargas elétricas:
 - Você pode manter um número de cargas em um alvo igual ao dobro do seu Bônus de Proficiência. Um alvo ficará com as cargas por até 1 hora.
 - Como ação que custa seu Bônus de Proficiência em pontos de EA, você pode liberar um raio que se direciona às cargas acumuladas, causando **1d12 por carga aplicada**.
 # Nível 10
-## ## Liberação da Besta Mítica: Âmbar
+## Liberação da Besta Mítica: Âmbar
 Você finalmente desperta sua técnica inata — e seu terrível custo.
 Como ação, ao custo de **20 Energias Amaldiçoadas**, seu corpo começa a ser preenchido por energia elétrica amaldiçoada, reconstruindo sua carne para manifestar fenômenos elétricos.
 Essa forma só pode ser usada **uma vez por semana**, pois após seu término seu corpo colapsa.

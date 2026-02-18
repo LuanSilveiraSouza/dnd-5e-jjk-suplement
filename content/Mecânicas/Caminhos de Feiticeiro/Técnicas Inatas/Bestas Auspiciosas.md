@@ -218,3 +218,12 @@ Finalmente você aprimorou sua Técnica Amaldiçoada ao extremo. Enquanto estive
 
 
 
+
+
+
+
+
+
+
+
+
