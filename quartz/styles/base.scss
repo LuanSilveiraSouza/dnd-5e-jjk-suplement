@@ -23,6 +23,11 @@ body {
   color: var(--darkgray);
 }
 
+th, h1, h2, h3, h4, h5, h6, .folder-title, .article-title {
+  letter-spacing: 0.1em;
+  word-spacing: 0.2em;
+}
+
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;

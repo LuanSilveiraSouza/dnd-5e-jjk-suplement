@@ -29,9 +29,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
+      /* Hide Created/Modified date
       if (fileData.dates) {
         segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-      }
+      }*/
 
       // Display reading time if enabled
       if (options.showReadingTime) {
