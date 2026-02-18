@@ -1,0 +1,2 @@
+Ao canalizar a Energia Amaldiçoada em um ataque num intervalo de tempo inferior a 0.000001 segundos (ou 1 milhonésimo de segundo) o feiticeiro causa uma distorção no espaço-tempo que remete à raios enegrecidos. Este evento raro é conhecido como Fulgor Negro.
+Para atingir um Fulgor Negro primeiro é necessário acertar um crítico no d20. Após o crítico um segundo d20 é rolado, e em um 20 natural o Fulgor Negro é ativado. Isto resulta no ataque dando **3x o Dano Máximo** e ultrapassando resistências, mas não imunidades.
