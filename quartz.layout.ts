@@ -22,8 +22,8 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
+    Component.MobileOnly(Component.TableOfContents())
   ],
   left: [
     Component.PageTitle(),
@@ -36,15 +36,15 @@ export const defaultContentPageLayout: PageLayout = {
         },
         { Component: Component.BackToTop() },
         { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
+        { Component: Component.DesktopOnly(Component.ReaderMode()) },
       ],
     }),
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
+    Component.DesktopOnly(Component.Graph()),
   ],
 }
 

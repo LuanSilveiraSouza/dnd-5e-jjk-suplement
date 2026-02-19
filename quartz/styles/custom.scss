@@ -30,3 +30,16 @@ div.center {
         display: none;
     }  
 }
+
+ul.toc-content.overflow,
+ol.toc-content.overflow {
+    @media all and ($mobile) {
+        overflow-y: unset;       
+    }
+}
+
+ul.toc-content.collapsed {
+    @media all and ($mobile) {
+        display: none;       
+    }
+}
