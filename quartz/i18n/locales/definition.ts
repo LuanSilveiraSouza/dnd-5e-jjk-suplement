@@ -32,6 +32,9 @@ export interface Translation {
       lightMode: string
       darkMode: string
     }
+    backToTop: {
+      title: string
+    }
     readerMode: {
       title: string
     }

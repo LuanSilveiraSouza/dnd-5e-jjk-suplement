@@ -101,16 +101,17 @@ Sua Energia Amaldiçoada adquire uma característica própria. Escolha um tipo d
 O traço de sua Energia Amaldiçoada evolui, ganhando um efeito especial a depender do tipo de dano que pode ser ativado por 1 ponto de EA. O efeito não é acumulativo e dura uma quantidade de turnos igual ao seu bônus de proficiência.
 
 - Ácido: Salvaguarda de CON, reduz CA em 1
+- Alma: Salvaguarda de CAR, desvantagem em testes e salvaguardas de SAB
 - Contundente: Ignora resistência
 - Congelante, Salvaguarda de CON, reduz movimento pela metade
-- Fogo: Ataques subsequentes dão 3 de dano de fogo extra
+- Fogo: O próximo ataque de dano de fogo dá 1d4 de dano de fogo extra
 - Energético: Salvaguarda de FOR, empurra o alvo em 3m
 - Elétrico: Salvaguarda de CON, desativa reações
-- Necrótico: Salvaguarda de CON, desvantagem em salvaguardas de FOR
+- Necrótico: Salvaguarda de CON, desvantagem em testes e salvaguardas de FOR
 - Perfurante: Ignora resistência
-- Venenoso: Salvaguarda de CON, envenenado
-- Psíquico: Salvaguarda de SAB, amedrontado
-- Radiante: Salvaguarda de CON, cego
+- Venenoso: Salvaguarda de CON, desvantagem em ataques corpo a corpo 
+- Psíquico: Salvaguarda de SAB, ações bônus custam 1 ação
+- Radiante: Salvaguarda de CON, desvantagem em ataques de distância acima de 1,5m
 - Cortante: Ignora resistência
 - Trovejante: Salvaguarda de DEX, caído
 # Fortalecimento
@@ -121,7 +122,7 @@ Rolagens de ataque e de dano com armas que você é proficiente recebem +1. Caso
 ## Corte de Energia Amaldiçoada
 **Pré-requisitos**: Arma Melhorada.
 
-Como uma ação ao estar com uma arma que você é proficiente equipada e que dê dano cortante, você pode gastar 5 pontos de EA para liberar um potente corte fortalecido. Todas as criaturas em um cone de 4,5m ou em uma linha reta de 9m fazem salvaguardas de Destreza de DC 8 + Bônus de Proficiência + Atributo de Conjuração. Na falha, eles recebem o dano da arma + uma quantia de dados de dano da arma equivalente ao seu bônus de proficiência de dano necrótico. O sucesso garante metade do dano total.
+Como uma ação ao estar com uma arma que você é proficiente equipada e que dê dano cortante, você pode gastar 5 pontos de EA para liberar um potente corte fortalecido. Todas as criaturas em um cone de 4,5m ou em uma linha reta de 9m fazem salvaguardas de Destreza de DC 8 + Bônus de Proficiência + Atributo de Conjuração. Na falha, eles recebem o dano da arma + uma quantia de dados de dano da arma equivalente ao seu bônus de proficiência de dano energético. O sucesso garante metade do dano total.
 ## Infusão Simples
 **Pré-requisitos**: -.
 
@@ -163,7 +164,7 @@ Você é um ser especial e sua manipulação de Energia Amaldiçoada está entre
 ## Abençoado pelo Fulgor Negro
 **Pré-requisitos**: -.
 
-O Fulgor Negro te abençoou. Ao acertar um crítico seu d20 de Fulgor Negro desce para 18-20.
+O Fulgor Negro te abençoou. Ao acertar um crítico o alcance de seu d20 de Fulgor Negro desce para 18-20.
 # Combate
 
 ## Impacto Amaldiçoado
@@ -195,12 +196,12 @@ Você pode reforçar seu corpo com EA. Como uma reação, você escolhe uma quan
 ## Barragem de Golpes
 **Pré-requisitos**: -.
 
-Você pode gastar 1 ponto de EA para realizar 1 ataque desarmado como ação bônus.
+Você pode gastar 1 ponto de EA para realizar 2 ataques desarmados ou 1 ataque de arma como ação bônus.
 ## Defesa Paciente
 **Pré-requisitos**: -.
 
-Você pode gastar 1 ponto de EA para usar Esquiva como ação bônus.
-## Passo de Névoa
+Você pode Desengajar como uma ação bônus. Gastar 1 ponto de EA faz você Desengajar + Esquivar como ação bônus.
+## Passo de Vento
 **Pré-requisitos**: -.
 
-Você pode gastar 1 ponto de EA para desengajar ou disparar como uma ação bônus, e sua distância de salto dobra até o fim de seu turno.
+Você pode Disparar como uma ação bônus. Gastar 1 ponto de EA faz você Desengajar + Disparar como ação bônus.

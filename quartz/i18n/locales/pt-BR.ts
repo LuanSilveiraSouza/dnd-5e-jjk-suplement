@@ -29,6 +29,9 @@ export default {
       lightMode: "Tema claro",
       darkMode: "Tema escuro",
     },
+    backToTop: {
+      title: "Voltar ao Topo"
+    },
     readerMode: {
       title: "Modo leitor",
     },

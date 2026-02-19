@@ -23,11 +23,6 @@ body {
   color: var(--darkgray);
 }
 
-th, h1, h2, h3, h4, h5, h6, .folder-title, .article-title {
-  letter-spacing: 0.1em;
-  word-spacing: 0.2em;
-}
-
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;
@@ -239,13 +234,14 @@ a {
       flex-direction: column;
       @media all and ($mobile) {
         gap: 0;
-        align-items: center;
+        align-items: end;
         position: initial;
         display: flex;
         height: unset;
         flex-direction: row;
         padding: 0;
         padding-top: 2rem;
+        padding-right: 1em;
       }
     }
 

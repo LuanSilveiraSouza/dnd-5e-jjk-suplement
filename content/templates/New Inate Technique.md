@@ -1,5 +1,5 @@
 
-**Atributo de Conjuração**: Escolha entre Carisma e (Intelência/Sabedoria)
+**Atributo de Conjuração**: Escolha entre Carisma e (Inteligência/Sabedoria)
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 # Nível 1
 ## Técnica Básica

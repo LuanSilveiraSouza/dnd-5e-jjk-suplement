@@ -1,3 +1,32 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
+p {
+  text-align: justify;
+}
+
+th, h1, h2, h3, h4, h5, h6, .folder-title, .article-title {
+  letter-spacing: 0.1em;
+  word-spacing: 0.2em;
+}
+
+div.center {
+    @media all and ($mobile) {
+        p, li {
+            font-size: 0.8em;
+        }
+    }
+
+    @media (max-width: 450px) {
+        p, li {
+            padding-right: 10px;
+        }
+    }
+}
+
+.page-title {
+      @media (max-width: 500px) {
+        display: none;
+    }  
+}
