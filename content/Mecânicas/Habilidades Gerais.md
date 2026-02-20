@@ -36,7 +36,7 @@ Como todos, você possui Energia Amaldiçoada, porém faz parte do seleto grupo 
 
 Além de manipular a Energia Amaldiçoada você nasceu com uma técnica gravada em seu ser, sua Técnica Inata. Você pode escolher uma técnica inata da lista de exemplos ou trazer sua própria, ao qual deve ser acordada com o Mestre. Ao receber o "Talento de Energia Amaldiçoada" você pode escolher qualquer talento que cumpra os pré-requisitos da lista de Talentos de sua Técnica Inata.
 ### Restrição Celestial
-**Pré-requisitos**: -.
+**Pré-requisitos**: Subespécie Restrição Celestial.
 
 A Restrição Celestial faz de você o mais raro dos humanos. O universo o escolheu para ser o ponto fora da curva, um voto vinculativo de nascença, uma balança desequilibrada: 
 - Você possui nenhum traço de Energia Amaldiçoada em troca de um corpo físico aprimorado e super humano. Você não tem acesso aos Talentos de Energia Amaldiçoada, Energia Amaldiçoada Reversa e Barreiras, e muito menos possui uma Técnica Inata. Em vez disso, você segue seu próprio caminho, o da Restrição Celestial Física.
@@ -53,6 +53,11 @@ Enquanto não estiver usando armaduras ou escudos seu CA será de 10 + Destreza 
 **Pré-requisitos**: -.
 
 Enquanto não estiver usando armaduras ou escudos seus ataques desarmados causam 1d4 de dano contundente. Você pode utilizar seu modificador de Destreza no lugar do de Força caso queira. Você também pode fazer um ataque desarmado como uma ação bônus.
+
+## Recuperação de Energia Amaldiçoada
+**Pré-requisitos**: Energia Amaldiçoada.
+
+Você consegue recuperar sua EA no meio do combate. Com uma ação bônus, ganhe 1 ponto de EA que deve ser retirado de suas reservas de EA.
 # Mindset
 **Pré-requisitos**: Grau 2 ou superior.
 

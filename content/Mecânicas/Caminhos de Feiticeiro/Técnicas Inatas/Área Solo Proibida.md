@@ -1,8 +1,9 @@
+
 **Atributo de Conjuração**: Escolha entre Carisma e Sabedoria
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 # Nível 1
 ## Zona Proibida
-Por meio de cânticos e danças, você extrai o potencial máximo daqueles ao seu redor. Como uma ação completa (Ação + Ação Bônus + Movimento) por 1 Energia Amaldiçoada (EA), você cria uma esfera de 9 metros (30 pés) que dura até o início de seu próximo turno. Todos os aliados dentro da esfera recebem vantagem em todas as suas jogadas, mas qualquer ataque contra você também recebe vantagem. 
+Por meio de cânticos e danças, você extrai o potencial máximo daqueles ao seu redor. Como uma ação completa (Ação + Ação Bônus + Movimento) por 1 Energia Amaldiçoada (EA), você cria uma esfera de 6 metros (20 pés) que dura até o início de seu próximo turno. Todos os aliados dentro da esfera recebem vantagem em todas as suas jogadas, mas qualquer ataque contra você também recebe vantagem. 
 # Nível 3
 ## Bênção
 Você passa a ter maior controle sobre sua Zona, podendo focá-la em uma única criatura. Por 3 EA, escolha uma criatura; ela ficará sob os efeitos da sua Zona por até 1 minuto.

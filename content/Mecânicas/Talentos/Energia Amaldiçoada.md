@@ -1,10 +1,6 @@
 
 # Regeneração
 
-## Recuperação de Energia Amaldiçoada
-**Pré-requisitos**: -
-
-Você consegue recuperar sua EA no meio do combate. Com uma ação bônus, ganhe 1 ponto de EA que deve ser retirado de suas reservas de EA.
 ## Regeneração de Energia Amaldiçoada
 **Pré-requisitos**: Grau 2 ou superior; Recuperação de Energia Amaldiçoada.
 

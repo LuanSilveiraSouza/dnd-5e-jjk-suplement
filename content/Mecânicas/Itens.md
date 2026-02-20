@@ -37,7 +37,7 @@ Sua origem concede proficiência em certas armas, refletindo tanto sua criação
 A tabela de Armas mostra as armas mais comuns usadas no mundo de Jujutsu Kaisen, seu preço e peso, o dano que causam ao atingir o alvo e quaisquer propriedades especiais que possuam. Cada arma é classificada como corpo a corpo ou à distância. Uma arma corpo a corpo é usada para atacar um alvo a até 1,5 metro de você, enquanto uma arma à distância é usada para atacar um alvo a uma certa distância.
 
 ## Proficiência em Armas
-Sua raça, classe e talentos lhe concedem a capacidade de obter proficiência em certos tipos de armas. Esses tipos de armas são categorizados como simples , marciais e armas de fogo.
+Sua origem e talentos lhe concedem a capacidade de obter proficiência em certos tipos de armas. Esses tipos de armas são categorizados como simples , marciais e armas de fogo.
 Quando você possui proficiência em um tipo de arma, você pode adicionar seu bônus de proficiência à jogada de ataque. Quando você não possui proficiência em um tipo de arma, você não adiciona seu bônus de proficiência à rolagem.
 
 ## Propriedades de Armas

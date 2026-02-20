@@ -8,8 +8,22 @@ Humanos compõem a grande massa de seres do mundo de Jujutsu Kaisen.
 - **Dado de Vida**: 1d8
 - **HP no nível 1**: 8 + modificador de Constituição
 - **HP em níveis subsequentes**: 1d8 + modificador de Constituição por nível
-- **Restrição Celestial**: Humanos são os únicos capazes de nascer com uma Restrição Celestial.
+- **Restrição Celestial**: Humanos são os únicos capazes de escolher os Caminhos de Feiticeiro "Restrição Celestial Física" e "Restrição Celestial Amaldiçoada".
 - **Potencial Grandioso**: Escolha 1 Talento qualquer extra no nível 1. Escolha também uma perícia que não é proficiente; você se torna proficiente nela.
+## Subespécie: Feiticeiro
+Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Feiticeiro compreende as Etnias da Ásia e suas ascendências.
+- **Pronto para o Combate**: Ao rolar sua Iniciativa e o valor for igual ou inferior ou seu bônus de proficiência (sem contar bônus) você pode optar por rolar novamente, e deve manter o novo valor.
+- **Duro na Queda**: Você não é afetado por qualquer efeito que cause desvantagem de salvaguardas de Força.
+## Subespécie: Xamã
+Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Xamã compreende as Etnias das África, Povos Originários e suas ascendências.
+- **Mente Treinada**: Você tem vantagem ao fazer salvaguardas para evitar a condição Enfeitiçado ou Amedrontado.
+- **Mente Fortalecida**: Você é resistente a dano psíquico.
+## Subespécie: Médium
+Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Médium compreende as Etnias Americanas, Europeias e suas ascendências.
+- **Visão no Escuro**: Você tem Visão no Escuro de alcance de 18m.
+- **Sentidos Aguçados**: Escolha entre Intuição, Percepção ou Sobrevivência. Você ganha proficiência na perícia escolhida.
+## Subespécie: Restrição Celestial
+A Restrição Celestial faz de você o mais raro dos humanos. O universo o escolheu para ser o ponto fora da curva, um voto vinculativo de nascença, uma balança desequilibrada. Você é obrigado a escolher entre a Restrição Celestial Física e ter um físico perfeito e superhumano mas nenhum pingo de Energia Amaldiçoada, ou a Restrição Celestial Amaldiçoada para possuir quantidades astronômicas de Energia Amaldiçoada mas um corpo frágil e quebradiço.
 # Reencarnado
 Reencarnados roubam e possuem o corpo de algum humano mediante o consumo de um objeto de reencarnação. Os reencarnados ficam em estado de hibernação enquanto estão no estado de objeto, que geralmente é alguma parte de seu corpo. Ao possuir o corpo ele guarda todas suas memórias e as memórias da pessoa original. Geralmente possuem um objetivo bem definido e lutam com todas suas forças por ele.
 - Idade: Expectativa de vida de acordo com o corpo possuído;
@@ -17,13 +31,14 @@ Reencarnados roubam e possuem o corpo de algum humano mediante o consumo de um o
 - Velocidade: O deslocamento base é 9 metros;
 - Alinhamento: Reencarnados tendem a serem pessoas caóticas, não se importando em destruírem outros em benefício próprio;
 - **Invasor**: O primeiro ataque feito a você enquanto estiver Encantado, Amedrontado ou Atordoado é automaticamente um crítico. Este afeito não acumula caso você esteja sob mais de um efeito, e ele é resetado quando você perde todos os efeitos.
-## Subraça: Receptáculo Amaldiçoado
+## Subespécie: Receptáculo Amaldiçoado
 - **Dado de Vida**: 1d8
 - **HP no nível 1**: 8 + modificador de Constituição
 - **HP em níveis subsequentes**: 1d8 + modificador de Constituição por nível
+- **Disputa por Poder**: As almas do receptáculo e do reencarnado estão em eterno conflito. Você é vulnerável a dano de alma.
 - **Este corpo é meu**: Ganha vantagem contra efeitos que alteram a forma corporal.
 - **Valor à Vida**: Uma vez por descanso longo consegue evitar chegar a 0 HP, ficando com 1 HP em vez disso.
-## Subraça: Pintura da Morte
+## Subespécie: Pintura da Morte
 - **Dado de Vida**: 1d10
 - **HP no nível 1**: 10 + modificador de Constituição
 - **HP em níveis subsequentes**: 1d10 + modificador de Constituição por nível
@@ -42,10 +57,10 @@ Corpos Amaldiçoados são existências totalmente artificiais criadas por feitic
 - **HP no nível 1**: 10 + modificador de Constituição
 - **HP em níveis subsequentes**: 1d10 + modificador de Constituição por nível
 - **Não natural**: Não precisa respirar, comer, beber e dormir. Em vez disso é necessário materiais para se reparar e consertar durante descansos.
-## Subraça: Corpo Suave
+## Subespécie: Corpo Suave
 - **Aparência Personalizada**: Ganha proficiência em Intimidação, Persuasão ou Atuação;
 - **Surpresa!**: Uma vez por descanso longo, caso passe em um teste de Atuação pode se disfarçar naquilo que você lembra. Sua súbita demonstração de senciência pode paralizar um inimigo que falhe em um salvaguarda de Sabedoria de DC 10 + Proficiência + Carisma.
-## Subraça: Corpo Rígido
+## Subespécie: Corpo Rígido
 - **Armadura Integrada**: +1 de CA.
 # Espírito Amaldiçoado
 Espíritos Amaldiçoados são seres compostos totalmente de energia amaldiçoada. Surgem a partir do acúmulo de sentimentos negativos proveniente dos humanos, os atacando de volta como forças de destruição da natureza.
@@ -60,13 +75,24 @@ Espíritos Amaldiçoados são seres compostos totalmente de energia amaldiçoada
 - **Força Invisível**: Como é feito totalmente de energia amaldiçoada não-feiticeiros não conseguem interagir nem ver você. Caso um não-feiticeiro esteja no limiar da morte (metade ou menos de HP) ele começa a o enxergar;
 - **Corpo de Energia Amaldiçoada**: Você é vulnerável a dano radiante e não pode adquirir resistência nem imunidade contra. Você pode devorar qualquer corpo para recuperar energia amaldiçoada igual ao nível de feiticeiro do alvo (mínimo de 1) a não ser que o alvo seja portador de **Restrição Celestial**.
 - **Existência Deplorável**: Você tem desvantagem em testes de perícia de Carisma exceto Intimidação.
-## Subraça: Espírito Vingativo
+## Subespécie: Espírito Vingativo
 - **Rancor**: Escolha um tipo de criatura ou um indivíduo em específico. Caso escolha um tipo de criatura, some +1 em todas as rolagens de acerto e ataque neste tipo de criatura. Caso escolha um indivíduo, some +2 em todas as rolagens de acerto e ataque contra ele;
 - **Vingança**: Ao receber dano escolha fazer seu próximo ataque contra quem lhe causou dano com vantagem. Você pode usar esta habilidade igual ao seu bônus de proficiência por descanso longo.
-## Subraça: Espírito Imaginário
+## Subespécie: Espírito Imaginário
 - **Medo Real**: Ao fazer qualquer teste envolvendo sua origem, faça com vantagem;
 - **Nome Conhecido**: Sempre que você rolar iniciativa, você pode optar por forçar todas as criaturas que podem o ver a fazer um salvaguarda de Sabedoria (DC = 8 + Carisma + Proficiência). A falha causa a condição de amedrontado por 1 minuto, e o afetado por rerrolar a salvaguarda no início de seus turnos, com o sucesso os tornando imunes ao efeito por 24 horas. Você pode utilizar esta habilidade igual ao seu modificador de Carisma (mínimo de 1) por descanso longo.
-## Subraça: Espírito de Doença
+## Subespécie: Espírito de Doença
 - **Nascido da Praga**: Imune a doenças, a dano venenoso e a condição envenenado;
 - **Impacto de Doença**: Ataques desarmados tem 1d4 de dano venenoso adicionados, se tornando 1d6 no nível 5. Alvos da condição envenenado rolam a salvaguarda com desvantagem;
 - **Doença Viva**: A partir do nível 5, toda vez que tocar em algum indivíduo este deverá passar em um salvaguarda de Constituição com DC 8 + Constituição + Proficiência ou então contrairá sua doença. O sucesso o torna imune a sua doença. Este efeito ocorre apenas uma vez por turno.
+# Simuriano
+Simurianos são seres extraterrestres provenientes de um planeta fora do Sistema Solar. Biologicamente são muito semelhantes aos humanos, com a exceção de seu Terceiro Olho no meio da testa. Simurianos são raríssimos na Terra, mas aprendem e se adaptam rapidamente, apesar de seu planeta natal não ter uma cultura de Energia Amaldiçoada tão avançada quanto a terra.
+- Idade: Simurianos atingem a idade adulta com 20 anos e vivem até 150 anos;
+- Tamanho: Simurianos possuem o tamanho médio, tendo normalmente de 1,5m até 2m;
+- Velocidade: O deslocamento base é 9 metros;
+- Alinhamento: Simurianos tendem a serem diplomáticos e organizados, evitando o caos;
+- **Dado de Vida**: 1d8
+- **HP no nível 1**: 8 + modificador de Constituição
+- **HP em níveis subsequentes**: 1d8 + modificador de Constituição por nível
+- **Potencial Grandioso**: Escolha 1 perícia que não é proficiente; você se torna especialista nela.
+- **Terceiro Olho**: Você é imune a condição de Cego. Uma vez por Descanso Longo, por uma ação, você pode abrir seu terceiro olho e focar em um alvo. O alvo faz um salvaguarda de Constituição de DC **20 - seu Bônus de Proficiência**. A falha resulta no alvo ficando inconsciente por 1 minuto.

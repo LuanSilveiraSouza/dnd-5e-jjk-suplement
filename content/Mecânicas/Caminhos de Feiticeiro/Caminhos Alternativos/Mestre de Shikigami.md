@@ -1,3 +1,4 @@
+
 **Atributo de Conjuração**: Escolha entre Carisma, Inteligência ou Sabedoria
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
