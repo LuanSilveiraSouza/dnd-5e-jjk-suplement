@@ -15,6 +15,4 @@ Este módulo propõe adaptar as principais mecânicas da obra Jujutsu Kaisen par
 
 Ainda que sejam bem completos e traduzem bem a essência da obra eles introduzem as novas mecânicas da forma mais alinhada possível ao método do DnD. O intuito deste módulo é simplificar alguns aspectos e utilizar apenas as mecânicas essenciais do DnD, com alguns toques diferenciados para tornar a experiência mais única.
 
-## Setting
 
-Após vários séculos de caos e desordem o cultivo da energia amaldiçoada foi maturado ao ponto de chegarmos em uma pseudo-estabilidade. No século XXI o mundo mundano avançou ao período pós-contemporâneo, mas ainda não teve consciência completa da existência de energia amaldiçoada e de maldições. Com a invenção da Internet mais e mais sentimentos negativos foram sendo desenvolvidos, mais lendas de aparições, fantasmas e outros fenômenos sobrenaturais sem explicação foram inundando o cotidiano digital de todos. Maldições estão espalhadas por todo o mundo, e portanto feiticeiros - humanos que consegue interagir com energia amaldiçoada - continuam a enfrentá-las afim de manter o mundo funcionando.

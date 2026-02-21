@@ -98,19 +98,19 @@ Manoplas seguem o formato das mãos como luvas. Quaisquer características que e
 | Arma               | Custo  | Custo da Munição | Dano | Tipo de Dano | Propriedades                                 |
 | ------------------ | ------ | ---------------- | ---- | ------------ | -------------------------------------------- |
 | **Armas Simples**  |        |                  |      |              |                                              |
-| Arco Curto         | $2,500 | $100 (10)        | 1d6  | Perfurante   | Munição (24/96), Recarga, Duas mãos          |
-| Besta Leve         | $2,500 | $50 (10)         | 1d8  | Perfurante   | Munição (24/96), Recarga, Duas mãos          |
+| Arco Curto         | $2,500 | $100 (10)        | 1d6  | Perfurante   | Munição (30/120), Recarga, Duas mãos         |
+| Besta Leve         | $2,500 | $50 (10)         | 1d8  | Perfurante   | Munição (30/120), Recarga, Duas mãos         |
 | **Armas Marciais** |        |                  |      |              |                                              |
 | Arco Longo         | $5,000 | $100 (10)        | 1d8  | Perfurante   | Munição (45/180), Recarga, Duas mãos, Pesada |
-| Besta de Mão       | $5,000 | $50 (10)         | 1d6  | Perfurante   | Munição (9/36), Recarga, Leve                |
+| Besta de Mão       | $5,000 | $50 (10)         | 1d6  | Perfurante   | Munição (15/45), Recarga, Leve               |
 | Besta Pesada       | $5,000 | $100 (10)        | 1d10 | Perfurante   | Munição (30/120), Recarga, Duas mãos, Pesada |
 ## Armas de Fogo
-| Arma     | Custo   | Custo da Munição | Dano | Tipo de Dano | Propriedades                                               |     |
-| -------- | ------- | ---------------- | ---- | ------------ | ---------------------------------------------------------- | --- |
-| Pistola  | $3,000  | $250 (15)        | 1d8  | Perfurante   | Leve, Acuidade, Munição (24/96), Recarga (15)              |     |
-| Revólver | $3,000  | $250 (6)         | 1d10 | Perfurante   | Acuidade, Munição (30/120), Recarga (6)                    |     |
-| Rifle    | $10,000 | $500 (8)         | 1d12 | Perfurante   | Acuidade, Munição (96/300), Recarga (8), Duas mãos, Pesada |     |
-| Escopeta | $10,000 | $500 (4)         | 2d6  | Perfurante   | Munição (6/15), Recarga (2), Duas mãos, Pesada             |     |
+| Arma     | Custo   | Custo da Munição | Dano | Tipo de Dano | Propriedades                                                |     |
+| -------- | ------- | ---------------- | ---- | ------------ | ----------------------------------------------------------- | --- |
+| Pistola  | $3,000  | $250 (15)        | 1d8  | Perfurante   | Leve, Acuidade, Munição (20/300), Recarga (15)              |     |
+| Revólver | $3,000  | $250 (6)         | 1d10 | Perfurante   | Acuidade, Munição (30/300), Recarga (6)                     |     |
+| Rifle    | $10,000 | $500 (8)         | 1d12 | Perfurante   | Acuidade, Munição (120/500), Recarga (8), Duas mãos, Pesada |     |
+| Escopeta | $10,000 | $500 (4)         | 2d6  | Perfurante   | Munição (6/15), Recarga (2), Duas mãos, Pesada              |     |
 
 # Itens 
 
