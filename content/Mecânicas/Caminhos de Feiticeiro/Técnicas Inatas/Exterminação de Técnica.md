@@ -30,6 +30,8 @@ Você também pode usar essa técnica para destruir barreiras e objetos amaldiç
 Faça uma jogada de ataque de Energia Amaldiçoada contra a CD de magia ou CD de Energia Amaldiçoada do alvo. Em caso de acerto, você destrói o alvo, removendo quaisquer maldições que ele estivesse causando ou libertando criaturas aprisionadas dentro dele.
 
 **No Nível 13**, se você usar essa técnica com Potência Máxima, o alcance do feixe aumenta para um círculo de 9 metros (30 pés). Além disso, ele ignora características como Evasão que reduzam dano.
+
+![[Escada-Jaco.png|Escada de Jacó]]
 # Nível 13
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Nível 18

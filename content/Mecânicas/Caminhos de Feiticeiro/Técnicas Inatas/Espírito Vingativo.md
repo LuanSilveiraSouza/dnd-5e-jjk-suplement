@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Em algum momento de sua linhagem ou família, alguém que você amava morreu. Incapaz de aceitar essa perda, você inconscientemente amaldiçoou essa pessoa, transformando-a em um Espírito Vingativo de grande poder que além de proteger você em combate, também permite **copiar Técnicas Inatas** alheias.
+
+![[Rika.png|Rika, Espírito Vingativo]]
 # Nível 1
 
 ## Manifestação Parcial

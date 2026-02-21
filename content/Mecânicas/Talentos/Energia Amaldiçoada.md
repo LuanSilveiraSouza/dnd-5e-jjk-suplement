@@ -8,7 +8,7 @@ Você amplia sua capacidade de recuperar EA no meio do combate. Com uma ação b
 ## Otimização de Energia Amaldiçoada
 **Pré-requisitos**: Semi grau 1 ou superior; Recuperação de Energia Amaldiçoada.
 
-Ao recuperar EA a partir de suas reservas você pode optar por usar como uma ação para recuperar um valor extra de acordo com seu bônus de proficiência. Este valor extra não é subtraído do valor da reserva:
+Ao recuperar EA a partir de suas reservas com uma ação bônus, você pode recuperar um valor extra de acordo com seu bônus de proficiência. Este valor extra não é subtraído do valor da reserva:
 
 | Bônus de Proficiência | Dado |
 | --------------------- | ---- |

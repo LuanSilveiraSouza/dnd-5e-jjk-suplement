@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Sua Técnica é Inerente ao domínio, ao qual compreende um auditório judicial. Um Shikigami especial atua como Juiz, e você troca a violência do combate por argumentos, afim de punir seu oponente por algum crime que este cometeu.
+
+![[Sentença-Mortal.png]]
 # Nível 1
 ## Martelo do Juiz
 Uma vez por descanso longo, você pode invocar gratuitamente um martelo mágico. Caso contrário, é necessário gastar 1 Energia Amaldiçoada para convocá-lo à sua mão.

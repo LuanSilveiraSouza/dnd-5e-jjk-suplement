@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Inspirado em Técnicas de Vodu, você utiliza bonecos de palha como catalisadores para causar impactos diretamente na alma de seus oponentes.
+
+![[Boneco-Palha.png]]
 # Nível 1
 ## Projétil de Prego
 Devido à sua origem você começa com 1 Martelo, 24 pregos e 1 boneco de palha. Como uma ação, por 1 Energia Amaldiçoada, você pode manter 2 pregos suspensos no ar com sua energia amaldiçoada e então atingi-los com seu martelo. Faça duas jogadas de ataque à distância com energia amaldiçoada, com alcance de 20/60 pés. Em caso de acerto, cada prego causa 1d6 de dano perfurante + 1d4 de dano de alma. Você também pode gastar 4 pontos adicionais de Energia Amaldiçoada para realizar 2 ataques adicionais dessa forma.

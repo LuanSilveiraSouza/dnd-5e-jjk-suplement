@@ -22,6 +22,8 @@ Durante um descanso, você pode modificar o seguinte:
 Dar ordens simples (como atacar) exige ação bônus; ordens complexas (como defender uma área) exigem ação.
 
 Você pode armazenar suas criaturas transfiguradas dentro do próprio corpo, liberando qualquer quantidade delas como ação bônus.
+
+![[Transfiguraçao.png]]
 # Nível 3
 ## Alterações
 Você pode alterar a si mesmo ou um aliado.
@@ -58,6 +60,8 @@ Como ação por 5 Energias Amaldiçoadas, você pode fundir 2 ou mais Criaturas 
 **Repulsão Corporal.** Dispara uma barragem de criaturas a alta velocidade. Faça um ataque de Energia Amaldiçoada com alcance 18/36 metros (60/120 pés), causando 5d8 de dano necrótico. Cada criatura adicional adiciona +1d8 ao dano.
 
 **Isômero Polimórfico da Alma.** Você cria um Isômero Polimórfico da Alma. Pode gastar 5 Energias Amaldiçoadas adicionais para adicionar mais uma criatura à fusão (mínimo 2). Cada criatura conta como uma alma.
+
+![[Isomero.png]]
 ![[Isômero-Statblock.png]]
 # Nível 13
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
@@ -84,9 +88,13 @@ Como ação, por 10 Energias Amaldiçoadas, você molda corpo e alma em uma form
 Sua CA não pode ser inferior a 25. Você ganha Lâminas de Cotovelo (armas simples corpo a corpo nas quais é proficiente) que causam 1d12 + Bônus de Proficiência de dano perfurante.
 
 Ao atacar com as Lâminas de Cotovelo, pode gastar 1 Energia Amaldiçoada para ganhar vantagem e aumentar o alcance para 4,5 metros (15 pés), projetando a lâmina até o alvo.
+
+![[Transfiguraçao-Maximum.png]]
 ## Expansão de Domínio: Autoencarnação da Perfeição
 **Pré-requisitos**: Grau Especial.
 
 Você domina sua técnica suprema. Cria uma dimensão repleta de partes do seu corpo, tornando a fuga da morte praticamente impossível.
 
 Na iniciativa 20, todas as criaturas dentro do domínio sofrem o dano do seu toque de Transfiguração rolado duas vezes.
+
+![[Autoencarnaçao-Perfeiçao.png]]

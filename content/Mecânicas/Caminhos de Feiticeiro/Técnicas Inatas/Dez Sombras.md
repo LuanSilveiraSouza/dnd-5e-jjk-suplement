@@ -89,27 +89,37 @@ Você pode gastar Energia Amaldiçoada dessa forma um número de vezes por turno
 Você não pode criar cópias de Mahoraga com essa característica.
 Além disso, seus Shikigamis não custam Energia Amaldiçoada enquanto estiverem dentro do domínio.
 
+![[Jardim-Sombrio-Quimerico.png|Jardim Sombrio Quimérico]]
 # Fichas de Criatura dos Shikigamis
 
 ## Cão Divino
+![[Cao-Divino.png|Cães Divinos]]
 ![[Cão-Divino-Statblock.png]]
-## Cão Divino Totalidade
+## Cão Divino: Totalidade
+![[Cao-Divino-Totalidade.png|Cão Divino: Totalidade]]
 ![[Cão-Divino-Totalidade-Statblock.png]]
 ## Gama
+![[Gama.png|Gama]]
 ![[Gama-Statblock.png]]
 ## Nue
+![[Nue.png|Nue]]
 ![[Nue-Statblock.png]]
 ## Coelhos de Escape
+![[Coelhos-Escape.png|Coelhos de Escape]]
 ![[Coelhos-Escape-Statblock.png]]
 ## Grande Serpente
+![[Grande-Serpente.png|Grande Serpente]]
 ![[Grande-Serpente-Statblock.png]]
 ## Cervo Circular
 ![[Cervo-Redondo-Statblock.png]]
 ## Tigre Funeral
 ![[Tigre-Funeral-Statblock.png]]
 ## Touro Perfurante
+![[Touro-Perfurante.png|Touro Perfurante]]
 ![[Touro-Perfurante-Statblock.png]]
 ## Max Elefante
+![[Max-Elefante.png|Max Elefante]]
 ![[Max-Elefante-Statblock.png]]
 ## Mahoraga
+![[Mahoraga.png|Mahoraga]]
 ![[Mahoraga-Statblock.png]]

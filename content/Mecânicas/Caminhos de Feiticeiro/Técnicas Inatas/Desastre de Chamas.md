@@ -62,7 +62,7 @@ Enquanto estiver dentro dela, todas as criaturas, exceto você, devem realizar u
 Em caso de falha, sofrem 10d8 de dano de fogo.  
 Em caso de sucesso, sofrem metade do dano.
 
-
+![[Caixao-Montanha-Ferro.png|Caixão da Montanha de Ferro]]
 
 
 

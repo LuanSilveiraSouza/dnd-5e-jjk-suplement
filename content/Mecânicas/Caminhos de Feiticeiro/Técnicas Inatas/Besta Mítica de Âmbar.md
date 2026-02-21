@@ -26,6 +26,7 @@ Como ação, ao custo de **20 Energias Amaldiçoadas**, seu corpo começa a ser 
 Essa forma só pode ser usada **uma vez por semana**, pois após seu término seu corpo colapsa.
 Você pode desativar a forma como ação bônus, mas quanto mais tempo permanecer ativo, maior o efeito colateral. Ao atingir **5 minutos**, você morre instantaneamente.
 
+![[Besta-Mitica-Ambar.png|Besta Mítica: Âmbar]]
 ### Progressão por Tempo Ativo
 
 #### 0 Minutos

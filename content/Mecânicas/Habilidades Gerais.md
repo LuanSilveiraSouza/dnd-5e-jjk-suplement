@@ -57,7 +57,7 @@ Enquanto não estiver usando armaduras ou escudos seus ataques desarmados causam
 ## Recuperação de Energia Amaldiçoada
 **Pré-requisitos**: Energia Amaldiçoada.
 
-Você consegue recuperar sua EA no meio do combate. Com uma ação bônus, ganhe 1 ponto de EA que deve ser retirado de suas reservas de EA.
+Você consegue recuperar sua EA no meio do combate. Com uma ação grátis, ganhe 1 ponto de EA que deve ser retirado de suas reservas de EA.
 # Mindset
 **Pré-requisitos**: Grau 2 ou superior.
 

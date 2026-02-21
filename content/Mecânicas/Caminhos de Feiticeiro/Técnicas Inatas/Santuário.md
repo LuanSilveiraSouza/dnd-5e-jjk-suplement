@@ -11,6 +11,8 @@ Faça uma jogada de ataque à distância com Energia Amaldiçoada contra o alvo.
 Quando você obtiver a característica de Ataque Extra, poderá substituir múltiplos ataques por Desmantelar, mas deverá gastar EA para cada ataque.
 
 Se o alvo não puder ver esse ataque, estar a até 1,5 metro (5 pés) de uma criatura hostil não impõe desvantagem na jogada de ataque.
+
+![[Desmantelar.png|Desmantelar]]
 # Nível 3
 ## Dilacerar
 Você aprende a dilacerar alvos vivos de uma só vez. Como uma ação, ao gastar até 10 EA, escolha um alvo a até 90 pés de você.
@@ -20,6 +22,8 @@ Faça uma jogada de ataque à distância com Energia Amaldiçoada. Em caso de ac
 Se usada uma segunda vez contra a mesma criatura, essa técnica ignora qualquer tipo de resistência, pois se adapta ao corpo do alvo.
 
 Estar em alcance corpo a corpo de uma criatura que não pode ver essa técnica não impõe desvantagem na jogada de ataque.
+
+![[Dilacerar.png|Dilacerar]]
 # Nível 7
 ## Chama Divina: Abrir
 Você pode entoar uma invocação para criar uma flecha de fogo. Como uma ação, você pode gastar uma quantidade de EA até o dobro do seu bônus de proficiência, escolhendo um ponto a até 45/120 pés de você.
@@ -27,6 +31,8 @@ Você pode entoar uma invocação para criar uma flecha de fogo. Como uma ação
 Cada criatura em um raio de X × 5 pés desse ponto deve realizar um teste de resistência de Destreza. Em caso de falha, sofre Xd12 de dano de fogo. Em caso de sucesso, sofre metade do dano.
 
 (Sempre que X for mencionado, refere-se à quantidade de EA gasta.)
+
+![[Chama-Divina.png]]
 # Nível 10
 ## Forma Perfeita
 Seu corpo se transforma para atingir o máximo desempenho. Seu atributo de Energia Amaldiçoada, Força e Constituição aumentam em +2, incluindo seus valores máximos.
@@ -56,9 +62,13 @@ Seu poder e suas táticas com seu novo corpo melhoraram. Após agarrar uma criat
 **Pré-requisitos**: Grau 1 ou Superior.
 
 Você ampliou o entendimento da sua técnica, cortando a área onde o alvo está em vez do próprio alvo. Seus ataques Dilacerar/Desmantelar ignoram todas as resistências, imunidades e obstáculos (bônus de CA, coberturas etc.).
+
+![[Cortador-Mundo.png|Cortador do Mundo]]
 ## Expansão de Domínio: Santuário Malevolente
 **Pré-requisitos**: Grau Especial.
 
 Você alcança o ápice da sua técnica inata, tornando-se capaz de expandir seu domínio. Na iniciativa 20, o domínio corta tudo com Dilacerar e Desmantelar, fazendo com que qualquer criatura na área de efeito sofra o dano de ambos, como se a quantidade máxima de Energia Amaldiçoada tivesse sido utilizada em cada um.
 
 Além disso, objetos dentro do domínio também sofrem esse dano na iniciativa 20.
+
+![[Santuario-Malevolente.png]]

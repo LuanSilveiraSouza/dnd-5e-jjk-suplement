@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Controle a atmosfera como se fosse um tecido ou vidro, redirecionando golpes e usando o ar distorcido como arma e armadura.
+
+![[Manipulaçao-Ceu.png]]
 # Nível 1
 ## Forma Celestial
 Sua técnica inata se manifesta, permitindo que você manipule o céu ao seu redor. Como reação a uma jogada de ataque, você pode gastar 1 Energia Amaldiçoada (EA) para adicionar +4 à sua CA ao distorcer o céu.
@@ -11,6 +13,8 @@ Se isso fizer com que um ataque à distância erre, você pode realizar uma joga
 Se isso fizer com que um ataque corpo a corpo com arma erre, o membro utilizado no ataque se torna inutilizável até o início do próximo turno da criatura.
 
 Se você tiver realizado a ação Esquivar, pode usar essa reação também para proteger aliados ao seu alcance.
+
+![[Forma-Celestial.png]]
 # Nível 3
 ## Armadura Celestial
 Você aprimora sua manipulação do espaço ao seu redor. Como ação bônus por 1 EA, pode cobrir parte do seu corpo com uma porção do céu, fazendo com que as partes cobertas pareçam invisíveis por 1 minuto.
@@ -32,6 +36,8 @@ Como ação por 8 EA, você força todas as criaturas em uma linha de 9 metros (
 Em caso de falha, sofrem uma quantidade de d10 igual ao seu Bônus de Proficiência como dano de força e ficam caídas. Em caso de sucesso, sofrem metade do dano e não ficam caídas.
 
 Se você estiver voando, as criaturas fazem o teste com desvantagem.
+
+![[Quebrador-Gelo-Celeste.png]]
 # Nível 13
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Nível 18

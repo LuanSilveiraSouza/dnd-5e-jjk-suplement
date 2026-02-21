@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Conjure um par de mãos gigantes para proteger a você e seu aliados. A Técnica pode parecer simples, mas seu potencial de controlar o ritmo do combate e manipular a movimentação de seus oponentes é o que a difere das outras.
+
+![[Pega-Coracao.png]]
 # Nível 1
 ## Mãos do Amor
 Como ação bônus ao gastar 1 Energia Amaldiçoada, você cria um par de mãos translúcidas. Essas mãos possuem alcance de 4,5 metros (15 pés) e cada uma conta como uma criatura Média.

@@ -21,7 +21,7 @@ Como uma ação, por X Energias Amaldiçoadas, você pode invocar um número de 
 | [River Serpent](https://5e.tools/bestiary/river-serpent-psa.html)             | 8 EA  |
 | [Killer Whale](https://5e.tools/bestiary/killer-whale-mm.html)                | 16 EA |
 | [Sperm Whale](https://5e.tools/bestiary/sperm-whale-idrotf.html)              | 24 EA |
-
+![[Horizonte-Skandha-Cativante.png|Horizonte do Skhanda Cativante]]
 # Nível 7
 ## Anel Defensivo de Água
 Você pode criar um anel de água que o protege contra ataques recebidos. Como uma ação, por 6 Energias Amaldiçoadas, você cria um anel de água ao seu redor, concedendo pontos de vida temporários iguais ao seu Bônus de Proficiência multiplicado por 15.

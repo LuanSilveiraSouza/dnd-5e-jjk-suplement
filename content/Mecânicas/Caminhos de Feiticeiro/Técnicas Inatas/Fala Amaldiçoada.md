@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Você nasceu com os olhos de serpente e o selo das presas do Clã Inumaki, podendo amaldiçoar outras pessoas apenas ao falar. No entanto, isso causa enorme desgaste às suas cordas vocais.
+
+![[Fala-Amaldiçoada.png|Fala Amaldiçoada]]
 # Nível 1
 ## Poder das Palavras
 Suas cordas vocais possuem uma quantidade de pontos de vida igual a 1/3 dos seus pontos de vida máximos (arredondado para cima). Você é incapaz de falar normalmente, exceto utilizando algum conceito irrelevante que escolher, como ingredientes de sushi.

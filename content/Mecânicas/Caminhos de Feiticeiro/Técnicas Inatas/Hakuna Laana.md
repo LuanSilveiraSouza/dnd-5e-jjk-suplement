@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Você se move em um ritmo ritualístico próprio, recebendo benefícios conforme a dança continua.
+
+![[Hakuna-Laana.png]]
 # Nível 1
 ## Ritmo
 Como uma ação bônus por 1 Energia Amaldiçoada (EA), você pode começar a sentir o ritmo da batalha. Os efeitos que você recebe dependem de quanto tempo a habilidade esteve ativa:

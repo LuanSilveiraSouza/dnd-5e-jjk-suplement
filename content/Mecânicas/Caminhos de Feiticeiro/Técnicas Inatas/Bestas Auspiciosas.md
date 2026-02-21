@@ -3,6 +3,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Ao cobrir o rosto, você pode se tornar um canal para o espírito das quatro bestas auspiciosas. Essas quatro bestas lhe concedem grandes habilidades ofensivas e defensivas, além de um Shikigami único.
+
+![[Bestas-Auspiciosas.png|Bestas Auspiciosas]]
 # Nível 1
 ## Besta #1: Kaichi
 Como uma ação que utiliza 1 Energia Amaldiçoada, você invoca um chifre perfurador amarelo. Este chifre pode ser usado para realizar um ataque adicional que causa 1d6 de dano perfurante. O dano aumenta para 1d8 no 3º nível, 1d10 no 6º nível, 1d12 no 10º nível e 3d6 no 18º nível.
