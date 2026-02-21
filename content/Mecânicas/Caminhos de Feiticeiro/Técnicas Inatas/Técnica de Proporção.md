@@ -2,6 +2,8 @@
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Sua Energia Amaldiçoada toma a forma de linhas divididas em 10 seções em seus alvos, o permitindo fazer acertos críticos caso acerte a linha na proporção 7:3.
+
+![[ratio-technique.png|Técnica de Proporção]]
 # Nível 1
 ## Foco Crítico
 Sua margem de acerto crítico aumenta em 1. Além disso, você rola um dado de dano adicional quando realiza um acerto crítico.
@@ -16,6 +18,8 @@ Como uma ação por 4 EA, você pode destruir o chão ao seu redor em um círcul
 Em caso de falha, sofrem o dano do seu ataque desarmado + 3d10 de dano contundente. Em caso de sucesso, sofrem metade do dano.
 
 Se você realizar um acerto crítico, passa a causar 3 dados de dano adicionais.
+
+![[ratio-collapse.png|Proporção: Colapso]]
 # Nível 10
 ## Proporção Aprimorada
 Você se torna mais letal e preciso com sua Proporção. Sempre que usar Proporção, pode gastar Energia Amaldiçoada adicional até um valor igual ao seu Bônus de Proficiência, adicionando 1d10 extra para cada ponto gasto.

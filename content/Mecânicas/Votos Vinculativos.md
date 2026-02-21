@@ -39,11 +39,11 @@ A punição é mitigada em casos de votos multi feiticeiros caso ambas acordem e
 
 ## Membros Perdidos
 
-| Rolagem | Parte do Corpo | Dano               | Membro Quebrado                                                       | Membro Perdido                                                       |
-| ------- | -------------- | ------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| 1       | Perna Direita  | CON Mod X Prof     | Seu deslocamento é cortado pela metade e você não pode pular.         | -                                                                    |
-| 2       | Perna Esquerda | CON Mod X Prof     | Seu deslocamento é cortado pela metade e você não pode pular.         | -                                                                    |
-| 3       | Braço Direito  | CON Mod X Prof     | Desvantagem em testes de perícia e rolagens de ataque com este braço. | Testes de perícia e rolagens de ataque com este braço sempre falham. |
-| 4       | Braço Esquerdo | CON Mod X Prof     | Desvantagem em testes de perícia e rolagens de ataque com este braço. | Testes de perícia e rolagens de ataque com este braço sempre falham. |
-| 5       | Torso          | CON Mod X Prof X 2 | HP Máximo cortado pela metade.                                        | O alvo morre a menos que consiga viver sem torso.                    |
-| 6       | Cabeça         | CON Mod X Prof X 2 | Alvo inconsciente.                                                    | O alvo morre a menos que consiga viver sem cabeça.                   |
+| Rolagem | Parte do Corpo | Dano               |
+| ------- | -------------- | ------------------ |
+| 1       | Perna Direita  | CON Mod X Prof     |
+| 2       | Perna Esquerda | CON Mod X Prof     |
+| 3       | Braço Direito  | CON Mod X Prof     |
+| 4       | Braço Esquerdo | CON Mod X Prof     |
+| 5       | Torso          | CON Mod X Prof X 2 |
+| 6       | Cabeça         | CON Mod X Prof X 2 |
