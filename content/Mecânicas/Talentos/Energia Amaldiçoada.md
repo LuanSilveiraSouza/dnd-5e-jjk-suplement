@@ -150,7 +150,7 @@ Você se aperfeiçoou na detecção de resquícios de Energia Amaldiçoada. Voc�
 
 Sabendo o quão fácil é rastrear Energia Amaldiçoada, você se aperfeiçoou na ocultação de seus próprios resquícios de Energia Amaldiçoada. Você pode usar a ação de se Esconder como ação bônus. Sempre que realizar a ação de se Esconder você pode tentar ocultar sua Energia Amaldiçoada junto com um teste de Furtividade. Sua EA fica oculta por até 10 minutos, desde que você não use qualquer técnica de EA. Você só pode ser rastreado por indivíduos com o talento "Rastreador de Energia Amaldiçoada", desde que este passe num teste contra seu valor do teste de Furtividade + seu modificador de Carisma.
 ## Eficiência Energética
-**Pré-requisitos**: Semi grau 1.
+**Pré-requisitos**: Semi grau 1 ou superior.
 
 Seu refinamento de EA chega a um novo patamar, o que te permite usar técnicas com a mesma potência de antes mas usando menos energia. Todas as técnicas que utilizam Energia Amaldiçoada tem seu custo reduzido em 1 (mínimo de 1).
 ## Um em Um Bilhão
@@ -158,7 +158,7 @@ Seu refinamento de EA chega a um novo patamar, o que te permite usar técnicas c
 
 Você é um ser especial e sua manipulação de Energia Amaldiçoada está entre as melhores da história. Todas as técnicas que utilizam Energia Amaldiçoada tem seu custo reduzido em 1 (mínimo de 1). Escolha uma técnica em específico para reduzir seu custo a 0. Caso a técnica envolva um gasto de Energia Amaldiçoada variável o gasto 0 valerá apenas para o uso mínimo de Energia Amaldiçoada da técnica.
 ## Abençoado pelo Fulgor Negro
-**Pré-requisitos**: -.
+**Pré-requisitos**: Grau 1 ou superior.
 
 O Fulgor Negro te abençoou. Ao acertar um crítico o alcance de seu d20 de Fulgor Negro desce para 18-20.
 # Combate
