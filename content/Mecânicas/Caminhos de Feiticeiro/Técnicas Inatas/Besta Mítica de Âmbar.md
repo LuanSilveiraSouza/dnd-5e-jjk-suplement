@@ -1,6 +1,8 @@
 
 **Atributo de Conjuração**: Escolha entre Carisma e Sabedoria
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
+
+Sua Técnica Inata é extremamente mortal para seu oponente e perigosa a você mesmo, podendo até o levar a morte. Você compensa isso com um uso inteligente das propriedades elétricas e eletromagnéticas para causar impactos elétricos devastadores.
 # Nível 1
 ## Energia Elétrica
 Você pode ainda não conhecer sua técnica inata, mas já possui domínio absurdo sobre sua aura. Uma vez por turno, quando causar dano com um ataque corpo a corpo com arma, você pode gastar 1 ponto de Energia Amaldiçoada para adicionar **1d10 de dano elétrico** ao total.
@@ -110,9 +112,11 @@ Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 
 ## Surto Defensivo
 **Pré-requisitos**: Grau 1 ou Superior.
+
 Como reação ao ser atingido por um ataque corpo a corpo, você pode forçar o atacante a realizar um teste de Constituição. Falha: fica **Paralisado** até o início do próximo turno dele.
 ## Arma Imbuída
 **Pré-requisitos**: Grau 1 ou Superior.
+
 Ao atingir com um ataque corpo a corpo com arma, ela também recebe uma carga.
 Como ação bônus, você pode liberar um raio entre você e a arma.
 Criaturas na linha devem realizar um teste de Destreza:
@@ -120,10 +124,12 @@ Criaturas na linha devem realizar um teste de Destreza:
 - Sucesso: sofrem metade do dano.
 ## Carga Aterrada
 **Pré-requisitos**: Grau 1 ou Superior.
+
 Seu corpo se acostumou à manifestação da técnica.
 Os efeitos colaterais da Liberação da Besta Mítica: Âmbar são reduzidos em **1 minuto**.
 Isso faz com que o estágio de 0 minutos não cause efeitos colaterais.
 ## Expansão de Domínio: Reino do Deus do Trovão
 **Pré-requisitos**: Grau Especial.
+
 Você refina seu controle ao ponto de criar uma Expansão de Domínio.
 A partir da Iniciativa 20, todas as criaturas dentro do seu domínio recebem **3 cargas**, sem limite máximo de cargas.

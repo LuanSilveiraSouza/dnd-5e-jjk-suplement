@@ -1,0 +1,1 @@
+- [Nome do Ataque., "Ataque Corpo a Corpo: +1 no acerto, alcance de 5ft., um alvo. Acerto: () de dano."]  

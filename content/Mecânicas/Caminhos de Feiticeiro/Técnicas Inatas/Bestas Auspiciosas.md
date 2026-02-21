@@ -2,7 +2,7 @@
 **Atributo de Conjuração**: Escolha entre Inteligência e Sabedoria
 **DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
-Ao cobrir o rosto, você pode se tornar um canal para o espírito das quatro bestas auspiciosas. Essas quatro bestas lhe concedem grandes habilidades.
+Ao cobrir o rosto, você pode se tornar um canal para o espírito das quatro bestas auspiciosas. Essas quatro bestas lhe concedem grandes habilidades ofensivas e defensivas, além de um Shikigami único.
 # Nível 1
 ## Besta #1: Kaichi
 Como uma ação que utiliza 1 Energia Amaldiçoada, você invoca um chifre perfurador amarelo. Este chifre pode ser usado para realizar um ataque adicional que causa 1d6 de dano perfurante. O dano aumenta para 1d8 no 3º nível, 1d10 no 6º nível, 1d12 no 10º nível e 3d6 no 18º nível.
@@ -27,12 +27,15 @@ Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 
 ## Bestas Aprimoradas
 **Pré-requisitos**: Grau 1 ou Superior.
+
 Você melhora seu controle e proficiência ao utilizar Kaichi e Reiki. Você recebe os seguintes benefícios:
 - Você pode sumonar 2 Kaichis simultaneamente;
 - Ao utilizar Reiki você também aumenta seu CA em +2.
 ## Maximum: Chamas do Kirin
 **Pré-requisitos**: Grau 1 ou Superior.
+
 Seu vínculo com Kirin aumenta drasticamente. Ao receber dano corpo a corpo enquanto o Kirin estiver em combate você pode usar sua reação e 3 pontos de EA para retornar 3x o dano recebido como dano de fogo.
 ## Expansão de Domínio: Reino das Bestas Auspiciosas
 **Pré-requisitos**: Grau Especial.
+
 Finalmente você aprimorou sua Técnica Amaldiçoada ao extremo. Enquanto estiver neste domínio, todas as suas técnicas permanecem ativas sem efeitos colaterais. Os ataques de Kaichi e Ryu sempre acertam.

@@ -16,7 +16,7 @@ Seu corpo é completamente diferente dos demais, tendo força, velocidade e dura
 Seu corpo está constantemente evoluindo, se tornando melhor que o dia anterior. Você possui um número de pontos de melhoria corporal igual ao seu nível de Feiticeiro. Estes pontos podem ser alocados na lista de Melhorias Corporais.
 # Nível 7
 ## Corpo Aprimorado
-Quanto mais você viver, mais perceberá que... seu corpo não tem limites. Você ganha +4 em Força, Destreza e Constituição. Você recebe proficiência em testes de resistência de Destreza caso ainda não seja.
+Quanto mais você viver, mais perceberá que... seu corpo não tem limites. Você ganha +2 em Força, Destreza e Constituição. Você recebe proficiência em testes de resistência de Destreza caso ainda não seja.
 Além disso, você se torna imune a doenças e à condição envenenado. Você também se torna resistente a dano de veneno.
 # Nível 10
 ## Especialista em Armas
