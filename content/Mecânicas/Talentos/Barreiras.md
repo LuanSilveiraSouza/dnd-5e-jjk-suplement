@@ -24,7 +24,7 @@ Você consegue se esgueirar e invadir barreiras sem as quebrar:
 - Enquanto dentro de uma barreira, você pode fazer um teste de Sabedoria contra o DC do feiticeiro que a conjurou para alterar suas propriedades. A falha o impossibilita de a modificar, já o sucesso o permite alterar seu tamanho, duração, criaturas permitidas a entrar e/ou sair ou quaisquer outras propriedades presentes nela.
 
 ## Domínio Incompleto
-**Pré-requisitos**: Semi grau 1 ou superior; Gatilho.
+**Pré-requisitos**: Semi grau 1 ou superior; Técnica Inata; Gatilho.
 
 Sem capacidade de criar um domínio e o imbuir com sua técnica, você utiliza um domínio já aberto como a barreira para sua técnica amaldiçoada.
 # Anti-Domínio
@@ -32,7 +32,7 @@ Sem capacidade de criar um domínio e o imbuir com sua técnica, você utiliza u
 ## Domínio Simples
 **Pré-requisitos**: -.
 
-Como uma ação ou reação à uma rolagem de ataque ou salvaguarda que utilize EA, feitiço ou expansão de domínio, você gasta 5 pontos de EA para preencher seus entornos em um círculo de 4,5m de raio por 5 turnos. O círculo possui seu **Nível de Feiticeiro X Bônus de Proficiência** de pontos de vida. Quaisquer técnicas que atingir você ou o círculo será redirecionada para a barreira do domínio simples, reduzindo seus pontos de vida até 0.
+Como uma ação ou reação à uma rolagem de ataque ou salvaguarda que utilize EA, feitiço ou expansão de domínio, você gasta 3 pontos de EA para preencher seus entornos em um círculo de 4,5m de raio por 5 turnos. O círculo possui seu **Nível de Feiticeiro X Bônus de Proficiência** de pontos de vida. Quaisquer técnicas que atingir você ou o círculo será redirecionada para a barreira do domínio simples, reduzindo seus pontos de vida até 0.
 ## Emoção das Pétalas Caídas
 **Pré-requisitos**: Semi grau 1 ou superior; Origem de "Clã de Feiticeiros" ou "Gênio".
 
@@ -44,7 +44,7 @@ Você também pode utilizar esta técnica ofensivamente, desde que tenha equipad
 Como uma ação, ação bônus ou reação contra o acerto garantido de um domínio, ou vendo um domínio sendo expandido, por 5 pontos de EA, você envolve um espaço circular de 4,5m de raio em volta de você por 5 turnos. Os acertos garantidos são anulados neste espaço e quaisquer criaturas a sua escolha dentro do espaço também são protegidas. A barreira não anula técnicas amaldiçoadas ou pessoas de entrarem, afetando apenas o acerto garantido.
 
 ## Amplificação de Domínio
-**Pré-requisitos**: Grau 1 ou superior; Técnica Inata
+**Pré-requisitos**: Grau 1 ou superior; Técnica Inata; Expansão de Domínio ou Domínio Incompleto.
 
 Você aprendeu como utilizar o poder de um domínio sem usá-lo ativamente. Como uma ação, por metade da Energia Amaldiçoada que seu domínio requer, você pode cobrir seu corpo para "vestir" seu domínio a fim de neutralizar técnicas amaldiçoadas por 1 minuto. Uma vez ativado, você nega automaticamente qualquer técnica defensiva, técnica ofensiva ou magia que o afete e pode ignorar barreiras como a do infinito. Você também negará o efeito de acerto certo de um domínio se estiver dentro dele. Além disso, você não pode usar sua Técnica Inata a menos que dispense Amplificação de Domínio como uma ação bônus. Mesmo se a dispensar, você pode reativá-la como uma ação bônus por um minuto sem gastar a energia amaldiçoada novamente. Esta técnica não funciona contra Liberação Máxima de Técnica, Técnica com Entoamento e Técnica Maximum, o garantindo apenas resistência ao invés de imunidade.
 # Expansão de Domínio

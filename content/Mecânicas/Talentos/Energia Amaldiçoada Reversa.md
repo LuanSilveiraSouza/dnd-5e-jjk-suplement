@@ -16,7 +16,7 @@ Com o uso exaustivo você alcançou um entendimento aguçado da Energia Positiva
 ## Energia Positiva: Otimização
 **Pré-requisitos**: Semi grau 1 ou superior; Energia Positiva.
 
-Você otimizou a conversão de Energia Amaldiçoada em Energia Positiva. Os dados de vida de cura se tornam Xd10.
+Você otimizou a conversão de Energia Amaldiçoada em Energia Positiva. Os dados de vida de cura se tornam Xd12.
 ## Masterização da Energia Positiva
 **Pré-requisitos**: Grau Especial; Energia Positiva: Entendimento Aprofundado.
 
