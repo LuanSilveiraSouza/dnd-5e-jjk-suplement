@@ -27,6 +27,7 @@ Como uma ação bônus, ao custo de 10 pontos de energia amaldiçoada, você pod
 - Você adquire resistência a dano de concussão, perfuração e corte não mágicos. No 20º nível, isso evolui para imunidade.
 - Asas surgem em suas costas, concedendo deslocamento de voo igual ao seu deslocamento de caminhada. Além disso, você pode usar sua ação livre para Disparar (Dash) 1 vez por turno.
 - Seus ataques desarmados causam dois dados de dano adicionais. Além disso, seus ataques desarmados rolam um dado de dano adicional em caso de acerto crítico.
+
 ![[Armadura-Insectoide.png|Armadura Insectoide]]
 # Nível 13
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.

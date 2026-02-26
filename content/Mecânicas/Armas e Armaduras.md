@@ -6,6 +6,12 @@
 | 1 Prata  | $10                 |
 | 1 Ouro   | $100                |
 
+# Itens 
+
+| Item    | Custo  | Efeito                         |
+| ------- | ------ | ------------------------------ |
+| Celular | $1,000 | Comunicação em longa distância |
+
 # Armaduras
 
 ## Proficiência em Armaduras 
@@ -95,32 +101,22 @@ Manoplas seguem o formato das mãos como luvas. Quaisquer características que e
 | Chicote                  | $2,000 | 1d6  | Cortante     | Acuidade, Extensão                                 |
 ## Armas à Distância
 
-| Arma               | Custo  | Custo da Munição | Dano | Tipo de Dano | Propriedades                                 |
-| ------------------ | ------ | ---------------- | ---- | ------------ | -------------------------------------------- |
-| **Armas Simples**  |        |                  |      |              |                                              |
-| Arco Curto         | $2,500 | $100 (10)        | 1d6  | Perfurante   | Munição (30/120), Recarga, Duas mãos         |
-| Besta Leve         | $2,500 | $50 (10)         | 1d8  | Perfurante   | Munição (30/120), Recarga, Duas mãos         |
-| **Armas Marciais** |        |                  |      |              |                                              |
-| Arco Longo         | $5,000 | $100 (10)        | 1d8  | Perfurante   | Munição (45/180), Recarga, Duas mãos, Pesada |
-| Besta de Mão       | $5,000 | $50 (10)         | 1d6  | Perfurante   | Munição (15/45), Recarga, Leve               |
-| Besta Pesada       | $5,000 | $100 (10)        | 1d10 | Perfurante   | Munição (30/120), Recarga, Duas mãos, Pesada |
+| Arma               | Custo  | Custo da Munição | Dano | Tipo de Dano | Propriedades                                    |
+| ------------------ | ------ | ---------------- | ---- | ------------ | ----------------------------------------------- |
+| **Armas Simples**  |        |                  |      |              |                                                 |
+| Arco Curto         | $2,500 | $100 (10)        | 1d6  | Perfurante   | Munição (80 / 320), Recarga, Duas mãos          |
+| Besta Leve         | $2,500 | $50 (10)         | 1d8  | Perfurante   | Munição (80 / 320), Recarga, Duas mãos          |
+| **Armas Marciais** |        |                  |      |              |                                                 |
+| Arco Longo         | $5,000 | $100 (10)        | 1d8  | Perfurante   | Munição (150 / 600), Recarga, Duas mãos, Pesada |
+| Besta de Mão       | $5,000 | $50 (10)         | 1d6  | Perfurante   | Munição (30 / 120), Recarga, Leve               |
+| Besta Pesada       | $5,000 | $100 (10)        | 1d10 | Perfurante   | Munição (100 / 400), Recarga, Duas mãos, Pesada |
 ## Armas de Fogo
 | Arma     | Custo   | Custo da Munição | Dano | Tipo de Dano | Propriedades                                                |     |
 | -------- | ------- | ---------------- | ---- | ------------ | ----------------------------------------------------------- | --- |
-| Pistola  | $3,000  | $250 (15)        | 1d8  | Perfurante   | Leve, Acuidade, Munição (20/300), Recarga (15)              |     |
-| Revólver | $3,000  | $250 (6)         | 1d10 | Perfurante   | Acuidade, Munição (30/300), Recarga (6)                     |     |
-| Rifle    | $10,000 | $500 (8)         | 1d12 | Perfurante   | Acuidade, Munição (120/500), Recarga (8), Duas mãos, Pesada |     |
-| Escopeta | $10,000 | $500 (4)         | 2d6  | Perfurante   | Munição (6/15), Recarga (2), Duas mãos, Pesada              |     |
-
-# Itens 
-
-| Item                        | Custo    | Efeito                                               |
-| --------------------------- | -------- | ---------------------------------------------------- |
-| Essência Abençoada          | $1,000   | Cura 10 HP como ação e 2d4 + 2 HP como ação bônus    |
-| Essência Abençoada Maior    | $5,000   | Cura 28 HP como ação 4d6 + 4 HP como ação bônus      |
-| Essência Abençoada Superior | $50,000  | Cura 72 HP como ação 8d8 + 8 HPP como ação bônus     |
-| Essência Abençoada Suprema  | $100,000 | Cura 120 HP como ação e10d10 + 20 HP como ação bônus |
-| Celular                     | $1,000   |                                                      |
+| Pistola  | $3,000  | $250 (15)        | 1d8  | Perfurante   | Leve, Acuidade, Munição (80 / 320), Recarga (15)            |     |
+| Revólver | $3,000  | $250 (6)         | 1d10 | Perfurante   | Acuidade, Munição (100 / 400), Recarga (6)                  |     |
+| Rifle    | $10,000 | $500 (8)         | 1d12 | Perfurante   | Acuidade, Munição (300/900), Recarga (8), Duas mãos, Pesada |     |
+| Escopeta | $10,000 | $500 (4)         | 2d6  | Perfurante   | Munição (20/60), Recarga (2), Duas mãos, Pesada             |     |
 
 # Ferramentas Amaldiçoadas
 Itens, tanto novos quanto antigos, imbuídos de maldições. Essas armas estão organizadas por nível: 4º nível (Comum), 3º nível (Incomum), 2º nível (Raro), 1º nível (Muito Raro) e nível Especial (Lendário+).

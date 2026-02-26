@@ -8,6 +8,7 @@ Você pode gastar 3 pontos de EA para abrir uma cortina que cobre os céus e o s
 - Você pode gastar pontos extras na conjuração da Cortina para extender sua vida (+10HP por ponto extra) e sua duração (+1 min por ponto extra).
 ## Cortina Complexa
 **Pré-requisitos**: Grau 2 ou superior. Cortina Básica.
+
 Você aprimorou suas cortinas com o uso, sendo capaz de adicionar votos vinculativos que alteram as propriedades dela. Ao conjurar uma cortina, adicione uma das propriedades abaixo:
 - Saída Fácil: Você desativa as defasas interiores da barreira, permitindo que criaturas saiam de dentro da cortina sem problemas. O CA das defesas exteriores aumenta em +2 e o HP total é duplicado.
 - Entrada Fácil: Você desativa as defasas exteriores da barreira, permitindo que criaturas entrem na cortina sem problemas. O CA das defesas interiores aumenta em +2 e o HP total é duplicado.
@@ -15,6 +16,7 @@ Você aprimorou suas cortinas com o uso, sendo capaz de adicionar votos vinculat
 - Ocultação: **(Pré-requisito extra: Ocultação de Energia Amaldiçoada)** Você pode ocultar a barreira da cortina para criaturas externas. A aparência se assemelha a um espelho perfeito e toda Energia Amaldiçoada emitida internamente não é alertada para o exterior. Criaturas com o talento **Rastreador de Energia Amaldiçoada** podem fazer teste de Percepção ou detectar com Percepção Passiva. O DC em ambos os casos é um teste seu de **Furtividade + seu modificador de Carisma**.
 ## Cortina Independente
 **Pré-requisitos**: Semi grau 1 ou superior; Cortina Básica.
+
 Você aprendeu a criar Cortinas utilizando talismãs como catalisadores. Cortinas com talismãs custam 5 pontos de EA e tomam 1 hora em forma de ritual para conjurá-la. A cortina dura até 12 horas ou até o talismã for destruído e tem até 2,5km de raio. Você escolhe um local para fixar o talismã, ao qual deve ser visível o suficiente em seus arredores. Caso o talismã for posicionado fora da barreira o CA das defesas exteriores aumenta em +3 e o HP total é triplicado, Caso o talismã for posicionado dentro da barreira o CA das defesas interiores aumenta em +3 e o HP total é triplicado.
 ## Intruso de Barreiras
 **Pré-requisitos**: Grau 2 ou superior.

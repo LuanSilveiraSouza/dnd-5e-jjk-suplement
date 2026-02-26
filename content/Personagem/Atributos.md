@@ -8,8 +8,8 @@ Os atributos definem o modificador de atributo conforme a tabela abaixo:
 | 2-3   | -4          | 10-11 | 0           | 18-19 | +4          | 26-27 | +8          |
 | 4-5   | -3          | 12-13 | +1          | 20-21 | +5          | 28-29 | +9          |
 | 6-7   | -2          | 14-15 | +2          | 22-23 | +6          | 30    | +10         |
-Os modificadores serão utilizados em todas as rolagens envolvendo o atributo em questão.
 
+Os modificadores serão utilizados em todas as rolagens envolvendo o atributo em questão.
 ## Constituição
 Representa saúde, estamina e resistência. Determina os pontos de vida.
 ## Força

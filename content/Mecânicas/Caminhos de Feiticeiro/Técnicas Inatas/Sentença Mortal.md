@@ -22,7 +22,9 @@ Você deve realizar um teste de Persuasão que determina a qualidade da evidênc
 | 10-15     | Muito Culpado            | A pessoa é culpada de um crime e você possui boas evidências. Ela faz a rolagem com desvantagem.            | Confisco                                                                         |
 | 15-19     | Severamente Culpado      | A pessoa é culpada de um crime grave e você possui evidências sólidas.                                      | Pena de Morte                                                                    |
 | 20        | Imperdoavelmente Culpado | A pessoa é culpada além de qualquer dúvida de um pecado imperdoável. Você obtém sucesso automático.         | Confisco + Pena de Morte                                                         |
+
 **Confisco.** O alvo perde habilidades de Energia Amaldiçoada ou quaisquer itens mágicos que esteja portando.
+
 **Pena de Morte.** Seu Martelo do Juiz é substituído pela Espada do Executor, que mata o acusado com um único acerto.
 # Nível 7
 ## Aprimoramentos do Martelo

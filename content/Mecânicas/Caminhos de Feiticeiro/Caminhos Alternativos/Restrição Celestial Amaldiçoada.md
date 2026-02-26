@@ -28,7 +28,7 @@ Sua afinidade com a Energia Amaldiçoada aumenta:
 - Você se torna proficiente na Perícia de Arcanismo ou especialista caso já possua proficiência.
 # Nível 7
 ## Alma Evoluída
-Você recebe o talento [[Energia Amaldiçoada#Energia Amaldiçoada Imensa|#Energia Amaldiçoada Imensa]].
+Você recebe o talento [[Energia Amaldiçoada#Energia Amaldiçoada Imensa|Energia Amaldiçoada Imensa]].
 Quanto mais você viver, mais perceberá que... sua mente não tem limites. Você ganha +2 em Inteligência, Sabedoria e Carisma. Você recebe proficiência em testes de resistência de Carisma caso ainda não seja. Você também adquire a habilidade de Telepatia.
 # Nível 10
 ## Transcendência

@@ -46,52 +46,63 @@ Você pode atacar quatro vezes em sua ação.
 Você pode ter um número dessas melhorias igual ao seu modificador de Força.
 
 ### Força Sobre-Humana
-1 ponto de corpo, 15 de Força
+**Pré-requisitos**: 1 ponto de corpo, 15 de Força
+
 Sua força supera até mesmo a de artistas marciais treinados. Você é considerado um tamanho maior para fins de agarrar, empurrar, desarmar e para o peso que você pode carregar, empurrar, arrastar ou levantar.
 
 ### Força Monstruosa
-Força Sobre-Humana, 1 ponto de corpo, 9º nível, 20 de Força
+**Pré-requisitos**: Força Sobre-Humana, 1 ponto de corpo, 10º nível, 20 de Força
+
 Sua força física está aumentando a cada segundo; você poderia até ser chamado de monstro neste ponto. Agora você é considerado dois tamanhos maior para fins de agarrar, empurrar, desarmar e para o peso que você pode carregar, empurrar, arrastar ou levantar. Além disso, seu dado de artes marciais aumenta em 1 dado, aplicando-se após os aumentos de nível do dado.
 
 ### Força Divina
-Força Monstruosa, 1 ponto de corpo, 17º nível, 25 de Força
+**Pré-requisitos**: Força Monstruosa, 1 ponto de corpo, 18º nível, 25 de Força
+
 Você é o ápice da força; alguns até o consideram tão atlético quanto um deus grego. Agora você é considerado três tamanhos maior para fins de agarrar, empurrar, desarmar e para o peso que você pode carregar, empurrar, arrastar ou levantar, e seu dado de artes marciais aumenta em 1 dado novamente, aplicando-se após aumentos de nível de dado. Além disso, você agora causa o dobro de dano a estruturas e objetos.
 
 ### Força Destrutiva
-Força Divina, 2 pontos de corpo, 20º nível, 30 de Força
+**Pré-requisitos**: Força Divina, 2 pontos de corpo, 20º nível, 30 de Força
+
 Você aprende a aplicar sua força divina com mais precisão em seus golpes, criando ondas de choque estrondosas. Quando você acerta uma criatura com um ataque com arma usando Força, compare o resultado da rolagem de ataque com a CA de todas as criaturas à sua escolha a até 6 metros do alvo, exceto o próprio alvo. Se a rolagem de ataque acertar, você causa metade do dano do ataque (arredondado para baixo) às criaturas atingidas.
 
 ### Salto Poderoso
-1 ponto de corpo, 15 de Força
+**Pré-requisitos**: 1 ponto de corpo, 15 de Força
+
 Sua força nas pernas se tornou verdadeiramente monstruosa. Sempre que você pular, poderá triplicar a altura ou a distância do seu salto.
 
 ### Técnica de Força
-2 pontos de corpo, 20 de Força, 5º nível
+**Pré-requisitos**: 2 pontos de corpo, 20 de Força, 5º nível
+
 Ao selecionar este aprimoramento corporal, você ganha 1 Talento Físico à sua escolha, desde que atenda aos pré-requisitos e inclua Força como parte desses pré-requisitos.
 
-Você pode escolher este aprimoramento corporal várias vezes, porém, só poderá selecioná-lo em determinados níveis desta classe. Esses níveis são 1º, 5º, 11º e 17º.
+Você pode escolher este aprimoramento corporal várias vezes, porém, só poderá selecioná-lo em determinados níveis desta classe. Esses níveis são 1º, 5º, 10º e 18º.
 ## Melhorias de Destreza
 Você sente que provavelmente conseguiria vencer um oponente de nível especial em uma corrida devido à sua velocidade atual.
 Você pode ter um número de melhorias igual ao seu modificador de Destreza.
 
 ### Velocidade Sônica
-1 ponto de corpo, 15 de Destreza
+**Pré-requisitos**: 1 ponto de corpo, 15 de Destreza
+
 Sua velocidade aumentou drasticamente. Sua velocidade de movimento dobra. Além disso, você pode usar a ação Disparada como uma ação bônus.
 
 ### Velocidade Visual
-Requer Velocidade Sônica, 1 ponto de corpo, 9º nível, 20 de Destreza
+**Pré-requisitos**: Requer Velocidade Sônica, 1 ponto de corpo, 10º nível, 20 de Destreza
+
 Você se tornou tão rápido que, num piscar de olhos, você já está na frente das pessoas. Sua velocidade de movimento dobra novamente e ataques de oportunidade contra você são feitos com desvantagem devido à sua velocidade.
 
 ### Velocidade da Luz
-Velocidade Visual, 1 ponto de corpo, 17º nível, 25 de Destreza
+**Pré-requisitos**: Velocidade Visual, 1 ponto de corpo, 18º nível, 25 de Destreza
+
 Você se tornou mais rápido do que as pessoas conseguem perceber, aparentemente se aproximando até mesmo da velocidade da luz. Sua velocidade de movimento dobra novamente e as criaturas não conseguem perceber seu movimento; portanto, elas não podem realizar reações em resposta ao seu movimento, a menos que possuam visão às cegas.
 
 ### Reflexos Supersônicos
-1 ponto de corpo, 15 de Destreza
+**Pré-requisitos**: 1 ponto de corpo, 15 de Destreza
+
 Você ganha uma reação adicional. Você também pode usar sua reação para obter vantagem em um teste de Destreza.
 
 ### Reflexos Relâmpago
-Requer Reflexos Hipersônicos, 2 pontos de corpo, 9º nível, 20 de Destreza
+**Pré-requisitos**: Requer Reflexos Hipersônicos, 2 pontos de corpo, 10º nível, 20 de Destreza
+
 Você ganha mais uma reação ao seu total. Você também pode usar sua reação para obter vantagem em testes baseados em um atributo que você escolher entre Inteligência, Sabedoria e Carisma ao obter esta melhoria corporal. Esta escolha não pode ser alterada posteriormente.
 
 ## Melhorias de Constituição
@@ -99,15 +110,18 @@ Você é como uma muralha inabalável, nem mesmo os golpes mais fortes a derruba
 Você pode ter um número dessas melhorias igual ao seu modificador de Constituição.
 
 ### Pele Endurecida
-1 ponto de corpo, 15 de Constituição
+**Pré-requisitos**: 1 ponto de corpo, 15 de Constituição
+
 Sua pele endureceu, tornando-se mais semelhante a osso. Você ganha +4 pontos de vida máximos por nível e +4 adicionais a cada nível subsequente.
 
 ### Pele de Ferro
-Pele Endurecida, 1 ponto de corpo, 9º nível, 20 de Constituição
+**Pré-requisitos**: Pele Endurecida, 1 ponto de corpo, 10º nível, 20 de Constituição
+
 Sua pele endureceu ainda mais, tornando-se mais parecida com aço do que com carne. Você ganha +2 pontos de vida máximos adicionais por nível e sofre 3 pontos de dano a menos de ataques não mágicos de concussão, perfuração e corte.
 
 ### Pele Adamantina
-Pele de Ferro, 2 pontos de corpo, 17º nível, 25 de Constituição
+**Pré-requisitos**: Pele de Ferro, 2 pontos de corpo, 18º nível, 25 de Constituição
+
 Sua pele endureceu ainda mais, tornando-se mais parecida com adamântio. Você adiciona seu modificador de Constituição uma vez adicional ao calcular seus pontos de vida máximos por nível, e a redução de dano que você ganhou com Pele de Ferro agora se aplica a todos os danos de concussão, perfuração e corte.
 
 ## Melhorias de Sabedoria
@@ -115,25 +129,31 @@ Seu corpo foi aprimorado tanto física quanto mentalmente.
 Você pode ter um número dessas melhorias igual ao seu modificador de Sabedoria.
 
 ### Precognição Menor
-1 Ponto de Corpo
+**Pré-requisitos**: 1 Ponto de Corpo
+
 Você possui uma leve percepção de como ler seus oponentes, o que lhe confere uma pequena vantagem em combate. Você recebe +5 em sua Percepção Passiva e ataques invisíveis não são rolados com vantagem contra você.
 
 ### Precognição
-Precognição Menor, 1 Ponto de Corpo, 9º nível
+**Pré-requisitos**:Precognição Menor, 1 Ponto de Corpo, 10º nível
+
 Sua precognição está melhorando, agora você é capaz até mesmo de prever o que seus oponentes farão. Você não pode ser surpreendido enquanto estiver consciente e tem vantagem em quaisquer testes de resistência de Destreza contra ataques que você possa ver, como armadilhas ou magias. Você não pode receber este benefício se estiver cego, surdo ou incapacitado.
 
 ### Precognição Maior
-Precognição Média, 1 Ponto de Corpo, 17º nível
+**Pré-requisitos**: Precognição Média, 1 Ponto de Corpo, 18º nível
+
 Sua precognição evoluiu a ponto de você quase conseguir ver o futuro. Uma vez por rodada, quando uma criatura o escolher como alvo de um ataque, você pode usar sua reação para forçar que todas as jogadas de ataque dela contra você sejam feitas com desvantagem naquela rodada. Além disso, uma vez por rodada, você pode se conceder vantagem em um teste de resistência.
 
 ### Sentidos Aprimorados
-1 Ponto de Corpo
+**Pré-requisitos**: 1 Ponto de Corpo
+
 Você não precisa estar com os olhos abertos para ver, seus instintos são suficientes. Você tem visão às cegas com alcance de 9 metros. Dentro desse alcance, você pode ver efetivamente qualquer coisa que não esteja totalmente coberta, mesmo que esteja cego ou na escuridão. Além disso, você pode ver uma criatura invisível dentro desse alcance, a menos que a criatura consiga se esconder de você.
 
 ### Sentidos Aprimorados+
-Sentidos Aprimorados, 1 Ponto de Corpo, 9º nível
+**Pré-requisitos**: Sentidos Aprimorados, 1 Ponto de Corpo, 10º nível
+
 Seus sentidos foram ainda mais aprimorados, seus instintos se tornaram mais apurados. Sua visão às cegas aumenta para um alcance de 18 metros. Além disso, você ganha 9 metros de percepção sísmica.
 
 ### Sentidos Aprimorados++
-Sentidos Aprimorados+, 1 Ponto de Corpo, 17º nível
+**Pré-requisitos**: Sentidos Aprimorados+, 1 Ponto de Corpo, 18º nível
+
 Seus sentidos atingiram o ápice. Sua visão às cegas aumenta para um alcance de 36 metros e seu tremor aumenta para 18 metros. Você ganha vantagem em testes de Sabedoria (Percepção) que envolvam audição.
