@@ -52,7 +52,7 @@ Enquanto não estiver usando armaduras ou escudos seu CA será de 10 + Destreza 
 ## Combate Corpo a Corpo
 **Pré-requisitos**: -.
 
-Enquanto não estiver usando armaduras ou escudos seus ataques desarmados causam 1d4 de dano contundente. Você pode utilizar seu modificador de Destreza no lugar do de Força caso queira. Você também pode fazer um ataque desarmado como uma ação bônus.
+Seus ataques desarmados causam 1d4 de dano contundente. Você pode utilizar seu modificador de Destreza no lugar do de Força caso queira. Você também pode fazer um ataque desarmado como uma ação bônus.
 
 ## Recuperação de Energia Amaldiçoada
 **Pré-requisitos**: Energia Amaldiçoada.

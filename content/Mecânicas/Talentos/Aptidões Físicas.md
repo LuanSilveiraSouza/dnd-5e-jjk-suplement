@@ -1,22 +1,19 @@
 # Combate Corpo a Corpo Ofensivo
+
 ## Artes Marciais Básicas
 **Pré-requisitos**: Combate Corpo a Corpo.
 
 Seu dano de ataque desarmado aumenta para 1d6 de dano contundente.
-## Artes Marciais Básicas
-**Pré-requisitos**: Grau 2 ou Superior; Combate Corpo a Corpo.
-
-Seu dano de ataque desarmado aumenta para 1d6 de dano contundente.
 ## Artes Marciais Intermediárias
-**Pré-requisitos**: Semi grau 1 ou Superior; Artes Marciais Básicas.
+**Pré-requisitos**: Grau 2 ou Superior; Artes Marciais Básicas.
 
 Seu dano de ataque desarmado aumenta para 1d8 de dano contundente.
 ## Artes Marciais Avançadas
-**Pré-requisitos**: Grau 1 ou Superior; Artes Marciais Intermediárias.
+**Pré-requisitos**: Semi grau 1 ou Superior; Artes Marciais Intermediárias.
 
 Seu dano de ataque desarmado aumenta para 1d10 de dano contundente.
 ## Mestre em Artes Marciais
-**Pré-requisitos**: Grau Especial; Artes Marciais Avançadas.
+**Pré-requisitos**: Grau 1 ou Superior; Artes Marciais Avançadas.
 
 Seu dano de ataque desarmado aumenta para 1d12 de dano contundente.
 ## Agarrador

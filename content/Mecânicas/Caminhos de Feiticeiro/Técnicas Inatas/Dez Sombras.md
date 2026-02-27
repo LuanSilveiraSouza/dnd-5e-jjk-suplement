@@ -7,7 +7,7 @@ As Dez Sombras são um grupo de Shikigamis especiais disponibilizados ao usuári
 Você possui a técnica preciosa do clã Zenin, as Dez Sombras, que permite invocar Shikigamis a partir das sombras. Como uma ação por 1 ponto de Energia Amaldiçoada, você pode invocar até 2 Cães Divinos (1 Energia Amaldiçoada por cão) em qualquer espaço a até 1,5 metro (5 pés) de você.
 Qualquer Shikigami invocado por essa técnica permanece até ser reduzido a 0 pontos de vida ou até você dispensá-lo voluntariamente. Eles recuperam todos os pontos de vida perdidos após um descanso longo.
 Quando os Cães Divinos são reduzidos a 0 pontos de vida, só podem ser invocados novamente após 1 minuto. Cães Divinos contam como 1 Shikigami para fins de limite de invocação.
-Seus Shikigamis não podem realizar ações por conta própria. Você pode usar uma ação bônus para comandar um Shikigami a realizar uma ação. Também pode gastar uma ação para dar uma ordem mais específica, como proteger uma criatura, agarrar algo, defender uma área, etc.
+Seus Shikigamis não podem realizar ações por conta própria. Você pode usar uma ação bônus para comandar um Shikigami a realizar uma ação. Também pode gastar uma ação para dar uma ordem mais específica, como proteger uma criatura, agarrar algo, defender uma área, etc, ou ainda comandar dois Shikigamis a realizarem uma ação cada.
 # Nível 3
 ## Provação
 

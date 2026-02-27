@@ -3,12 +3,15 @@
 
 Você foi abençoado com a Técnica Inata do clã Kamo, permitindo transformar seu próprio sangue em sua arma.
 # Nível 1
+
+## Conversão de Sangue
+Todas suas habilidades que custam Energia Amaldiçoada podem ter seu custo trocado por pontos de vida. Cada Ponto de Energia Amaldiçoada equivale a 1d6 de HP, e você pode trocar a quantia de pontos que quiser por estes dados de dano. O valor máximo dos dados somados não podem ultrapassar seus pontos de vida totais.
 ## Constructos de Sangue
-Você adquiriu a forma mais básica da técnica: as construções de sangue. Você pode extrair sangue de uma fonte disponível para criar uma construção semi-sólida. Como uma ação, por 1 Energia Amaldiçoada e 1 ponto de vida, você pode criar uma pequena construção menor que um espaço de 1,5 m x 1,5 m. Para cada 1,5 m adicionais, o custo aumenta em 1 Energia Amaldiçoada e 1 HP. Você pode ignorar o custo de pontos de vida se tiver alguma fonte alternativa de sangue. Essas construções têm pontos de vida iguais ao seu nível multiplicado pela Energia Amaldiçoada gasta.
+Você adquiriu a forma mais básica da técnica: as construções de sangue. Você pode extrair sangue de uma fonte disponível para criar uma construção semi-sólida. Como uma ação, por 1 Energia Amaldiçoada, você pode criar uma pequena construção menor que um espaço de 1,5 m x 1,5 m. Para cada 1,5 m adicionais, o custo aumenta em 1 Energia Amaldiçoada. Você pode ignorar o custo de pontos de vida se tiver alguma fonte alternativa de sangue. Essas construções têm pontos de vida iguais ao seu nível multiplicado pela Energia Amaldiçoada gasta.
 ## Sangue de Batalha
 Você pode controlar seu sangue de uma maneira adequada para o combate. Como uma ação, você ganha as duas seguintes opções de construção:
-- **Ligação Carmesim**: Como uma ação que custa 1HP, você libera uma rede de sangue vermelho, forçando o alvo em um raio de 9 m a fazer um teste de resistência de Força ou ficar imobilizado. Ele pode refazer o teste no início do seu turno.
-- **Exorcismo Cortante**: Como uma ação que custa 1HP, você gira rapidamente um anel de sangue e o libera como um projétil. Role um ataque: se acertar, você causa 1d10 de Dano Necrótico.
+- **Ligação Carmesim**: Como uma ação que custa 1 EA, você libera uma rede de sangue vermelho, forçando o alvo em um raio de 9 m a fazer um teste de resistência de Força ou ficar imobilizado. Ele pode refazer o teste no início do seu turno.
+- **Exorcismo Cortante**: Como uma ação que custa 1 EA, você gira rapidamente um anel de sangue e o libera como um projétil de curto alcance (5/10). Role um ataque: se acertar, você causa 3d6 de Dano Necrótico.
 # Nível 3
 ## Escama Vermelha Fluída
 Esta técnica aumenta a temperatura corporal, a frequência cardíaca e o número de glóbulos vermelhos do usuário, proporcionando-lhe energia e capacidades físicas consideravelmente maiores. Você pode gastar 3 Energias Amaldiçoadas e uma ação bônus para obter os seguintes benefícios por 1 minuto:

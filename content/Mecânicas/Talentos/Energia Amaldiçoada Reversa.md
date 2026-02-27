@@ -12,7 +12,7 @@ Você foi além da cura pessoal, conseguindo utilizar Energia Positiva em tercei
 ## Energia Positiva: Entendimento Aprofundado
 **Pré-requisitos**: Semi grau 1 ou superior; Energia Positiva.
 
-Com o uso exaustivo você alcançou um entendimento aguçado da Energia Positiva. A quantidade de pontos de EA que você pode gastar por descanso longo se torna **nível atual + bônus de proficiência X 1,5** (arredondado para baixo).
+Com o uso exaustivo você alcançou um entendimento aguçado da Energia Positiva. A quantidade de pontos de EA que você pode gastar por descanso longo se torna **nível atual + bônus de proficiência X 1,5** (arredondado para baixo) e a quantidade de pontos de EA que você pode gastar por turno é determinada pelo se torna **bônus de proficiência X 2**.
 ## Energia Positiva: Otimização
 **Pré-requisitos**: Semi grau 1 ou superior; Energia Positiva.
 

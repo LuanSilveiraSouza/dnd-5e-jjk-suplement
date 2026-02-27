@@ -2,9 +2,9 @@
 # Regeneração
 
 ## Regeneração de Energia Amaldiçoada
-**Pré-requisitos**: Grau 2 ou superior; Recuperação de Energia Amaldiçoada.
+**Pré-requisitos**: -.
 
-Você amplia sua capacidade de recuperar EA no meio do combate. Com uma ação bônus, ganhe pontos de EA iguais ao seu Bônus de Proficiência atual. A quantia deve ser retirada de suas reservas de EA.
+Você amplia sua capacidade de recuperar EA no meio do combate. Com uma ação grátis, ganhe pontos de EA iguais ao seu Bônus de Proficiência atual. A quantia deve ser retirada de suas reservas de EA.
 ## Otimização de Energia Amaldiçoada
 **Pré-requisitos**: Semi grau 1 ou superior; Recuperação de Energia Amaldiçoada.
 
@@ -170,11 +170,11 @@ Você pode reforçar seu ataque desarmado com EA. Cada ponto gasto adiciona dado
 
 | Bônus de Proficiência | Dado |
 | --------------------- | ---- |
-| +2                    | 1d6  |
-| +3                    | 1d6  |
-| +4                    | 1d8  |
-| +5                    | 1d8  |
-| +6                    | 1d10 |
+| +2                    | 1d8  |
+| +3                    | 1d10 |
+| +4                    | 1d12 |
+| +5                    | 2d6  |
+| +6                    | 2d8  |
 
 ## Armadura Amaldiçoada
 **Pré-requisitos**: -.
@@ -183,11 +183,11 @@ Você pode reforçar seu corpo com EA. Como uma reação, você escolhe uma quan
 
 | Bônus de Proficiência | Dado |
 | --------------------- | ---- |
-| +2                    | 1d4  |
-| +3                    | 1d6  |
-| +4                    | 1d8  |
-| +5                    | 1d10 |
-| +6                    | 1d12 |
+| +2                    | 1d8  |
+| +3                    | 1d10 |
+| +4                    | 1d12 |
+| +5                    | 2d6  |
+| +6                    | 2d8  |
 
 ## Barragem de Golpes
 **Pré-requisitos**: -.
