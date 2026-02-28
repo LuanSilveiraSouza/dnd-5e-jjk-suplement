@@ -50,12 +50,11 @@ A punição é mitigada em casos de votos multi feiticeiros caso ambas acordem e
 
 # Exemplos de Votos
 ## Voto Vinculativo: Torcedor Fanático
-Técnica Inata: [[Dez Sombras]].
 Ao iniciar todo encontro, o feiticeiro escolhe um alvo inimigo para fazer a seguinte pergunta: "Tu é Colorado?". A resposta dará bônus ou concessões contra o alvo.
 
-| Valor de 1d4                       | Efeito                                                         |
-| ---------------------------------- | -------------------------------------------------------------- |
-| 1 = Sim                            | Vantagem em todas as rolagens de ataque suas e de suas sombras |
-| 2 = Silêncio/Não sei/etc           | Vantagem em todas as rolagens de ataque suas                   |
-| 3 = Não                            | +1 nas rolagens de ataque                                      |
-| 4 = Sou Gremista/Odeio o Inter/etc | O feiticeiro e suas sombras não causa dano algum ao alvo       |
+| Valor de 1d4                       | Efeito                                  |
+| ---------------------------------- | --------------------------------------- |
+| 1 = Sim                            | Vantagem em todas as rolagens de ataque |
+| 2 = Silêncio/Não sei/etc           | +1 nas rolagens de ataque               |
+| 3 = Não                            | Nada acontece                           |
+| 4 = Sou Gremista/Odeio o Inter/etc | Você não causa nenhum dano ao alvo      |
