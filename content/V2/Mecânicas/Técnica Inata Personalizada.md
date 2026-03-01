@@ -14,11 +14,11 @@ Primeiro, determine o atributo de conjuração de sua Técnica. Toda técnica pe
 O nível 1 garante um uso básico da Técnica, seja causando dano bruto, uma combinação de dano + salvaguarda, algum benefício para si mesmo/aliados ou malefício para os inimigos. Se a técnica envolver um conceito mais complexo, como usar expansão de domínio para conjurar a técnica, a habilidade de nível 1 tende a prover menos benefícios ou potência geral.
 ## Nível 3: Técnica Padrão
 No nível 3 o personagem atinge o formato padrão de sua técnica. Isto pode ser simbolizado por uma evolução da Técnica Básica, como um efeito adicional que potencializa o dano bruto, um extensão da técnica (mesmo conceito mas aplicado de forma diferente), ou até uma expansão de domínio, caso a técnica só possa ser usada totalmente dentro da expansão. Técnicas do último tipo geralmente não dão dano direto e o domínio é do tipo não-letal, garantindo um efeito diferenciado.
-## Nível 7: Extensão de Técnica
+## Nível 5: Extensão de Técnica
 O nível 7 é caracterizado por adicionar novas aplicações da técnica, geralmente expandindo a interpretação dela de alguma forma. Dano em área em uma técnica de dano singular, benefício para aliados para técnicas de benefício próprio, potencialização dos efeitos do domínio, etc.
-## Nível 10: Masterização da Técnica
+## Nível 7: Masterização da Técnica
 Personagens no nível 10 possuem masterização da forma básica de sua técnica, sendo capazes de usar suas extensões e ampliar seus efeitos. A partir deste ponto o personagem está pronto para trilhar o caminho até se tornar Grau Especial.
-## Níveis 13, 18 e 20: Pináculo da Técnica
+## Níveis 9, 11 e 12: Pináculo da Técnica
 Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem pode escolher em qualquer ordem que desejar. Geralmente de 3 a 4 opções, com duas destas envolvendo a versão Maximum da Técnica, ao qual simboliza uma forma suprema de usabilidade da técnica, e a Expansão de Domínio, ao qual o personagem finalmente consegue imbuir sua técnica em um domínio, garantindo o efeito de acerto garantido.
 
 # Exemplos de Efeitos de Técnicas
@@ -59,7 +59,7 @@ Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem p
 | Alto           | Sim       | Sim         | Sim                 | Vários Turnos | 3           |
 
 # Tipos de Dano
-Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.
+Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.
 
 | Tipo        | Descrição                                                     | Oposto      |
 | ----------- | ------------------------------------------------------------- | ----------- |
@@ -85,8 +85,8 @@ Use esta tabela como base para o dano de habilidades de Técnicas Inatas por ní
 | ------------------- | ------- | ---------- |
 | 1                   | 2d10    | 2d6        |
 | 3                   | 3d10    | 4d6        |
-| 7                   | 6d10    | 7d6        |
-| 10                  | 8d10    | 8d6        |
-| 13                  | 10d10   | 11d6       |
-| 18                  | 12d10   | 13d6       |
-| 20                  | 15d10   | 14d6       |
+| 5                   | 6d10    | 7d6        |
+| 7                   | 8d10    | 8d6        |
+| 9                   | 10d10   | 11d6       |
+| 11                  | 12d10   | 13d6       |
+| 12                  | 15d10   | 14d6       |

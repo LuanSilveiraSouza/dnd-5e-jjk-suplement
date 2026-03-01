@@ -8,7 +8,7 @@ aliases:
 permalink:
 ---
 
-Este módulo propõe adaptar as principais mecânicas da obra Jujutsu Kaisen para o contexto de RPG, utilizando como base o sistema da edição 5.5 (2024) de Dungeons and Dragons. As regras foram inspiradas em dois módulos já existentes que adaptam Jujutsu Kaisen para DnD:
+Este módulo propõe adaptar as principais mecânicas da obra Jujutsu Kaisen para o contexto de TTRPG, utilizando como base e inspiração dois módulos já existentes que adaptam Jujutsu Kaisen para DnD 5e:
 
 - https://www.reddit.com/r/UnearthedArcana/comments/1dtv4x7/jujutsu_kaisen_5e_add_version_30/
 - https://www.dandwiki.com/wiki/Jujutsu_Sorcerer_(Jujutsu_Kaisen_Supplement)

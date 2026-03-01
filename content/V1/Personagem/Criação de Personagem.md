@@ -1,7 +1,7 @@
 Este é o primeiro passo em qualquer RPG: Criar um personagem para interpretar na mesa. Utilize a base de Jujutsu Kaisen para identificar o tipo de personagem que você quer criar, mas seja livre para adicionar os toques de RPGs nele.
 Escolha os seguintes pontos:
-- [[Espécies|Espécie]]
-- [[Origens|Origem]]
+- [[V1/Personagem/Espécies|Espécie]]
+- [[V1/Personagem/Origens|Origem]]
 - [[Caminhos de Feiticeiro|Caminho de Feiticeiro]]
 - Backstory e Personalidade
 - Como ele se portará em combate

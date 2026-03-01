@@ -7,7 +7,7 @@
 Seu corpo é completamente diferente dos demais, tendo energia amaldiçoada em níveis absurdos. Você tem os seguintes bônus:
 - Mente Sobrenatural: Você recebe um bônus de +2 em seus atributos de Inteligência, Sabedoria e Carisma. Seu limite de atributos inicial é 20, com cada nível par que você ganha após o 1º, seu máximo nestes atributos aumenta em 1, chegando a um total de 30. Você é imune aos efeitos de Enfeitiçado.
 - Técnica Inata: Escolha uma Técnica Inata. Você evolui no caminho desta técnica ao mesmo tempo que evolui no caminho da Restrição Celestial Amaldiçoada.
-- Vínculo com a Energia Amaldiçoada: Você recebe os talentos [[Energia Amaldiçoada#Energia Amaldiçoada Ampliada|Energia Amaldiçoada Ampliada]] e [[Energia Amaldiçoada#Regeneração de Energia Amaldiçoada|Regeneração de Energia Amaldiçoada]].
+- Vínculo com a Energia Amaldiçoada: Você recebe os talentos [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Ampliada|Energia Amaldiçoada Ampliada]] e [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Regeneração de Energia Amaldiçoada|Regeneração de Energia Amaldiçoada]].
 - Corpo Impuro. Seu corpo está constantemente no limiar da existência, necessitando de suporte de aparelhos médicos sempre. Você sofre dos seguintes efeitos:
 	- Seu modificador de Constituição não pode ser superior a -4. 
 	- Você não pode ter talentos envolvendo aptidões físicas.
@@ -24,11 +24,11 @@ Para compensar sua inabilidade física e seu corpo à beira do colapso, você po
 # Nível 3
 ## Alma Aprimorada
 Sua afinidade com a Energia Amaldiçoada aumenta: 
-- Você recebe os talentos [[Energia Amaldiçoada#Rastreador de Energia Amaldiçoada|Rastreador de Energia Amaldiçoada]] e [[Energia Amaldiçoada#Eficiência Energética|Eficiência Energética]]. 
+- Você recebe os talentos [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Rastreador de Energia Amaldiçoada|Rastreador de Energia Amaldiçoada]] e [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Eficiência Energética|Eficiência Energética]]. 
 - Você se torna proficiente na Perícia de Arcanismo ou especialista caso já possua proficiência.
 # Nível 7
 ## Alma Evoluída
-Você recebe o talento [[Energia Amaldiçoada#Energia Amaldiçoada Imensa|Energia Amaldiçoada Imensa]].
+Você recebe o talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Imensa|Energia Amaldiçoada Imensa]].
 Quanto mais você viver, mais perceberá que... sua mente não tem limites. Você ganha +2 em Inteligência, Sabedoria e Carisma. Você recebe proficiência em testes de resistência de Carisma caso ainda não seja. Você também adquire a habilidade de Telepatia.
 # Nível 10
 ## Transcendência
