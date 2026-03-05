@@ -58,7 +58,7 @@ Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 ## Maximum: Vazio Roxo
 **Pré-requisitos**: Grau 1 ou Superior; Reversão de Feitiço.
 
-Receba o Talento [[Energia Amaldiçoada Reversa### Multiplicação de Energia Negativa e Positiva|Multiplicação de Energia Negativa e Positiva]].
+Receba o Talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada Reversa### Multiplicação de Energia Negativa e Positiva|Multiplicação de Energia Negativa e Positiva]].
 
 Você aprende a combinar espaço positivo e negativo, criando massa imaginária.
 

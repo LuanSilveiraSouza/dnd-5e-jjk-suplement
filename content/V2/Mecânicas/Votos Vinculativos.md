@@ -14,7 +14,7 @@ Requer dois ou mais Feiticeiros diferentes.
 
 Você tem profunda admiração e respeito por alguém, a ponto de se conter para obedecê-lo. Um dos membros do juramento será o "mestre", enquanto outro será o "servo". O servo receberá uma das seguintes restrições:
 - O máximo de sua Energia Amaldiçoada será reduzido por um número decidido pelo mestre.
-- O alcance de sua técnica será reduzido por um número de metros que o mestre decidir (não pode ser menor que 1,5 metro).
+- O alcance de sua técnica será reduzido por um número de unidades que o mestre decidir (não pode ser menor que 1 unidade).
 - O dano de sua técnica será reduzido pela quantidade de dados de dano que o mestre decidir (não pode ser menor que um dado).
 - Ele não pode usar domínios ou barreiras simples.
 O servo terá essa restrição até que o mestre permita que ele libere sua energia amaldiçoada como uma ação. O servo ganha um dos seguintes benefícios dependendo de sua restrição:

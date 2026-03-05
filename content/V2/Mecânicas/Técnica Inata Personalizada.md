@@ -59,34 +59,32 @@ Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem p
 | Alto           | Sim       | Sim         | Sim                 | Vários Turnos | 3           |
 
 # Tipos de Dano
-Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.
+Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[V1/Mecânicas/Talentos/Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.
 
-| Tipo        | Descrição                                                     | Oposto      |
-| ----------- | ------------------------------------------------------------- | ----------- |
-| Contundente | Objetos contundentes, impactos concussivos, constrição, queda | Trovejante  |
-| Cortante    | Objetos cortantes, garras                                     | Perfurante  |
-| Perfurante  | Objetos perfurantes, presas                                   | Cortante    |
-| Ácido       | Líquidos corrosivos, enzimas digestivas                       | Radiante    |
-| Alma        | Energia que consome a alma                                    | Psíquico    |
-| Elétrico    | Eletricidade, eletromagnetismo e seus fenômenos               | Trovejante  |
-| Energético  | Energia Amaldiçoada pura, impacto cinético                    | -           |
-| Congelante  | Água, gelo, neve                                              | Ígneo       |
-| Fogo        | Fogo, chamas, magma                                           | Congelante  |
-| Necrótico   | Energia que consome a vida, podridão                          | Radiante    |
-| Psíquico    | Energia que consome a mente                                   | Alma        |
-| Radiante    | Energia sagrada, Energia positiva                             | Necrótico   |
-| Trovejante  | Som contundente, ondas sonoras                                | Contundente |
-| Venenoso    | Gás tóxico, veneno                                            | Psíquico    |
+| Tipo        | Descrição                                                     | Oposto                 |
+| ----------- | ------------------------------------------------------------- | ---------------------- |
+| Contundente | Objetos contundentes, impactos concussivos, constrição, queda | Cortante/Perfurante    |
+| Cortante    | Objetos cortantes, garras                                     | Contundente/Perfurante |
+| Perfurante  | Objetos perfurantes, presas                                   | Contundente/Cortante   |
+| Ácido       | Líquidos corrosivos, enzimas digestivas                       | Radiante               |
+| Alma        | Energia que consome a alma                                    | Psíquico               |
+| Elétrico    | Eletricidade, eletromagnetismo e seus fenômenos               | -                      |
+| Energético  | Energia Amaldiçoada pura, impacto cinético                    | -                      |
+| Gelo        | Água, gelo, neve                                              | Fogo                   |
+| Fogo        | Fogo, chamas, magma                                           | Gelo                   |
+| Necrótico   | Energia que consome a vida, podridão                          | Radiante               |
+| Psíquico    | Energia que consome a mente                                   | Alma                   |
+| Radiante    | Energia sagrada, Energia positiva                             | Necrótico              |
+| Venenoso    | Gás tóxico, veneno                                            | Psíquico               |
 
 # Dano de Técnicas por Nível
-Use esta tabela como base para o dano de habilidades de Técnicas Inatas por nível. Você pode alterar os dados de dano de acordo com a ideia da técnica: por exemplo, se a técnica envolve um alvo único mas é formada por vários ataques seguidos, você pode alterar o dano para 4d4 (2d10 possui um máximo de dano de 20, enquanto 4d4 possui um máximo de 16. Isto é compensado pelo fato de que o dano mínimo de 4d4 é 4, enquanto o dano mínimo de 2d10 é 2.). Se a técnica possui um salvaguarda com efeito adicional, diminua o dado para 1d8 com o salvaguarda falho garantindo 2d8 de dano extra. Utilize a criatividade e mantenha contato constante com o Mestre para garantir a opinião dele na combinação de efeitos desejados.
+Use esta tabela como base para o dano de habilidades de Técnicas Inatas por nível. Você pode alterar os dados de dano de acordo com a ideia da técnica: por exemplo, se a técnica envolve um alvo único mas é formada por vários ataques seguidos, você pode alterar o dano para 2d4 em vez de 1d8. Se a técnica possui um salvaguarda com efeito adicional, diminua o dado para 1d4 com o salvaguarda falho garantindo 1d12 de dano extra. Utilize a criatividade e mantenha contato constante com o Mestre para garantir a opinião dele na combinação de efeitos desejados.
 
-| Nível de Feiticeiro | Um Alvo | Multi Alvo |
-| ------------------- | ------- | ---------- |
-| 1                   | 2d10    | 2d6        |
-| 3                   | 3d10    | 4d6        |
-| 5                   | 6d10    | 7d6        |
-| 7                   | 8d10    | 8d6        |
-| 9                   | 10d10   | 11d6       |
-| 11                  | 12d10   | 13d6       |
-| 12                  | 15d10   | 14d6       |
+| Nível de Feiticeiro | Dano Baixo | Dano Médio | Dano Alto | Dano em Área |
+| ------------------- | ---------- | ---------- | --------- | ------------ |
+| 1                   | 1d6        | 1d8        | 1d10      | 2d6          |
+| 3                   | 2d6        | 2d8        | 2d10      | 4d6          |
+| 5                   | 3d6        | 3d8        | 3d10      | 6d6          |
+| 7                   | 4d6        | 4d8        | 4d10      | 8d6          |
+| 9                   | 5d6        | 5d8        | 5d10      | 10d6         |
+| 11                  | 6d6        | 6d8        | 6d10      | 12d6         |
