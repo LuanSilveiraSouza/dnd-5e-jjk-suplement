@@ -8,20 +8,17 @@ Humanos compõem a grande massa de seres do mundo de Jujutsu Kaisen.
 - **Dado de Vida**: 1d6
 - **HP no nível 1**: 12 + 1d6
 - **HP em níveis subsequentes**: 1d6 por nível
-- **Restrição Celestial**: Humanos são os únicos capazes de escolher os Caminhos de Feiticeiro "Restrição Celestial Física" e "Restrição Celestial Amaldiçoada".
 - **Potencial Grandioso**: Escolha 1 Talento qualquer extra no nível 1.
 ## Subespécie: Feiticeiro
 Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Feiticeiro compreende as Etnias da Ásia e suas ascendências.
 - **Pronto para o Combate**: Ao rolar sua Iniciativa e o valor for igual ou inferior ou seu modificador de Agilidade (sem contar bônus) você pode optar por rolar novamente, e deve manter o novo valor.
-- **Duro na Queda**: Você não é afetado por qualquer efeito que cause desvantagem de testes de Corpo.
 ## Subespécie: Xamã
-Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Xamã compreende as Etnias das África, Povos Originários e suas ascendências.
-- **Mente Treinada**: Você tem vantagem ao fazer testes para evitar a condição Enfeitiçado ou Amedrontado.
+Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Xamã compreende as Etnias da África, Povos Originários e suas ascendências.
 - **Mente Fortalecida**: Você é resistente a dano psíquico.
 ## Subespécie: Médium
-Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Médium compreende as Etnias Americanas, Europeias e suas ascendências.
-- **Visão no Escuro**: Você tem Visão no Escuro de alcance de 5 unidades.
-- **Sentidos Aguçados**: Escolha entre Intuição, Percepção ou Sobrevivência. Você ganha proficiência na perícia escolhida.
+Características genéticas e étnicas incluem pequenas diferenças em como o corpo interpreta a Energia Amaldiçoada. A Subespécie de Médium compreende as Etnias Americanas, Europeias e suas ascendências. 
+- **Sentidos Aguçados**: Escolha entre Investigação, Percepção ou Raciocínio. Você ganha proficiência na perícia escolhida.
+ - **Personalidade Forte**: Você tem vantagem ao fazer testes para evitar a condição Enfeitiçado ou Amedrontado.
 ## Subespécie: Restrição Celestial
 A Restrição Celestial faz de você o mais raro dos humanos. O universo o escolheu para ser o ponto fora da curva, um voto vinculativo de nascença, uma balança desequilibrada. Você é obrigado a escolher entre a Restrição Celestial Física e ter um físico perfeito e superhumano mas nenhum pingo de Energia Amaldiçoada, ou a Restrição Celestial Amaldiçoada para possuir quantidades astronômicas de Energia Amaldiçoada mas um corpo frágil e quebradiço.
 # Reencarnado
@@ -57,6 +54,7 @@ Corpos Amaldiçoados são existências totalmente artificiais criadas por feitic
 - **HP no nível 1**: 16 + 1d8
 - **HP em níveis subsequentes**: 1d8 por nível
 - **Não natural**: Não precisa respirar, comer, beber e dormir. Em vez disso é necessário materiais para se reparar e consertar durante descansos.
+- **Corpo Artificial**: Você é resistente contra dano venenoso, porém vulnerável contra dano ácido.
 ## Subespécie: Corpo Suave
 - **Aparência Personalizada**: Ganha proficiência em Intimidação, Persuasão ou Atuação;
 - **Surpresa!**: Uma vez por descanso, caso passe em um teste de Atuação pode se disfarçar naquilo que você lembra. Sua súbita demonstração de senciência pode paralizar um inimigo que falhe em um teste de Mente de DC **10 + seu Mod Ego**.
@@ -71,20 +69,20 @@ Espíritos Amaldiçoados são seres compostos totalmente de energia amaldiçoada
 - **Dado de Vida**: 1d6
 - **HP no nível 1**: 12 + 1d6
 - **HP em níveis subsequentes**: 1d6 por nível
-- **Natureza Sobrenatural**: Não precisa respirar, comer, beber e dormir. Possui vantagem em salvaguardas envolvendo doenças e venenos e resistência contra dano venenoso e psíquico. Seu tipo de criatura é Morto-Vivo.
+- **Natureza Sobrenatural**: Não precisa respirar, comer, beber e dormir. Você é vulnerável a dano radiante e não pode adquirir resistência nem imunidade contra.
 - **Força Invisível**: Como é feito totalmente de energia amaldiçoada não-feiticeiros não conseguem interagir nem ver você. Caso um não-feiticeiro esteja no limiar da morte (metade ou menos de HP) ele começa a o enxergar;
-- **Corpo de Energia Amaldiçoada**: Você é vulnerável a dano radiante e não pode adquirir resistência nem imunidade contra.
-- **Existência Deplorável**: Você tem desvantagem em testes envolvendo situações sociais (exceto intimidação).
+- **Corpo de Energia Amaldiçoada**: Você recebe o Talento [[V2/Mecânicas/Talentos/Energia Amaldiçoada Reversa|Energia Amaldiçoada Reversa]] no nível 1. Qualquer tipo de cura externa, seja por Energia Positiva ou não, se torna dano contra você.
+- **Fora da Sociedade**: Você tem desvantagem em testes envolvendo situações sociais (exceto intimidação).
 ## Subespécie: Espírito Vingativo
 - **Rancor**: Escolha um tipo de criatura ou um indivíduo em específico. Caso escolha um tipo de criatura, some +1 em todas as rolagens de acerto e ataque neste tipo de criatura. Caso escolha um indivíduo, some +2 em todas as rolagens de acerto e ataque contra ele;
-- **Vingança**: Ao receber dano escolha fazer seu próximo ataque contra quem lhe causou dano com vantagem. Você pode usar esta habilidade igual ao seu modificador de Ego por descanso.
+- **Vingança**: Ao receber dano escolha fazer seu próximo ataque contra quem lhe causou dano com vantagem. Você pode usar esta habilidade igual ao seu modificador de Ego (mínimo de 1) por descanso.
 ## Subespécie: Espírito Imaginário
 - **Medo Real**: Ao fazer qualquer teste envolvendo sua origem, faça com vantagem;
-- **Nome Conhecido**: Sempre que você rolar iniciativa, você pode optar por forçar todas as criaturas que podem o ver a fazer um salvaguarda de Mente (DC = 10 + seu Mod Ego). A falha causa a condição de amedrontado por 5 turnos, e o afetado por rerrolar a salvaguarda no início de seus turnos, com o sucesso os tornando imunes ao efeito por 24 horas. Você pode utilizar esta habilidade igual ao seu modificador de Ego (mínimo de 1) por descanso.
+- **Nome Conhecido**: Sempre que você rolar iniciativa, você pode optar por forçar todas as criaturas que podem o ver a fazer um teste de Resistência de Mente (DC = 10 + seu Mod Ego). A falha causa a condição de amedrontado por 5 turnos, e o afetado por rerrolar o teste no início de seus turnos, com o sucesso os tornando imunes ao efeito por 24 horas. Você pode utilizar esta habilidade igual ao seu modificador de Ego (mínimo de 1) por descanso.
 ## Subespécie: Espírito de Doença
 - **Nascido da Praga**: Imune a doenças, a dano venenoso e a condição envenenado;
 - **Impacto de Doença**: Ataques desarmados tem 1d4 de dano venenoso adicionados, se tornando 1d6 no nível 5;
-- **Doença Viva**: A partir do nível 5, toda vez que tocar em algum indivíduo este deverá passar em um salvaguarda de Constituição com DC 8 + seu Mod Ego ou então contrairá sua doença. O sucesso o torna imune a sua doença. Este efeito ocorre apenas uma vez por turno.
+- **Doença Viva**: A partir do nível 5, toda vez que tocar em algum indivíduo este deverá passar em um teste de Resistência de Corpo com DC 8 + seu Mod Ego ou então contrairá sua doença. O sucesso o torna imune a sua doença. Este efeito ocorre apenas uma vez por turno.
 # Simuriano
 Simurianos são seres extraterrestres provenientes de um planeta fora do Sistema Solar. Biologicamente são muito semelhantes aos humanos, com a exceção de seu Terceiro Olho no meio da testa. Simurianos são raríssimos na Terra, mas aprendem e se adaptam rapidamente, apesar de seu planeta natal não ter uma cultura de Energia Amaldiçoada tão avançada quanto a terra.
 - Idade: Simurianos atingem a idade adulta com 20 anos e vivem até 150 anos;
@@ -95,4 +93,4 @@ Simurianos são seres extraterrestres provenientes de um planeta fora do Sistema
 - **HP no nível 1**: 12 + 1d6
 - **HP em níveis subsequentes**: 1d6 por nível
 - **Potencial Grandioso**: Escolha 1 Talento qualquer extra no nível 1.
-- **Terceiro Olho**: Você é imune a condição de Cego. Uma vez por descanso, por uma ação, você pode abrir seu terceiro olho e focar em um alvo. O alvo faz um salvaguarda de Mente de DC **12 + seu Mod Ego**. A falha resulta no alvo ficando inconsciente por 5 turnos.
+- **Terceiro Olho**: Você é imune a condição de Cego. Uma vez por descanso, por uma ação, você pode abrir seu terceiro olho e focar em um alvo. O alvo faz um teste de Resistência de Mente de DC **12 + seu Mod Ego**. A falha resulta no alvo ficando atordoado por 5 turnos.

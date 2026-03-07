@@ -1,5 +1,5 @@
 # Energia Positiva - Suporte
-**Pré-requisitos**: Grau 3 ou superior; Gatilho.
+**Pré-requisitos**: Gatilho.
 Em um momento de torpor e de risco de morte você entende o processo de transformar Energia Amaldiçoada em energia positiva ao multiplicar ela por ela mesma (negativo com negativo). 
 ## Nível 3 - Cura
 O uso básico de Energia Positiva consiste em curar seus próprios ferimentos. Com uma ação você usa X pontos de EA para transformá-los em Xd8 de dados de vida. Você também pode curar ferimentos físicos graves (como membros quebrados/decepados) por 5 pontos de EA.
@@ -15,7 +15,7 @@ Você otimizou a conversão de Energia Amaldiçoada em Energia Positiva. Os dado
 # Energia Positiva - Combate
 
 ## Nível 3 - Liberação de Energia Positiva
-**Pré-requisitos**: Grau 2 ou superior; Energia Positiva.
+**Pré-requisitos**: Gatilho.
 
 Você aprendeu a utilizar a Energia Positiva de forma ofensiva. Você pode adicionar dano radiante em seus ataques desarmado contra Espíritos Amaldiçoados. Cada ponto de EA utilizado adiciona 1d10 de dano radiante ao ataque, os pontos são subtraídos do total de pontos de EA que você pode gastar com cura e a quantidade de pontos de EA que você pode gastar por ataque é determinada pelo seu Mod de Mente (Mínimo de 1).
 ## Nível 5 - Reversão de Feitiço

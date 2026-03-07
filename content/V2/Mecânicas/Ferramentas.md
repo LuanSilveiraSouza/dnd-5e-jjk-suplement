@@ -45,7 +45,6 @@ Os diferentes tipos de propriedades especiais de armas estão listados nas respe
 ## Armas Improvisadas
 Quando os personagens decidem usar uma ferramenta ou item que poderia ser usado como uma arma em potencial, o Mestre pode permitir que o usem como uma arma improvisada. Se um personagem for proficiente com armas improvisadas ou se a arma improvisada for semelhante a um tipo de arma, como um porrete, o Mestre pode permitir que o personagem adicione seu bônus de proficiência à rolagem de ataque.
 Quando uma arma improvisada é usada, o dado de dano é 1d4 (o tipo de dano é decidido pelo Mestre com base na arma). Ela pode ser usada como uma arma corpo a corpo ou uma arma de arremesso, dependendo da arma. Uma arma de arremesso improvisada tem um alcance normal de 6 metros e um alcance longo de 18 metros.
-
 ## Armas Especiais
 Armas com regras especiais são descritas aqui.
 ### Lança 

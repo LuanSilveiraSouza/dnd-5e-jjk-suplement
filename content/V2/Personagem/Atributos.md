@@ -44,8 +44,9 @@ A lista abaixo abrange todas as perícias e os atributos mais comumente atribuí
 - Furtividade: Agilidade, Alma
 - Gatunagem: Agilidade
 - Raciocínio: Mente
+- Investigação: Mente
 - Percepção: Agilidade, Mente, Alma
-- Lidar com Flora/Faune: Mente, Alma, Ego
+- Lidar com Flora/Fauna: Mente, Alma, Ego
 - Sobrevivência: Mente, Alma, Ego
 - Atuação: Ego
 - Enganação: Alma, Ego

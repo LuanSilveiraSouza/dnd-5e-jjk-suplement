@@ -30,26 +30,30 @@ Como uma ação, ação bônus ou reação contra o acerto garantido de um domí
 
 ## Nível 1 - Estilo da Sombra: Domínio Simples
 
-Como uma ação ou reação à uma rolagem de ataque ou salvaguarda que utilize EA, feitiço ou expansão de domínio, você gasta 3 pontos de EA para preencher seus entornos em um círculo de 2 unidades de raio por 5 turnos. O círculo possui seu total de pontos de EA como pontos de vida. Quaisquer técnicas que atingir você ou o círculo será redirecionada para a barreira do domínio simples, reduzindo seus pontos de vida até 0.
-
+Como uma ação ou reação à uma rolagem de ataque ou salvaguarda que utilize EA, feitiço ou expansão de domínio, você gasta 2 pontos de EA para preencher seus entornos em um círculo de 2 unidades de raio por 5 turnos. O círculo possui seu total de pontos de EA como pontos de vida. Quaisquer técnicas que atingir você ou o círculo será redirecionada para a barreira do domínio simples, reduzindo seus pontos de vida até 0.
 ## Nível 3 - Saque da Espada do Crepúsculo
-O raio de seu Domínio Simples aumenta para 3 unidades.  
+- O raio de seu Domínio Simples aumenta para 3 unidades.  
+- Você pode ativar seu Domínio Simples como Ação Bônus. 
 
-Você assume uma postura baixa e preparada. Quando uma criatura entra na área do seu **Domínio Simples**, você pode realizar, como reação, um ataque com arma contra ela. Em caso de acerto, você causa **dano crítico**, além de uma quantidade adicional de dados da arma igual à Energia Amaldiçoada que decidir gastar para essa técnica.
+Você assume uma postura baixa e preparada. Quando uma criatura entra na área do seu **Domínio Simples**, você pode realizar, como reação, um ataque com arma contra ela. Em caso de acerto, você causa **dano crítico**, além de uma quantidade adicional de dados da arma igual à Energia Amaldiçoada extra que decidir gastar para essa técnica (Máximo = Mod de Alma; Mínimo = 1).
 Alternativamente, você pode optar por receber **+3 na CA e nos testes de resistência contra ataques de Energia Amaldiçoada** até o início do seu próximo turno.
+## Nível 5
+- Você pode ativar seu Domínio Simples como Reação.
+- Você pode usar 2 reações por turno, desde que elas sejam 1 conjuração de Domínio Simples + 1 Saque da Espada do Crepúsculo ou 2 Saque da Espada do Crepúsculo.
 ## Nível 7 - Batto: Saque da Espada
-Você pode ativar seu Domínio Simples como Ação Bônus.  
+- Você pode alterar a forma de seu Domínio Simples: Ao conjurá-lo, escolha entre um círculo de 3 unidades de raio, um cone de 3 unidades de raio ou um retângulo de 3x4/2x5/1x6 unidades de tamanho. Você também não precisa mais conjurar o Domínio com você no centro.
 
 Ao custo de 3 Energias Amaldiçoadas, você aprende a técnica mais rápida do Novo Estilo das Sombras.
 Como ação, enquanto estiver empunhando uma arma corpo a corpo, você pode realizar **um ataque com vantagem** contra um número de alvos igual ao modificador de Agilidade (à sua escolha), desde que estejam dentro de **metade do seu deslocamento e alcance**. Após os ataques, você termina seu turno atrás do alvo mais distante dentre eles.
 Esse movimento **não provoca ataques de oportunidade**.
-# Nível 9
-## Novo Estilo das Sombras: Véu do Luar
-- O raio de seu Domínio Simples aumenta para 4 unidades.
+## Nível 9 - Novo Estilo das Sombras: Véu do Luar
+- O tamanho de seu Domínio Simples em 1 unidade para os formato de círculo e cone, e 4x5/3x4/2x5/1x6 unidades como retângulo.
 - Você pode ativar seu Domínio Simples como Reação ou Ação Bônus por 1 ponto de EA.
 - Você também pode recriar partes quebradas de armas por 1 ponto de EA.
 
-Como ação bônus, você pode imbuir sua arma ou ataque desarmado com o poder do seu Domínio Simples. Ao fazer isso, adicione seu modificador de Ego às jogadas de ataque **e** dano com essa arma. 
+Como ação bônus, você pode imbuir sua arma ou ataque desarmado com o poder do seu Domínio Simples. Ao fazer isso, adicione seu modificador de Ego às jogadas de ataque **e** dano com essa arma até o início de seu turno seguinte. 
+## Nível 11
+- Você possui 3 reações para usar como conjuração de Domínio Simples e Saque da Espada do Crepúsculo.
 # Expansão de Domínio
 ## Nível 3 - Domínio Incompleto
 **Pré-requisitos**: Técnica Inata; Gatilho.
@@ -62,7 +66,7 @@ Você também pode utilizar esta técnica ofensivamente, desde que tenha equipad
 ## Nível 9 - Amplificação de Domínio
 **Pré-requisitos**: Técnica Inata.
 
-Você aprendeu como utilizar o poder de um domínio sem usá-lo ativamente. Como uma ação, por metade da Energia Amaldiçoada que seu domínio requer, você pode cobrir seu corpo para "vestir" seu domínio a fim de neutralizar técnicas amaldiçoadas por 1 minuto. Uma vez ativado, você nega automaticamente qualquer técnica defensiva, técnica ofensiva ou magia que o afete e pode ignorar barreiras como a do infinito. Você também negará o efeito de acerto certo de um domínio se estiver dentro dele. Além disso, você não pode usar sua Técnica Inata a menos que dispense Amplificação de Domínio como uma ação bônus. Mesmo se a dispensar, você pode reativá-la como uma ação bônus por um minuto sem gastar a energia amaldiçoada novamente. Esta técnica não funciona contra Liberação Máxima de Técnica, Técnica com Entoamento e Técnica Maximum, o garantindo apenas resistência ao invés de imunidade.
+Você aprendeu como utilizar o poder de um domínio sem usá-lo ativamente. Como uma ação, por metade da Energia Amaldiçoada que seu domínio requer, você pode cobrir seu corpo para "vestir" seu domínio afim de neutralizar técnicas amaldiçoadas por 5 turnos. Uma vez ativado, você nega automaticamente qualquer técnica defensiva, técnica ofensiva ou magia que o afete e pode ignorar barreiras como a do infinito. Você também negará o efeito de acerto certo de um domínio se estiver dentro dele. Além disso, você não pode usar sua Técnica Inata a menos que dispense Amplificação de Domínio como uma ação bônus. Mesmo se a dispensar, você pode reativá-la como uma ação bônus por 5 turnos sem gastar a energia amaldiçoada novamente. Esta técnica não funciona contra Liberação Máxima de Técnica, Técnica com Entoamento e Técnica Maximum, o garantindo apenas resistência ao invés de imunidade.
 ## Nível 11 - Domínio Refinado
 Pré-requisitos: Expansão de Domínio; 400 pontos de Refinamento.
 
