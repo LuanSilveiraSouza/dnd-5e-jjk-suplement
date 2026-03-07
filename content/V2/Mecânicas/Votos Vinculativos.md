@@ -37,11 +37,11 @@ Todos evitam a quebra de votos por medo do quão  avassalador pode ser as conseq
 A punição é mitigada em casos de votos multi feiticeiros caso ambas acordem em finalizar o pacto simultaneamente.
 # Exemplos de Votos
 ## Voto Vinculativo: Torcedor Fanático
-Ao iniciar todo encontro, o feiticeiro escolhe um alvo inimigo para fazer a seguinte pergunta: "Tu é Colorado?". A resposta dará bônus ou concessões contra o alvo.
+Ao iniciar todo encontro, o feiticeiro escolhe um alvo inimigo para fazer a seguinte pergunta: "Você torce para o time X?". A resposta dará bônus ou concessões contra o alvo.
 
-| Valor de 1d4                       | Efeito                                  |
-| ---------------------------------- | --------------------------------------- |
-| 1 = Sim                            | Vantagem em todas as rolagens de ataque |
-| 2 = Silêncio/Não sei/etc           | +1 nas rolagens de ataque               |
-| 3 = Não                            | Nada acontece                           |
-| 4 = Sou Gremista/Odeio o Inter/etc | Você não causa nenhum dano ao alvo      |
+| Valor de 1d4                   | Efeito                                  |
+| ------------------------------ | --------------------------------------- |
+| 1 = Sim                        | Vantagem em todas as rolagens de ataque |
+| 2 = Silêncio/Não sei/etc       | +1 nas rolagens de ataque               |
+| 3 = Não                        | Nada acontece                           |
+| 4 = Torço para o Rival/Odeio X | Você não causa nenhum dano ao alvo      |

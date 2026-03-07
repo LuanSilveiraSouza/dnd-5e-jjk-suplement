@@ -16,12 +16,14 @@ Há vários tipos de movimentação, com alguns requerindo condições extras:
 - Andar enquanto Agarrado: Caso esteja agarrado por outra criatura, faça um teste de Atletismo/Acrobacia contra um teste de Atletismo/Acrobacia da criatura. Caso vença, se movimente com o dobro o custo em unidades. Caso perca você não pode se movimentar.
 ## Ação Principal
 Escolha 1 da lista abaixo:
-- Ataque Desarmado: Some seu Mod de Corpo ou Agilidade nas rolagens de acerto e dano. O dado de dano inicial é 1d4, mas que pode ser aumentado;
+- Ataque Desarmado: Some seu Mod de Corpo ou Agilidade nas rolagens de acerto e dano. O dado de dano inicial é 1d4, mas pode ser aumentado;
 - Ataque com Arma: Faça uma rolagem de acerto e uma de dano. Os dados de dano e quaiquer efeitos adicionais são definidos pela arma utilizada, enquanto os modificadores são definidos pela proficiência na arma em questão;
 - Habilidade de Técnica Amaldiçoada: Habilidade de Talento ou de sua Técnica Inata que é descrita como custando 1 ação.
 - Ajuda: Contribui para o turno seguinte de algum aliado dentro de sua alcance de deslocamento, garantindo vantagem em todas as rolagens de acerto e testes de atributos. 
 ## Ação Bônus
 Escolha 1 da lista abaixo:
+- Ataque Desarmado: Ataques feitos com ação bônus não tem o Mod de Atributo somados. O dado de dano inicial é 1d4, mas pode ser aumentado;
+- Ataque com Arma Leve: Faça uma rolagem de acerto e uma de dano. Os dados de dano e quaiquer efeitos adicionais são definidos pela arma utilizada, enquanto os modificadores são definidos pela proficiência na arma em questão. A arma precisa ter a propriedade "Leve" e estar em sua mão não dominante.;
 - Disparar: Dobre sua movimentação pelo resto do turno;
 - Esquivar: Desvantagem em rolagens de acerto contra você. Você faz testes de Agilidade com vantagem;
 - Desengajar: Sua movimentação não causa ataques de oportunidades pelo resto de seu turno;

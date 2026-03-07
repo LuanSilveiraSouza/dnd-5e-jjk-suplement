@@ -8,7 +8,8 @@ O sistema de dano a membros corporais pode ser usado por algumas Técnicas Inata
 | Torso          | -6         | 1/2 do HP Máximo |
 | Cabeça         | -8         | 1/4 do HP Máximo |
 
-Caso acerte, o dano precisa ser igual ou superior ao valor de HP do membro para afetá-lo o suficiente. O alvo perde os pontos de vida normalmente com o ataque.
+Caso acerte, o dano precisa ser igual ou superior ao valor de HP do membro para afetá-lo o suficiente. O alvo perde os pontos de vida normalmente com o ataque. Caso esteja agarrando o alvo, faça a rolagem de acerto com vantagem.
+
 Ao afetar um membro, ele fica quebrado. Caso o membro seja afetado novamente, ele é perdido. A tabela abaixo descreve os efeitos em ambos os casos:
 
 | Parte do Corpo | Membro Quebrado                                                                                                                                                                           | Membro Perdido                                     |

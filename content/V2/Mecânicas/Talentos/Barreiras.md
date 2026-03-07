@@ -55,11 +55,8 @@ Como ação bônus, você pode imbuir sua arma ou ataque desarmado com o poder d
 ## Nível 11
 - Você possui 3 reações para usar como conjuração de Domínio Simples e Saque da Espada do Crepúsculo.
 # Expansão de Domínio
-## Nível 3 - Domínio Incompleto
-**Pré-requisitos**: Técnica Inata; Gatilho.
 
-Sem capacidade de criar um domínio e o imbuir com sua técnica, você utiliza um domínio já aberto como a barreira para sua técnica amaldiçoada. 
-## Nível 7 - Emoção das Pétalas Caídas
+## Nível 5 - Emoção das Pétalas Caídas
 
 Uma técnica exclusiva das famílias nobres de Feiticeiros. Você cobre todo seu corpo em Energia Amaldiçoada que contra ataca no exato momento que o acerto garantido de qualquer domínio entre na área de efeito. Como uma ação ou reação você gasta 7 pontos de EA para impedir qualquer rolagem de ataque com sucesso automático ou salvaguarda com falha automática. A técnica dura 5 turnos e não funciona contra ataques de armas brancas.
 Você também pode utilizar esta técnica ofensivamente, desde que tenha equipado uma arma branca. Como uma ação que gasta 5 pontos de EA, você se envolve em Energia Amaldiçoada por 5 turnos. No momento do acerto de algum ataque, você pode usar sua reação para fazer um ataque com sua arma com vantagem. Ao acertar, o dano é considerado crítico e o tipo do dano é energético. Ao utilizar a reação você precisa a reativar a técnica. Caso sua EA possua dano elemental ela também altera o dano da Emoção das Pétalas Caídas.

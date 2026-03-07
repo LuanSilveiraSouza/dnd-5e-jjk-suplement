@@ -180,16 +180,12 @@ Você pode reforçar seu corpo com EA. Como uma reação, você escolhe uma quan
 | 7     | 1d12 |
 | 9     | 2d8  |
 | 11    | 2d10 |
+## Nível 3 - Surto de Movimentos
 
-## Nível 3 - Barragem de Golpes
+Por 1 ponto de EA você pode realizar 2 ações entre Disparar, Desengajar, Esquivar, Usar Item e Teste de Perícia como ação bônus.
+## Nível 5 - Barragem de Golpes
 
-Você pode gastar 1 ponto de EA para realizar 2 ataques desarmados ou 1 ataque de arma como ação bônus.
-## Nível 3 - Defesa Paciente
-
-Você pode Desengajar como uma ação bônus. Gastar 1 ponto de EA faz você Desengajar + Esquivar como ação bônus.
-## Nível 3 - Passo de Vento
-
-Você pode Disparar como uma ação bônus. Gastar 1 ponto de EA faz você Desengajar + Disparar como ação bônus.
+Você pode gastar 2 pontos de EA para realizar 2 ataques desarmados ou 1 ataque de arma como parte de sua ação de ataque.
 # Mestre de Shikigami
 
 Feiticeiros possuem a capacidade de solidificar sua Energia Amaldiçoada em um Shikigami, um ser vivo constituído da Energia Amaldiçoada do usuário, que determina sua aparência. Os shikigamis são pacíficos com o usuário e seus aliados, não podem ser Encantados, e funcionam como criaturas próprias ao qual o usuário comanda.
@@ -200,27 +196,21 @@ Em combate, o shikigami compartilha sua contagem de iniciativa, mas realiza seu 
 O shikigami permanece até que seus pontos de vida sejam reduzidos a 0, até que você use esta habilidade para invocá-lo novamente ou até que você morra. Tudo o que o shikigami estava vestindo ou carregando é deixado para trás quando ele desaparece. Uma vez que você invoca o shikigami, não poderá fazê-lo novamente até concluir um Descanso Longo, a menos que gaste 3 pontos de Energia Amaldiçoada.
 
 ![[Shikigami-Statblock.png]]
-## Nível 3
-
-### Técnica Compartilhada
+## Nível 3 - Técnica Compartilhada
 A sintonia entre você e seu Shikigami é aumentada. Caso possua Técnica Inata, todos os bônus ou ações que técnica inata lhe dá são concedidos também ao seu Shikigami, com a exceção de conjuração de Shikigami.
-### Guarda-Costas
+## Nível 3 - Guarda-Costas
 Seu Shikigami lhe protege instintivamente de ataques. Você pode usar sua reação caso ele esteja a 1 unidade de você e você receba dano para transferir o dano para seu Shikigami.
-
-## Nível 5
-
-### Coordenação
+## Nível 5 - Coordenação
 Você e seu shikigami atacam como um só:
 - Como parte de uma ação de ataque no seu turno, se você puder ver seu Shikigami, poderá ordená-lo a atacar uma criatura dentro do alcance. 
 - Você pode usar sua reação caso seu Shikigami esteja a 1 unidade de algum aliado que foi atacado para transferir metade do dano para seu Shikigami.
-### Evolução
+## Nível 5 - Evolução
 Seu shikigami fica mais forte. Seu companheiro ganha os seguintes benefícios:
 - Ele ganha uma velocidade de voo igual à sua velocidade de caminhada.
 - Seus golpes causam 1d6 de dano de força extra.
 - Você pode escolher que seu shikigami se torne médio ou ganhe a habilidade de se transformar em qualquer arma, causando 1d6 de dano de força adicional.
 
-## Nível 7
-### Uníssono
+## Nível 7 - Uníssono
 Seu companheiro encontra novas maneiras de ajudá-lo em combate. Após um ataque, você pode escolher que seu companheiro faça uma das seguintes ações se ele estiver a 1 unidade de você ou do inimigo:
 - O alvo do ataque sofre 1d8 de dano de força do companheiro.
 - O alvo do ataque deve ser bem-sucedido em um teste de resistência de Corpo contra o **DC de Energia Amaldiçoada** ou será movido pelo shikigami até 3 unidades horizontalmente em uma direção à sua escolha e ficará caído no chão.
@@ -229,7 +219,6 @@ Seu companheiro encontra novas maneiras de ajudá-lo em combate. Após um ataque
 ## Nível 9 e 11
 
 Escolha 1 característica dentre as 3 abaixo no nível 9 e outra no nível 11:
-
 ### Shikigami Avançado
 Seu shikigami fica mais forte. Seu companheiro ganha os seguintes benefícios:
 - Você pode distribuir 4 pontos entre seus atributos.
