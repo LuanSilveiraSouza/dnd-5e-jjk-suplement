@@ -32,31 +32,54 @@ Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem p
 - Ataque Corpo a Corpo, dano baixo, salvaguarda com dano alto;
 - Benefício próprio médio por vários turnos;
 
-| Dano/Benefício | Malefício | à Distância | Em Área/Salvaguarda | Duração       | Custo de EA |
-| -------------- | --------- | ----------- | ------------------- | ------------- | ----------- |
-| Alto           | Não       | Não         | Não                 | Imediato      | 1           |
-| Médio          | Não       | Sim         | Não                 | Imediato      | 1           |
-| Médio          | Não       | Não         | Sim                 | Imediato      | 1           |
-| Baixo          | Não       | Sim         | Sim                 | Imediato      | 1           |
-| Alto           | Sim       | Sim         | Não                 | 1 Turno       | 1           |
-| Alto           | Sim       | Não         | Sim                 | 1 Turno       | 1           |
-| Baixo          | Não       | Não         | Sim                 | Vários Turnos | 1           |
-| Baixo          | Não       | Sim         | Não                 | Vários Turnos | 1           |
-| Médio          | Não       | Não         | Não                 | Vários Turnos | 1           |
-| Alto           | Sim       | Não         | Não                 | Vários Turnos | 1           |
-|                |           |             |                     |               |             |
-| Alto           | Não       | Sim         | Não                 | Imediato      | 2           |
-| Alto           | Não       | Não         | Sim                 | Imediato      | 2           |
-| Alto           | Sim       | Sim         | Sim                 | Imediato      | 2           |
-| Alto           | Sim       | Não         | Sim                 | Vários Turnos | 2           |
-| Alto           | Sim       | Sim         | Não                 | Vários Turnos | 2           |
-| Médio          | Não       | Sim         | Sim                 | Imediato      | 2           |
-| Médio          | Não       | Não         | Sim                 | Vários Turnos | 2           |
-| Médio          | Não       | Sim         | Não                 | Vários Turnos | 2           |
-| Baixo          | Não       | Sim         | Sim                 | Vários Turnos | 2           |
-|                |           |             |                     |               |             |
-| Alto           | Não       | Sim         | Sim                 | Imediato      | 3           |
-| Alto           | Sim       | Sim         | Sim                 | Vários Turnos | 3           |
+| Dano/Benefício | Distância     | Duração  | Custo de EA |
+| -------------- | ------------- | -------- | ----------- |
+| Médio          | Corpo a Corpo | Imediato | 1           |
+
+1 Upgrade -> Custo de EA = 2
+3 Upgrades -> Custo de EA = 3
+4 Upgrades -> Custo de EA = 5
+5 Upgrades -> Custo de EA = 7
+6 Upgrades -> Custo de EA = 9
+Malefício/Downgrade de Dano -> Custo de EA - 1
+
+| Custo | Dano/Benefício | Malefício | Distância     | Área           | Teste                    | Duração  |
+| ----- | -------------- | --------- | ------------- | -------------- | ------------------------ | -------- |
+| -2    |                | Alto      |               |                |                          |          |
+| -1    | Baixo          | Médio     |               |                |                          |          |
+| -     | Médio          |           | Corpo a Corpo |                |                          | Imediato |
+| +1    | Alto           |           | 5 Unidades    | 2x2 Unidades   | DC Baixo (8 + mod)       | 1 Turno  |
+| +2    |                |           | 10 Unidades   | 3x3 Unidades   | DC Médio (10 + mod)      | 3 Turnos |
+| +3    | Muito Alto     |           | 20 Unidades   | 5x5 Unidades   | DC Alto (12 + mod)       | 5 Turnos |
+| +4    |                |           | 40 Unidades   | 8x8 Unidades   | DC Muito Alto (14 + mod) |          |
+| +5    | Extremo        |           | 60 Unidades   | 10x10 Unidades | DC Extremo (16 + mod)    |          |
+
+# Dano de Técnicas por Nível
+Use esta tabela como base para o dano de habilidades de Técnicas Inatas por nível. Você pode alterar os dados de dano de acordo com a ideia da técnica: por exemplo, se a técnica envolve um alvo único mas é formada por vários ataques seguidos, você pode alterar o dano para 2d4 em vez de 1d8. Se a técnica possui um salvaguarda com efeito adicional, diminua o dado para 1d4 com o salvaguarda falho garantindo 1d12 de dano extra. Utilize a criatividade e mantenha contato constante com o Mestre para garantir a opinião dele na combinação de efeitos desejados.
+
+| Nível de Feitiço/Feiticeiro | Dano Baixo | Dano Médio | Dano Alto | Dano Muito Alto | Dano Extremo | Dano em Área | Custo de EA |
+| --------------------------- | ---------- | ---------- | --------- | --------------- | ------------ | ------------ | ----------- |
+| 1                           | 1d4        | 1d6        | 1d8       | 1d10            | 1d12         | 1d6          | 1-3         |
+| 3                           | 1d6        | 1d8        | 1d10      | 1d12            | 2d6          | 2d6          | 3-5         |
+| 5                           | 1d8        | 1d10       | 1d12      | 2d6             | 2d8          | 3d6          | 5-7         |
+| 7                           | 2d4        | 2d6        | 2d8       | 2d10            | 2d12         | 4d6          | 7-9         |
+| 9                           | 2d6        | 2d8        | 2d10      | 2d12            | 3d10         | 5d6          | 10          |
+| 11                          | 2d8        | 2d10       | 2d12      | 3d10            | 3d12         | 6d6          | 15          |
+
+| Nível de Feiticeiro | Vida Mínima | Vida Média | Vida Máxima |
+| ------------------- | ----------- | ---------- | ----------- |
+| 1                   | 13          | 15.5       | 18          |
+| 2                   | 14          | 19         | 24          |
+| 3                   | 15          | 22.5       | 30          |
+| 4                   | 16          | 26         | 36          |
+| 5                   | 17          | 29.5       | 42          |
+| 6                   | 18          | 33         | 48          |
+| 7                   | 19          | 36.5       | 54          |
+| 8                   | 20          | 40         | 60          |
+| 9                   | 21          | 43.5       | 66          |
+| 10                  | 22          | 47         | 72          |
+| 11                  | 23          | 50.5       | 78          |
+| 12                  | 24          | 54         | 84          |
 
 # Tipos de Dano
 Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[V1/Mecânicas/Talentos/Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.
@@ -67,24 +90,12 @@ Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas s
 | Cortante    | Objetos cortantes, garras                                     | Contundente/Perfurante |
 | Perfurante  | Objetos perfurantes, presas                                   | Contundente/Cortante   |
 | Ácido       | Líquidos corrosivos, enzimas digestivas                       | Radiante               |
-| Alma        | Energia que consome a alma                                    | Psíquico               |
+| Alma        | Energia que afeta diretamente a alma                          | Psíquico               |
 | Elétrico    | Eletricidade, eletromagnetismo e seus fenômenos               | -                      |
 | Energético  | Energia Amaldiçoada pura, impacto cinético                    | -                      |
 | Gelo        | Água, gelo, neve                                              | Fogo                   |
 | Fogo        | Fogo, chamas, magma                                           | Gelo                   |
 | Necrótico   | Energia que consome a vida, podridão                          | Radiante               |
-| Psíquico    | Energia que consome a mente                                   | Alma                   |
+| Psíquico    | Energia que afeta a mente                                     | Alma                   |
 | Radiante    | Energia sagrada, Energia positiva                             | Necrótico              |
 | Venenoso    | Gás tóxico, veneno                                            | Psíquico               |
-
-# Dano de Técnicas por Nível
-Use esta tabela como base para o dano de habilidades de Técnicas Inatas por nível. Você pode alterar os dados de dano de acordo com a ideia da técnica: por exemplo, se a técnica envolve um alvo único mas é formada por vários ataques seguidos, você pode alterar o dano para 2d4 em vez de 1d8. Se a técnica possui um salvaguarda com efeito adicional, diminua o dado para 1d4 com o salvaguarda falho garantindo 1d12 de dano extra. Utilize a criatividade e mantenha contato constante com o Mestre para garantir a opinião dele na combinação de efeitos desejados.
-
-| Nível de Feiticeiro | Dano Baixo | Dano Médio | Dano Alto | Dano em Área |
-| ------------------- | ---------- | ---------- | --------- | ------------ |
-| 1                   | 1d6        | 1d8        | 1d10      | 2d6          |
-| 3                   | 2d6        | 2d8        | 2d10      | 4d6          |
-| 5                   | 3d6        | 3d8        | 3d10      | 6d6          |
-| 7                   | 4d6        | 4d8        | 4d10      | 8d6          |
-| 9                   | 5d6        | 5d8        | 5d10      | 10d6         |
-| 11                  | 6d6        | 6d8        | 6d10      | 12d6         |

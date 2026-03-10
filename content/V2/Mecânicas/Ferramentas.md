@@ -11,22 +11,22 @@
 
 # Armas
 Sua origem concede proficiência em certas armas, refletindo tanto sua criação quanto as ferramentas que você provavelmente usará com mais frequência. Seja uma espada longa ou uma pistola, sua arma e sua habilidade em empunhá-la com eficácia podem significar a diferença entre a vida e a morte ao enfrentar maldições.
-A tabela de Armas mostra as armas mais comuns usadas no mundo de Jujutsu Kaisen, seu preço e peso, o dano que causam ao atingir o alvo e quaisquer propriedades especiais que possuam. Cada arma é classificada como corpo a corpo ou à distância. Uma arma corpo a corpo é usada para atacar um alvo a até 1 unidade de você, enquanto uma arma à distância é usada para atacar um alvo a uma certa distância.
+A tabela de Armas mostra os tipos de armas, seu preço, peso, o dano que causam ao atingir o alvo e quaisquer propriedades especiais que possuam. Cada arma é classificada como corpo a corpo ou à distância. Uma arma corpo a corpo é usada para atacar um alvo a até 1 unidade de você, enquanto uma arma à distância é usada para atacar um alvo a uma certa distância.
 ## Proficiência em Armas
 Sua origem e talentos lhe concedem a capacidade de obter proficiência em certos tipos de armas. 
 As proficiências são divididas em **Armas Improvisadas**, **Armas de Uma Mão**, **Armas de Duas Mãos**, **Arcos** e **Armas de Fogo**.
-Quando você possui proficiência em um tipo de arma, você pode escolher entre seu modificador de Corpo ou Agilidade para somar nas rolagens de acerto e dano. Quando você não possui proficiência em um tipo de arma, você não adiciona seu modificador de atributo à rolagem.
+Você pode escolher entre seu modificador de Corpo ou Agilidade para somar nas rolagens de acerto. Quando você possui proficiência em um tipo de arma, dobre seu modificador (caso o modificador seja negativo, considere-o como 0). 
 ## Armas Improvisadas
 Quando os personagens decidem usar uma ferramenta ou item que poderia ser usado como uma arma em potencial, o Mestre pode permitir que o usem como uma arma improvisada. Se um personagem for proficiente com armas improvisadas ou se a arma improvisada for semelhante a um tipo de arma, como um martelo, o Mestre pode permitir que o personagem adicione seu modificador de atributo à rolagem de ataque.
-Quando uma arma improvisada é usada, o dado de dano é 1d4 (o tipo de dano é decidido pelo Mestre com base na arma). Ela pode ser usada como uma arma corpo a corpo ou uma arma de arremesso, dependendo da arma. Uma arma de arremesso improvisada tem um alcance normal de 6 metros e um alcance longo de 18 metros.
+Quando uma arma improvisada é usada, o dado de dano é 1d4 (o tipo de dano é decidido pelo Mestre com base na arma). Ela pode ser usada como uma arma corpo a corpo ou uma arma de arremesso, dependendo da arma. Uma arma de arremesso improvisada tem um alcance de 5 unidades.
 ## Propriedades de Armas
 Os diferentes tipos de propriedades especiais de armas estão listados abaixo:
 - Leve: Pode ser usada como ataque extra custando 1 ação bônus, desde que esteja na mão não dominante;
-- Arremesso: Você pode fazer um ataque a distância com a arma. Os números (X/Y) representam a distância em unidades que você faz uma rolagem de acerto normal e uma com desvantagem, respectivamente;
+- Arremesso: Você pode fazer um ataque a distância com a arma. O número X representa a distância máxima em unidades que você pode fazer o ataque com a arma;
 - Duas Mãos: Por conta de seu tamanho, você precisa usar as duas mãos para segurar a arma;
 - Versátil: A arma tem o dado de dano aumentado caso a segure com as duas mãos;
 - Extensão: O alcance da arma é de 2 unidades em vez de 1;
-- Munição: A arma usa algum tipo de munição como projétil. Os números (X/Y) representam a distância em unidades que você faz uma rolagem de acerto normal e uma com desvantagem, respectivamente;
+- Munição: A arma usa algum tipo de munição como projétil. O número X representa a distância máxima em unidades que você pode fazer o ataque com a arma;
 - Recarga: Você só pode fazer 1 ataque por turno com esta arma;
 - Recarga(X): A arma possui um carregador com munições. Ao gastar todos os projéteis representados por X, é necessário usar uma ação para recarregar a arma.
 ## Armas Especiais
@@ -38,47 +38,47 @@ Manoplas seguem o formato das mãos como luvas. Quaisquer características que e
 
 ## Armas Brancas
 
-| Arma                     | Custo  | Dano | Tipo de Dano | Propriedades                                     |
-| ------------------------ | ------ | ---- | ------------ | ------------------------------------------------ |
-| **Armas de Uma Mão**     |        |      |              |                                                  |
-| Adaga                    | $200   | 1d4  | Perfurante   | Leve, Arremesso (Alcance 4/8)                    |
-| Machadinha               | $500   | 1d4  | Cortante     | Leve, Arremesso (Alcance 4/8)                    |
-| Martelo Leve             | $200   | 1d4  | Contundente  | Leve, Arremesso (Alcance 4/8)                    |
-| Manopla                  | $100   | 1d4  | Contundente  | Leve, Especial                                   |
-| Porrete                  | $500   | 1d6  | Contundente  | -                                                |
-| Espada Curta             | $1,000 | 1d6  | Cortante     | Leve                                             |
-| Lança Curta              | $500   | 1d6  | Perfurante   | Arremesso (Alcance 6/18)                         |
-| Chicote                  | $2,000 | 1d6  | Cortante     | Extensão                                         |
-| Corrente Pesada          | $3,000 | 1d4  | Contundente  | Extensão, Especial                               |
-| **Armas de Duas Mãos**   |        |      |              |                                                  |
-| Cajado                   | $100   | 1d6  | Contundente  | Versátil (1d8)                                   |
-| Lança                    | $1,000 | 1d6  | Perfurante   | Arremesso (Alcance 8/20), Extensão, Versátil(d8) |
-| Espada Longa             | $2,000 | 1d8  | Cortante     | Versátil(1d10)                                   |
-| Rapieira                 | $1,500 | 1d8  | Perfurante   | -                                                |
-| Glaive                   | $2,000 | 1d10 | Cortante     | Extensão, Duas mãos                              |
-| Alabarda                 | $2,000 | 1d10 | Perfurante   | Extensão, Duas mãos                              |
-| Martelo Grande           | $2,000 | 1d10 | Contundente  | Extensão, Duas mãos                              |
-| Malho                    | $1,000 | 2d6  | Contundente  | Duas mãos                                        |
-| Machado Grande           | $3,000 | 1d12 | Cortante     | Duas mãos                                        |
-| Espada Grande            | $5,000 | 2d6  | Cortante     | Duas mãos                                        |
-| Lança Pesada             | $3,000 | 1d12 | Perfurante   | Duas mãos                                        |
-| Cajado de Três Segmentos | $5,000 | 3d4  | Contundente  | Duas mãos                                        |
+| Arma                     | Custo  | Dano | Tipo de Dano | Propriedades                                   |
+| ------------------------ | ------ | ---- | ------------ | ---------------------------------------------- |
+| **Armas de Uma Mão**     |        |      |              |                                                |
+| Adaga                    | $200   | 1d4  | Perfurante   | Leve, Arremesso (Alcance 4)                    |
+| Machadinha               | $500   | 1d4  | Cortante     | Leve, Arremesso (Alcance 4)                    |
+| Martelo Leve             | $200   | 1d4  | Contundente  | Leve, Arremesso (Alcance 4)                    |
+| Manopla                  | $100   | 1d4  | Contundente  | Leve, Especial                                 |
+| Porrete                  | $500   | 1d6  | Contundente  | -                                              |
+| Espada Curta             | $1,000 | 1d6  | Cortante     | Leve                                           |
+| Lança Curta              | $500   | 1d6  | Perfurante   | Arremesso (Alcance 6)                          |
+| Chicote                  | $2,000 | 1d6  | Cortante     | Extensão                                       |
+| Corrente Pesada          | $3,000 | 1d4  | Contundente  | Extensão, Especial                             |
+| **Armas de Duas Mãos**   |        |      |              |                                                |
+| Cajado                   | $100   | 1d6  | Contundente  | Versátil (1d8)                                 |
+| Lança                    | $1,000 | 1d6  | Perfurante   | Arremesso (Alcance 10), Extensão, Versátil(d8) |
+| Espada Longa             | $2,000 | 1d8  | Cortante     | Versátil(1d10)                                 |
+| Rapieira                 | $1,500 | 1d8  | Perfurante   | -                                              |
+| Glaive                   | $2,000 | 1d10 | Cortante     | Extensão, Duas mãos                            |
+| Alabarda                 | $2,000 | 1d10 | Perfurante   | Extensão, Duas mãos                            |
+| Martelo Grande           | $2,000 | 1d10 | Contundente  | Extensão, Duas mãos                            |
+| Malho                    | $1,000 | 2d6  | Contundente  | Duas mãos                                      |
+| Machado Grande           | $3,000 | 1d12 | Cortante     | Duas mãos                                      |
+| Espada Grande            | $5,000 | 2d6  | Cortante     | Duas mãos                                      |
+| Lança Pesada             | $3,000 | 1d12 | Perfurante   | Duas mãos                                      |
+| Cajado de Três Segmentos | $5,000 | 3d4  | Contundente  | Duas mãos                                      |
 
 ## Armas à Distância
 
-| Arma              | Custo   | Custo da Munição | Dano | Tipo de Dano | Propriedades                              |
-| ----------------- | ------- | ---------------- | ---- | ------------ | ----------------------------------------- |
-| **Arcos**         |         |                  |      |              |                                           |
-| Arco Curto        | $2,500  | $100 (10)        | 1d6  | Perfurante   | Munição (20/60), Recarga, Duas mãos       |
-| Besta Leve        | $2,500  | $50 (10)         | 1d8  | Perfurante   | Munição (20/60), Recarga, Duas mãos       |
-| Arco Longo        | $5,000  | $100 (10)        | 1d8  | Perfurante   | Munição (60/180), Recarga, Duas mãos      |
-| Besta de Mão      | $5,000  | $50 (10)         | 1d6  | Perfurante   | Munição (8/20), Recarga, Leve             |
-| Besta Pesada      | $5,000  | $100 (10)        | 1d10 | Perfurante   | Munição (40/100), Recarga, Duas mãos      |
-| **Armas de Fogo** |         |                  |      |              |                                           |
-| Pistola           | $3,000  | $250 (15)        | 1d8  | Perfurante   | Leve, Munição (20/60), Recarga (8)        |
-| Revólver          | $3,000  | $250 (6)         | 1d10 | Perfurante   | Munição (40/100), Recarga (6)             |
-| Rifle             | $10,000 | $500 (8)         | 1d12 | Perfurante   | Munição (100/300), Recarga (5), Duas mãos |
-| Escopeta          | $10,000 | $500 (4)         | 2d6  | Perfurante   | Munição (6/18), Recarga (2), Duas mãos    |
+| Arma              | Custo   | Custo da Munição | Dano | Tipo de Dano | Propriedades                         |
+| ----------------- | ------- | ---------------- | ---- | ------------ | ------------------------------------ |
+| **Arcos**         |         |                  |      |              |                                      |
+| Arco Curto        | $2,500  | $100 (10)        | 1d6  | Perfurante   | Munição (10), Recarga, Duas mãos     |
+| Besta Leve        | $2,500  | $50 (10)         | 1d8  | Perfurante   | Munição (10), Recarga, Duas mãos     |
+| Arco Longo        | $5,000  | $100 (10)        | 1d8  | Perfurante   | Munição (40), Recarga, Duas mãos     |
+| Besta de Mão      | $5,000  | $50 (10)         | 1d6  | Perfurante   | Munição (6), Recarga, Leve           |
+| Besta Pesada      | $5,000  | $100 (10)        | 1d10 | Perfurante   | Munição (10), Recarga, Duas mãos     |
+| **Armas de Fogo** |         |                  |      |              |                                      |
+| Pistola           | $3,000  | $250 (15)        | 1d8  | Perfurante   | Leve, Munição (10), Recarga (8)      |
+| Revólver          | $3,000  | $250 (6)         | 1d10 | Perfurante   | Munição (20), Recarga (6)            |
+| Rifle             | $10,000 | $500 (8)         | 1d12 | Perfurante   | Munição (60), Recarga (5), Duas mãos |
+| Escopeta          | $10,000 | $500 (4)         | 2d6  | Perfurante   | Munição (4), Recarga (2), Duas mãos  |
 
 # Ferramentas Amaldiçoadas
 Itens, tanto novos quanto antigos, imbuídos de maldições. Essas armas estão organizadas por nível: 4º nível (Comum), 3º nível (Incomum), 2º nível (Raro), 1º nível (Muito Raro) e nível Especial (Lendário).
@@ -97,7 +97,7 @@ Você adiciona 1d4 de dano Energético ao dano da arma.
 ## Ferramentas de Grau 2
 ### Espada de Mão Amaldiçoada
 *Arma (Espada Curta), Rara*
-Você adiciona 1d6 de dano Energético ao dano da arma. Você pode controlar remotamente a mão do punho da espada como uma ação bônus, fazendo a arma se mover até 4 unidades por turno até um total de 20 unidades de distância do usuário. Em adição a isso, você pode atacar normalmente com a espada usando uma ação.
+Você adiciona +1 ao acerto e ao dano da arma. Você pode controlar remotamente a mão do punho da espada como uma ação bônus, fazendo a arma se mover até 4 unidades por turno até um total de 20 unidades de distância do usuário. Em adição a isso, você pode atacar normalmente com a espada usando uma ação.
 ## Ferramentas de Grau 1
 ### Corda Negra
 *Arma (Chicote), Muito Rara*

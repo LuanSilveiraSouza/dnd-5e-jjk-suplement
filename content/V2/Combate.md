@@ -19,7 +19,6 @@ Escolha 1 da lista abaixo:
 - Ataque Desarmado: Some seu Mod de Corpo ou Agilidade nas rolagens de acerto e dano. O dado de dano inicial é 1d4, mas pode ser aumentado;
 - Ataque com Arma: Faça uma rolagem de acerto e uma de dano. Os dados de dano e quaiquer efeitos adicionais são definidos pela arma utilizada, enquanto os modificadores são definidos pela proficiência na arma em questão;
 - Habilidade de Técnica Amaldiçoada: Habilidade de Talento ou de sua Técnica Inata que é descrita como custando 1 ação.
-- Ajuda: Contribui para o turno seguinte de algum aliado dentro de sua alcance de deslocamento, garantindo vantagem em todas as rolagens de acerto e testes de atributos. 
 ## Ação Bônus
 Escolha 1 da lista abaixo:
 - Ataque Desarmado: Ataques feitos com ação bônus não tem o Mod de Atributo somados. O dado de dano inicial é 1d4, mas pode ser aumentado;
