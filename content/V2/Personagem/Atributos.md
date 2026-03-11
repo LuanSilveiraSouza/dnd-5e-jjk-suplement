@@ -37,18 +37,19 @@ Determina sua agilidade ao iniciar o combate. Seu modificador básico de iniciat
 Perícias representam formas de agir utilizando um de seus Atributos. Sempre que quiser fazer uma ação, escolha uma perícia e um atributo. O jogador então deve explicar como agirá de acordo com a combinação e o mestre acorda ou não com a lógica/sentido dada pelo jogador. 
 Personagens podem adquirir proficiência em perícias. Ao fazer o teste de Perícia com proficiência, dobre o valor do modificador de atributo escolhido. Caso seu modificador de atributo seja negativo, considere-o como 0.
 A lista abaixo abrange todas as perícias e os atributos mais comumente atribuídos a elas:
-- Atletismo: Corpo, Agilidade
-- Acrobacia: Corpo, Agilidade
-- Resistência: Corpo, Mente, Alma
-- Conhecimento: Mente, Alma
-- Furtividade: Agilidade, Alma
-- Gatunagem: Agilidade
-- Raciocínio: Mente
-- Investigação: Mente
-- Percepção: Agilidade, Mente, Alma
-- Lidar com Flora/Fauna: Mente, Alma, Ego
-- Sobrevivência: Mente, Alma, Ego
-- Atuação: Ego
-- Enganação: Alma, Ego
-- Intimidação: Corpo, Agilidade, Mente, Alma, Ego
-- Persuasão: Mente, Ego
+
+- **Atletismo**: Corpo, Agilidade
+- **Acrobacia**: Corpo, Agilidade
+- **Resistência**: Corpo, Mente, Alma
+- **Conhecimento**: Mente, Alma
+- **Furtividade**: Agilidade, Alma
+- **Gatunagem**: Agilidade
+- **Raciocínio**: Mente
+- **Investigação**: Mente
+- **Percepção**: Agilidade, Mente, Alma
+- **Lidar com Flora/Fauna**: Mente, Alma, Ego
+- **Sobrevivência**: Mente, Alma, Ego
+- **Atuação**: Ego
+- **Enganação**: Alma, Ego
+- **Intimidação**: Corpo, Agilidade, Mente, Alma, Ego
+- **Persuasão**: Mente, Ego

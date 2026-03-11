@@ -1,24 +1,20 @@
+
+
 ```statblock  
+layout: JJK RPG
 name: Shikigami  
 size: Pequeno
-type: Constructo  
-subtype:   
+type: Shikigami
 alignment: Sem alinhamento  
-ac: 12 + BP  
-hp: 5 X Nível de Feiticeiro  
-hit_dice: d10
-speed: 40ft./12m  
-stats: [16, 14, 15, 8, 12, 8]  
-fage_stats:  
-saves:  
-- Dex: +2 +BP  
-- Wis: +1 +BP
+ac: 10 + mod Ego  
+hp: Nível do Conjurador
+hit_dice: d4
+speed: 5 Unidades
+stats: [10, 10, 10, 10, 10]  
 condition_immunities: Encantado  
-senses: Percepção Passiva 11  
-languages: Comum  
-cr: PB  
+cr: Nível do Conjurador
 traits:  
-- [Vínculo Inato, Você pode adicionar seu BP em qualquer teste de perícia ou salvaguarda que o Shikigami fizer.]  
+- [Vínculo Inato, Você pode adicionar seu modificador de Ego em qualquer teste de perícia que o Shikigami fizer.]  
 actions:  
-- [Golpe, "Ataque Corpo a Corpo; +3 +BP no acerto; Alcance 5ft/1,5m; Um alvo; 1d6 +BP de dano contundente/perfurante/cortante (à escolha do feiticeiro)"]  
+- [Golpe, "Ataque Corpo a Corpo; +mod de Ego no acerto; Alcance 1 Unidade; Um alvo; 1d6 de dano contundente/perfurante/cortante (à escolha do feiticeiro)"]  
 ```

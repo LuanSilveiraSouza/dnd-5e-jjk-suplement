@@ -19,7 +19,7 @@ O nível 7 é caracterizado por adicionar novas aplicações da técnica, geralm
 ## Nível 7: Masterização da Técnica
 Personagens no nível 10 possuem masterização da forma básica de sua técnica, sendo capazes de usar suas extensões e ampliar seus efeitos. A partir deste ponto o personagem está pronto para trilhar o caminho até se tornar Grau Especial.
 ## Níveis 9, 11 e 12: Pináculo da Técnica
-Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem pode escolher em qualquer ordem que desejar. Geralmente de 3 a 4 opções, com duas destas envolvendo a versão Maximum da Técnica, ao qual simboliza uma forma suprema de usabilidade da técnica, e a Expansão de Domínio, ao qual o personagem finalmente consegue imbuir sua técnica em um domínio, garantindo o efeito de acerto garantido.
+Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem pode escolher em qualquer ordem que desejar. Geralmente de 3 a 4 opções, com duas destas envolvendo a versão Maximum da Técnica, ao qual simboliza a forma suprema de usabilidade da técnica, e a Expansão de Domínio, ao qual o personagem finalmente consegue imbuir sua técnica em um domínio, garantindo o efeito de acerto garantido.
 
 # Exemplos de Efeitos de Técnicas
 - Ataque a distância, alvo único e dano massivo;
@@ -64,7 +64,7 @@ Use esta tabela como base para o dano de habilidades de Técnicas Inatas por ní
 | 5                           | 1d8        | 1d10       | 1d12      | 2d6             | 2d8          | 3d6          | 5-7         |
 | 7                           | 2d4        | 2d6        | 2d8       | 2d10            | 2d12         | 4d6          | 7-9         |
 | 9                           | 2d6        | 2d8        | 2d10      | 2d12            | 3d10         | 5d6          | 10          |
-| 11                          | 2d8        | 2d10       | 2d12      | 3d10            | 3d12         | 6d6          | 15          |
+| 11                          | 2d8        | 2d10       | 2d12      | 3d10            | 3d12         | 6d6          | 12          |
 
 | Nível de Feiticeiro | Vida Mínima | Vida Média | Vida Máxima |
 | ------------------- | ----------- | ---------- | ----------- |

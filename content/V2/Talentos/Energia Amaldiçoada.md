@@ -20,7 +20,7 @@ As situações de desespero lhe trouxeram a capacidade de transformar sua vitali
 Você otimiza sua regeneração de Energia Amaldiçoada. Sempre que recuperar utilizando a ação bônus ou ação, some seu Mod de Mente no valor (mínimo de 1).
 ## Nível 11 - Estocagem de Energia Amaldiçoada
 
-Sua regeneração de EA atinge o auge, permitindo você recuperar sua EA para o total com uma ação. Esta habilidade é limitada a uma vez por descanso.
+Sua regeneração de EA atinge o auge, permitindo você recuperar totalmente sua Energia Amaldiçoada com uma ação. Esta habilidade é limitada a uma vez por descanso.
 # Reservas de Energia Amaldiçoada
 ## Nível 1 - Energia Amaldiçoada Ampliada
 
@@ -31,14 +31,14 @@ Sua Energia Amaldiçoada tem reservas massivas, te tornando numa usina de Energi
 ## Nível 9 - Energia Amaldiçoada Sem Fundo
 **Pré-requisitos**: Gatilho.
 
-Você encontrou o núcleo de funcionamento da energia amaldiçoada e a energia oculta de você. Seu total de Energia Amaldiçoada se torna **(Nível x 4) + (Mod Alma X 2)**. Caso seu Mod de Alma seja inferior a 1, considere o modificador como +1.
+Você encontrou o núcleo de funcionamento da energia amaldiçoada e a energia oculta de você. Seu total de Energia Amaldiçoada se torna **(Nível x 3) + (Mod Alma X 4)**. Caso seu Mod de Alma seja inferior a 1, considere o modificador como +1.
 
 # Liberação de Energia Amaldiçoada
 ## Nível 3 - Liberação Aprimorada
 
 Você melhorou sua liberação total de EA, resultando num aumento considerável de poder. Você pode gastar 1 ação para ativar os seguintes benefícios, que ficam ativos em troca de 1 ponto de EA por turno:
 - Você pode aumentar o dano de um ataque igual ao seu **Mod de Ego X 2** uma vez por turno;
-- Seu CA aumenta em 1;
+- Seu CA aumenta em +1;
 - Se você possuir o talento **Corte de Energia Amaldiçoada** seu alcance aumenta de 3 unidades em cone para 6 unidades em cone/9 unidades em linha reta para 12 unidades em linha reta e o dano contra objetos e estruturas é dobrado.
 ## Nível 5 - Liberação Máxima de Técnica
 
@@ -46,7 +46,7 @@ Você aprende como utilizar a liberação máxima de EA com sua técnica. Como u
 - Alcance aumentado em 1,5X, arredondado para cima. Por exemplo, uma técnica com alcance de 2 unidades se torna uma técnica com alcance de 3 unidades. Este aprimoramento não funciona com técnicas baseadas em toque físico.
 - A quantia de dados de dano é aumentada em 1,5X, arredondado para cima. Uma técnica de 4d4 de dano se torna uma técnica de 6d4 de dano.
 - O bônus de acerto da técnica é aumentado em 1,5X, arredondado para cima. Uma técnica com +2 no acerto se torna uma técnica de +3 no acerto. DCs são aumentados em +2.
-- A duração da técnica é aumentada em 1,5X, arredondado para cima. Uma técnica que dura 1 minuto se torna uma técnica que dura 1 minuto e meio.
+- A duração da técnica é aumentada em 1,5X, arredondado para cima. Uma técnica que dura 5 turnos se torna uma técnica que dura 8 turnos.
 ## Nível 7 - Entoamento
 
 Você pode definir um ritual para uma técnica amaldiçoada de seu arsenal. O ritual inclui entoamento vocal e sinais semânticos e custa uma ação, funcionando como um feitiço de concentração que deve ser mantido em concentração no mínimo até o próximo turno, com cada turno subsequente amplificando o entoamento. Caso utilize a técnica em até 2 turnos após o fim do entoamento, ela receberá uma quantidade de benefícios da lista abaixo equivalente a quantidade de turnos entoando X 2 (com o limite sendo 1 + Mod Ego):
@@ -71,6 +71,10 @@ Agora você também é capaz de realizar um Entoamento Complexo, ao qual custa u
 ## Nível 1 - Energia Amaldiçoada Elemental
 
 Sua Energia Amaldiçoada adquire uma característica própria. Escolha um tipo de dano, e agora sempre que causar dano utilizando energia amaldiçoada você poderá causar este tipo de dano em vez disso.
+## Nível 3 - Ocultador de Energia Amaldiçoada
+
+Você adquire proficiência em Furtividade envolvendo Energia Amaldiçoada.
+Sabendo o quão fácil é rastrear Energia Amaldiçoada, você se aperfeiçoou na ocultação de seus próprios resquícios de Energia Amaldiçoada. Ao ocultar sua Energia Amaldiçoada, você só pode ser rastreado por indivíduos com o talento "Rastreador de Energia Amaldiçoada", desde que este passe num teste contra seu valor do teste de Furtividade + seu modificador de Ego.
 ## Nível 5 - Energia Amaldiçoada Elemental Masterizada
 
 O traço de sua Energia Amaldiçoada evolui, ganhando um efeito especial a depender do tipo de dano que pode ser ativado por 1 ponto de EA. O efeito não é acumulativo e dura 3 turnos.
@@ -120,10 +124,10 @@ Você consegue infundir sua EA em qualquer objeto, desde que este não possua EA
 Você tem a capacidade de infundir EA em projéteis, como flechas, virotes, balas, em armas com a característica "Arremessar" e em objetos improvisados. Você pode imbuir um número de munições igual ao seu bônus de proficiência, transformando-as em Projéteis Amaldiçoados, que também adicionam seu Mod de Alma no dano final. Ao usar esses Projéteis Amaldiçoados, você realiza Ataques de Energia Amaldiçoada à distância em vez dos ataques normais que você usaria com eles, e controla sua trajetória enquanto estiverem no ar, fazendo com que os ataques com eles ignorem cobertura. Além disso, eles permanecerão flutuando no ar por 3 turnos, permitindo que você continue realizando ataques com eles mesmo após serem disparados, até que atinjam um objeto sólido ou alvo, quando então perdem essa propriedade. Você só pode controlar um número de munições dessa forma simultaneamente igual ao seu Mod de Mente (Mínimo de 1). Uma criatura dentro do alcance pode atacar seus Projéteis Amaldiçoados para destruí-los; eles têm 1 ponto de vida e CA 10.
 ## Nível 5 - Arma Melhorada
 
-Adicione seu Mod de Alma em rolagens de ataque e de dano com armas que você é proficiente. Caso a rolagem de ataque seja 1 natural, você deve fazer um teste com DC de 16 - Mod Mente que resulta na arma sendo estilhaçada pela sobrecarga de Energia Amaldiçoada em uma falha. Ambos os efeitos são desconsiderados em ferramentas de Grau Especial.
+Adicione seu Mod de Alma em rolagens de dano com armas que você é proficiente. Caso a rolagem de ataque seja 1 natural, você deve fazer um teste com DC de 16 - Mod Mente que resulta na arma sendo estilhaçada pela sobrecarga de Energia Amaldiçoada em uma falha. Ambos os efeitos são desconsiderados em ferramentas de Grau Especial.
 ## Nível 7 - Corte de Energia Amaldiçoada
 
-Como uma ação ao estar com uma arma que você é proficiente equipada e que dê dano cortante, você pode gastar 5 pontos de EA para liberar um potente corte fortalecido. Todas as criaturas em um cone de 3 unidades ou em uma linha reta de 6 unidades fazem salvaguardas de Agilidade de DC 10 + Mod Ego. Na falha, eles recebem o dano da arma + metade dos dados de dano da arma de dano energético. O sucesso garante metade do dano total.
+Como uma ação ao estar com uma arma que você é proficiente equipada e que dê dano cortante, você pode gastar 5 pontos de EA para liberar um potente corte fortalecido. Todas as criaturas em um cone de 3 unidades ou em uma linha reta de 6 unidades fazem salvaguardas de Agilidade de DC 10 + Mod Ego. Na falha, eles recebem o dano da arma + 2 dados de dano da arma de dano energético. O sucesso garante metade do dano total.
 
 # Refinamento da Energia Amaldiçoada
 
@@ -131,10 +135,6 @@ Como uma ação ao estar com uma arma que você é proficiente equipada e que d�
 
 Você adquire proficiência em Percepção envolvendo Energia Amaldiçoada.
 Você se aperfeiçoou na detecção de resquícios de Energia Amaldiçoada. Caso faça um teste de Percepção para detectar estes resquícios, em caso de sucesso você saberá exatamente de quem é a Energia caso conheça o indivíduo. Você também pode seguir os rastros (DC = 8 + Mente da Criatura + Ego da Criatura). 
-## Nível 3 - Ocultador de Energia Amaldiçoada
-
-Você adquire proficiência em Furtividade envolvendo Energia Amaldiçoada.
-Sabendo o quão fácil é rastrear Energia Amaldiçoada, você se aperfeiçoou na ocultação de seus próprios resquícios de Energia Amaldiçoada. Ao ocultar sua Energia Amaldiçoada, você só pode ser rastreado por indivíduos com o talento "Rastreador de Energia Amaldiçoada", desde que este passe num teste contra seu valor do teste de Furtividade + seu modificador de Ego.
 ## Nível 5 - Eficiência Energética
 
 Seu refinamento de EA chega a um novo patamar, o que te permite usar técnicas com a mesma potência de antes mas usando menos energia. Todas as técnicas que utilizam Energia Amaldiçoada tem seu custo reduzido em 1 (mínimo de 1).
@@ -152,40 +152,42 @@ Como uma ação, você se agacha, posicionando o punho sobre a palma da outra m�
 ## Nível 9 - Escolhido pelas Faíscas
 **Pré-requisitos**: Gatilho.
 
-Ao rolar para Black Flash após um acerto crítico ou ao usar Postura das Faíscas, troque o d20 por um d6 com 6 sendo sucesso.
+Ao rolar para Fulgor Negro após um acerto crítico ou ao usar Postura das Faíscas, troque o d20 por um d6 com 6 sendo sucesso.
 # Combate com Energia Amaldiçoada
 
 ## Nível 1 - Impacto Amaldiçoado
 
-Você pode reforçar seu ataque desarmado com EA. Cada ponto gasto adiciona dados de dano energético e o total de pontos possíveis em um ataque é igual ao Mod de Alma (Mínimo de 1). Você pode adicionar o dano após o acerto ter sido garantido, inclusive em casos de crítico e de Fulgor Negro.
+Você pode reforçar seu ataque desarmado com EA. Cada ponto gasto aumenta o dado de dano energético, e você pode adicionar o dano após o acerto ter sido garantido, inclusive em casos de crítico e de Fulgor Negro.
 
-| Nível | Dado |
-| ----- | ---- |
-| 1     | 1d6  |
-| 3     | 1d8  |
-| 5     | 1d10 |
-| 7     | 1d12 |
-| 9     | 2d8  |
-| 11    | 2d10 |
+| Pontos de EA | Dado               |
+| ------------ | ------------------ |
+| 1            | 1d4 + mod de Alma  |
+| 2            | 1d6 + mod de Alma  |
+| 3            | 1d8 + mod de Alma  |
+| 4            | 1d10 + mod de Alma |
+| 5            | 1d12 + mod de Alma |
+| 6            | 2d6 + mod de Alma  |
 
 ## Nível 1 - Armadura Amaldiçoada
 
-Você pode reforçar seu corpo com EA. Como uma reação, você escolhe uma quantia de pontos de EA (Máximo = Mod de Alma; Mínimo = 1) para diminuir o dano. A quantia de dados é determinada pela quantia de pontos empregados, e o dado é determinado pelo seu nível:
+Você pode reforçar seu corpo com EA. Como uma reação, você escolhe uma quantia de pontos de EA para diminuir o dano. O dado é determinado pela quantia de pontos empregados:
 
-| Nível | Dado |
-| ----- | ---- |
-| 1     | 1d6  |
-| 3     | 1d8  |
-| 5     | 1d10 |
-| 7     | 1d12 |
-| 9     | 2d8  |
-| 11    | 2d10 |
+| Pontos de EA | Dado               |
+| ------------ | ------------------ |
+| 1            | 1d4 + mod de Alma  |
+| 2            | 1d6 + mod de Alma  |
+| 3            | 1d8 + mod de Alma  |
+| 4            | 1d10 + mod de Alma |
+| 5            | 1d12 + mod de Alma |
+| 6            | 2d6 + mod de Alma  |
 ## Nível 3 - Surto de Movimentos
 
 Por 1 ponto de EA você pode realizar 2 ações entre Disparar, Desengajar, Esquivar, Usar Item e Teste de Perícia como ação bônus.
 ## Nível 5 - Barragem de Golpes
 
-Você pode gastar 2 pontos de EA para realizar 2 ataques desarmados ou 1 ataque de arma como parte de sua ação de ataque.
+Você pode gastar 3 pontos de EA para realizar 2 ataques desarmados ou 1 ataque de arma como parte de sua ação de ataque.
+## Nível 7 - Impacto/Armadura Potente
+Ao usar as habilidades **Impacto Amaldiçoado** e **Armadura Amaldiçoada**, some seu **mod de Ego** no total.
 # Mestre de Shikigami
 
 Feiticeiros possuem a capacidade de solidificar sua Energia Amaldiçoada em um Shikigami, um ser vivo constituído da Energia Amaldiçoada do usuário, que determina sua aparência. Os shikigamis são pacíficos com o usuário e seus aliados, não podem ser Encantados, e funcionam como criaturas próprias ao qual o usuário comanda.
@@ -193,9 +195,11 @@ Feiticeiros possuem a capacidade de solidificar sua Energia Amaldiçoada em um S
 
 Como uma ação, você pode invocar o shikigami que está vinculado a você. Ele aparece em um espaço desocupado à sua escolha, a até 5 unidades de você.
 Em combate, o shikigami compartilha sua contagem de iniciativa, mas realiza seu turno imediatamente após o seu. Ele pode se mover e usar sua reação por conta própria, mas a única ação que realiza em seu turno é a ação Esquivar, a menos que você use uma ação bônus em seu turno para comandá-lo a realizar outra ação. Essa ação pode ser uma das descritas em seu bloco de estatísticas ou qualquer outra ação. Se você estiver incapacitado, o shikigami pode realizar qualquer ação à sua escolha, não apenas Esquivar.
-O shikigami permanece até que seus pontos de vida sejam reduzidos a 0, até que você use esta habilidade para invocá-lo novamente ou até que você morra. Tudo o que o shikigami estava vestindo ou carregando é deixado para trás quando ele desaparece. Uma vez que você invoca o shikigami, não poderá fazê-lo novamente até concluir um Descanso Longo, a menos que gaste 3 pontos de Energia Amaldiçoada.
+O shikigami permanece até que seus pontos de vida sejam reduzidos a 0, até que você use esta habilidade para invocá-lo novamente ou até que você morra. Tudo o que o shikigami estava vestindo ou carregando é deixado para trás quando ele desaparece. Uma vez que você invoca o shikigami, não poderá fazê-lo novamente até concluir um descanso, a menos que gaste 5 pontos de Energia Amaldiçoada.
 
-![[Shikigami-Statblock.png]]
+![[Shikigami_statblock.png]]
+## Níveis 2, 4, 6, 8, 10, 12 - Aumento de Atributo
+Aumente 1 atributo em +2 ou 2 atributos em +1.
 ## Nível 3 - Técnica Compartilhada
 A sintonia entre você e seu Shikigami é aumentada. Caso possua Técnica Inata, todos os bônus ou ações que técnica inata lhe dá são concedidos também ao seu Shikigami, com a exceção de conjuração de Shikigami.
 ## Nível 3 - Guarda-Costas
@@ -207,27 +211,25 @@ Você e seu shikigami atacam como um só:
 ## Nível 5 - Evolução
 Seu shikigami fica mais forte. Seu companheiro ganha os seguintes benefícios:
 - Ele ganha uma velocidade de voo igual à sua velocidade de caminhada.
-- Seus golpes causam 1d6 de dano de força extra.
-- Você pode escolher que seu shikigami se torne médio ou ganhe a habilidade de se transformar em qualquer arma, causando 1d6 de dano de força adicional.
-
+- Seus golpes causam 1d6 de dano energético extra.
+- Você pode aumentar o dado de vida de seu shikigami para d6 ou ganhar a habilidade de se transformar em uma arma que causa 1d4 de dano energético adicional.
 ## Nível 7 - Uníssono
 Seu companheiro encontra novas maneiras de ajudá-lo em combate. Após um ataque, você pode escolher que seu companheiro faça uma das seguintes ações se ele estiver a 1 unidade de você ou do inimigo:
-- O alvo do ataque sofre 1d8 de dano de força do companheiro.
+- O alvo do ataque sofre 1d8 de dano energético do companheiro.
 - O alvo do ataque deve ser bem-sucedido em um teste de resistência de Corpo contra o **DC de Energia Amaldiçoada** ou será movido pelo shikigami até 3 unidades horizontalmente em uma direção à sua escolha e ficará caído no chão.
 - Você é movido pelo companheiro 1 unidade horizontalmente em uma direção à sua escolha, ganhando cobertura parcial até o próximo turno.
-
 ## Nível 9 e 11
 
 Escolha 1 característica dentre as 3 abaixo no nível 9 e outra no nível 11:
 ### Shikigami Avançado
 Seu shikigami fica mais forte. Seu companheiro ganha os seguintes benefícios:
 - Você pode distribuir 4 pontos entre seus atributos.
-- Seus ataques de impacto causam 1d6 de dano de força extra (para 2d6).
-- Você pode escolher que seu shikigami se torne grande ou ganhe a habilidade de se transformar em qualquer arma, causando 2d6 de dano energético adicional.
+- Seus ataques de impacto causam 1d6 de dano energético extra (para 2d6).
+- Você pode aumentar o dado de vida de seu Shikigami para d8 ou ganhar a habilidade de se transformar em uma arma que causa 1d8 de dano energético adicional.
 ### Shikigamis Múltiplos
 Seu conhecimento acerca da conjuração chegou em um ponto onde você consegue conjurar múltiplo Shikigamis. Escolha entre:
 - Conjurar 2 Shikigamis de tamanho Médio;
 - Conjurar 3 Shikigamis de tamanho Pequeno;
-- Conjurar um Enxame de Shikigamis de tamanho minúsculo. Eles ocupam um quadrado de 1 unidade e agem como uma única criatura. O dano do ataque do enxame recebe um bônus: some seu bônus de proficiência novamente no dano de ataque caso o enxame tenha 50% ou mais de vida.
+- Conjurar um Enxame de Shikigamis de tamanho minúsculo. Eles ocupam um quadrado de 1 unidade e agem como uma única criatura. O dano do ataque do enxame recebe um bônus: some seu **mod de Ego** novamente no dano de ataque caso o enxame tenha 50% ou mais de vida.
 ### Vínculo Perfeito
 Seu companheiro não precisa mais receber comandos, pois há perfeita sincronia entre vocês. Os comandos dados ao seu companheiro são considerados como ação grátis, e vocês podem compartilhar os sentidos.
