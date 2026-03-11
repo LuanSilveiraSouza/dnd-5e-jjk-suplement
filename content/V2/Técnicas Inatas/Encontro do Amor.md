@@ -1,5 +1,3 @@
-**Atributo de Conjuração**: Escolha entre Carisma e Sabedoria
-**DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Fugindo do senso comum se tratando à Técnicas Inatas, sua habilidade usa uma constelação como base para uma série de regras envolvendo forças de atração e repulsão entre corpos.
 # Nível 1

@@ -12,7 +12,7 @@ Uma técnica que é ofensiva, defensiva, provê movimentação e suporte não é
 Primeiro, determine o atributo de conjuração de sua Técnica. Toda técnica permite usar Carisma (já que a Técnica deriva da interpretação da alma do personagem) e Sabedoria OU Inteligência, o que fazer mais sentido. Técnicas com nuances e regras específicas e técnicas que envolvem leis da física ou da natureza tendem a usarem Inteligência, já técnicas envolvendo emoções, técnicas que "brutas" ou "simples" na usabilidade e técnicas que mexem com a mente ou a alma tendem a usar Sabedoria. 
 ## Nível 1: Técnica Básica
 O nível 1 garante um uso básico da Técnica, seja causando dano bruto, uma combinação de dano + salvaguarda, algum benefício para si mesmo/aliados ou malefício para os inimigos. Se a técnica envolver um conceito mais complexo, como usar expansão de domínio para conjurar a técnica, a habilidade de nível 1 tende a prover menos benefícios ou potência geral.
-## Nível 3: Técnica Padrão
+## Nível 3: Lapso de Técnica
 No nível 3 o personagem atinge o formato padrão de sua técnica. Isto pode ser simbolizado por uma evolução da Técnica Básica, como um efeito adicional que potencializa o dano bruto, um extensão da técnica (mesmo conceito mas aplicado de forma diferente), ou até uma expansão de domínio, caso a técnica só possa ser usada totalmente dentro da expansão. Técnicas do último tipo geralmente não dão dano direto e o domínio é do tipo não-letal, garantindo um efeito diferenciado.
 ## Nível 5: Extensão de Técnica
 O nível 7 é caracterizado por adicionar novas aplicações da técnica, geralmente expandindo a interpretação dela de alguma forma. Dano em área em uma técnica de dano singular, benefício para aliados para técnicas de benefício próprio, potencialização dos efeitos do domínio, etc.
@@ -32,39 +32,35 @@ Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem p
 - Ataque Corpo a Corpo, dano baixo, salvaguarda com dano alto;
 - Benefício próprio médio por vários turnos;
 
-| Dano/Benefício | Distância     | Duração  | Custo de EA |
-| -------------- | ------------- | -------- | ----------- |
-| Médio          | Corpo a Corpo | Imediato | 1           |
-
 1 Upgrade -> Custo de EA = 2
 3 Upgrades -> Custo de EA = 3
-4 Upgrades -> Custo de EA = 5
-5 Upgrades -> Custo de EA = 7
-6 Upgrades -> Custo de EA = 9
+4 Upgrades -> Custo de EA = 4
+5 Upgrades -> Custo de EA = 6
+6 Upgrades -> Custo de EA = 8
 Malefício/Downgrade de Dano -> Custo de EA - 1
 
-| Custo | Dano/Benefício | Malefício | Distância     | Área           | Teste                    | Duração  |
-| ----- | -------------- | --------- | ------------- | -------------- | ------------------------ | -------- |
-| -2    |                | Alto      |               |                |                          |          |
-| -1    | Baixo          | Médio     |               |                |                          |          |
-| -     | Médio          |           | Corpo a Corpo |                |                          | Imediato |
-| +1    | Alto           |           | 5 Unidades    | 2x2 Unidades   | DC Baixo (8 + mod)       | 1 Turno  |
-| +2    |                |           | 10 Unidades   | 3x3 Unidades   | DC Médio (10 + mod)      | 3 Turnos |
-| +3    | Muito Alto     |           | 20 Unidades   | 5x5 Unidades   | DC Alto (12 + mod)       | 5 Turnos |
-| +4    |                |           | 40 Unidades   | 8x8 Unidades   | DC Muito Alto (14 + mod) |          |
-| +5    | Extremo        |           | 60 Unidades   | 10x10 Unidades | DC Extremo (16 + mod)    |          |
+| Custo | Dano/Benefício | Malefício | Distância     | Área           | Teste                    | Duração  | Ação                |
+| ----- | -------------- | --------- | ------------- | -------------- | ------------------------ | -------- | ------------------- |
+| -2    |                | Alto      |               |                |                          |          | Ação Completa       |
+| -1    | Baixo          | Médio     |               |                |                          |          | Ação + Movimentação |
+| -     | Médio          |           | Corpo a Corpo |                |                          | Imediato | Ação                |
+| +1    | Alto           |           | 5 Unidades    | 2x2 Unidades   | DC Baixo (8 + mod)       | 1 Turno  | Ação Bônus/Reação   |
+| +2    |                |           | 10 Unidades   | 3x3 Unidades   | DC Médio (10 + mod)      | 3 Turnos |                     |
+| +3    | Muito Alto     |           | 20 Unidades   | 5x5 Unidades   | DC Alto (12 + mod)       | 5 Turnos | Ação Grátis         |
+| +4    |                |           | 40 Unidades   | 8x8 Unidades   | DC Muito Alto (14 + mod) |          |                     |
+| +5    | Extremo        |           | 60 Unidades   | 10x10 Unidades | DC Extremo (16 + mod)    |          |                     |
 
 # Dano de Técnicas por Nível
 Use esta tabela como base para o dano de habilidades de Técnicas Inatas por nível. Você pode alterar os dados de dano de acordo com a ideia da técnica: por exemplo, se a técnica envolve um alvo único mas é formada por vários ataques seguidos, você pode alterar o dano para 2d4 em vez de 1d8. Se a técnica possui um salvaguarda com efeito adicional, diminua o dado para 1d4 com o salvaguarda falho garantindo 1d12 de dano extra. Utilize a criatividade e mantenha contato constante com o Mestre para garantir a opinião dele na combinação de efeitos desejados.
 
-| Nível de Feitiço/Feiticeiro | Dano Baixo | Dano Médio | Dano Alto | Dano Muito Alto | Dano Extremo | Dano em Área | Custo de EA |
-| --------------------------- | ---------- | ---------- | --------- | --------------- | ------------ | ------------ | ----------- |
-| 1                           | 1d4        | 1d6        | 1d8       | 1d10            | 1d12         | 1d6          | 1-3         |
-| 3                           | 1d6        | 1d8        | 1d10      | 1d12            | 2d6          | 2d6          | 3-5         |
-| 5                           | 1d8        | 1d10       | 1d12      | 2d6             | 2d8          | 3d6          | 5-7         |
-| 7                           | 2d4        | 2d6        | 2d8       | 2d10            | 2d12         | 4d6          | 7-9         |
-| 9                           | 2d6        | 2d8        | 2d10      | 2d12            | 3d10         | 5d6          | 10          |
-| 11                          | 2d8        | 2d10       | 2d12      | 3d10            | 3d12         | 6d6          | 12          |
+| Nível de Feitiço/Feiticeiro | Dano Baixo | Dano Médio | Dano Alto | Dano Muito Alto | Dano Extremo | Dano em Área |
+| --------------------------- | ---------- | ---------- | --------- | --------------- | ------------ | ------------ |
+| 1                           | 1d4        | 1d6        | 1d8       | 1d10            | 1d12         | 1d6          |
+| 3                           | 1d6        | 1d8        | 1d10      | 1d12            | 2d6          | 2d6          |
+| 5                           | 1d8        | 1d10       | 1d12      | 2d6             | 2d8          | 3d6          |
+| 7                           | 2d4        | 2d6        | 2d8       | 2d10            | 2d12         | 4d6          |
+| 9                           | 2d6        | 2d8        | 2d10      | 2d12            | 3d10         | 5d6          |
+| 11                          | 2d8        | 2d10       | 2d12      | 3d10            | 3d12         | 6d6          |
 
 | Nível de Feiticeiro | Vida Mínima | Vida Média | Vida Máxima |
 | ------------------- | ----------- | ---------- | ----------- |

@@ -121,7 +121,7 @@ Você consegue infundir sua EA em qualquer objeto, desde que este não possua EA
 
 ## Nível 3 - Projétil Infundido
 
-Você tem a capacidade de infundir EA em projéteis, como flechas, virotes, balas, em armas com a característica "Arremessar" e em objetos improvisados. Você pode imbuir um número de munições igual ao seu bônus de proficiência, transformando-as em Projéteis Amaldiçoados, que também adicionam seu Mod de Alma no dano final. Ao usar esses Projéteis Amaldiçoados, você realiza Ataques de Energia Amaldiçoada à distância em vez dos ataques normais que você usaria com eles, e controla sua trajetória enquanto estiverem no ar, fazendo com que os ataques com eles ignorem cobertura. Além disso, eles permanecerão flutuando no ar por 3 turnos, permitindo que você continue realizando ataques com eles mesmo após serem disparados, até que atinjam um objeto sólido ou alvo, quando então perdem essa propriedade. Você só pode controlar um número de munições dessa forma simultaneamente igual ao seu Mod de Mente (Mínimo de 1). Uma criatura dentro do alcance pode atacar seus Projéteis Amaldiçoados para destruí-los; eles têm 1 ponto de vida e CA 10.
+Você tem a capacidade de infundir EA em projéteis, como flechas, virotes, balas, em armas com a característica "Arremessar" e em objetos improvisados. Você pode imbuir um número de munições igual ao seu mod de Mente, transformando-as em Projéteis Amaldiçoados, que também adicionam seu Mod de Alma no dano final. Ao usar esses Projéteis Amaldiçoados, você realiza Ataques de Energia Amaldiçoada à distância em vez dos ataques normais que você usaria com eles, e controla sua trajetória enquanto estiverem no ar, fazendo com que os ataques com eles ignorem cobertura. Além disso, eles permanecerão flutuando no ar por 3 turnos, permitindo que você continue realizando ataques com eles mesmo após serem disparados, até que atinjam um objeto sólido ou alvo, quando então perdem essa propriedade. Você só pode controlar um número de munições dessa forma simultaneamente igual ao seu Mod de Mente (Mínimo de 1). Uma criatura dentro do alcance pode atacar seus Projéteis Amaldiçoados para destruí-los; eles têm 1 ponto de vida e CA 10.
 ## Nível 5 - Arma Melhorada
 
 Adicione seu Mod de Alma em rolagens de dano com armas que você é proficiente. Caso a rolagem de ataque seja 1 natural, você deve fazer um teste com DC de 16 - Mod Mente que resulta na arma sendo estilhaçada pela sobrecarga de Energia Amaldiçoada em uma falha. Ambos os efeitos são desconsiderados em ferramentas de Grau Especial.
@@ -157,29 +157,29 @@ Ao rolar para Fulgor Negro após um acerto crítico ou ao usar Postura das Faís
 
 ## Nível 1 - Impacto Amaldiçoado
 
-Você pode reforçar seu ataque desarmado com EA. Cada ponto gasto aumenta o dado de dano energético, e você pode adicionar o dano após o acerto ter sido garantido, inclusive em casos de crítico e de Fulgor Negro.
+Você pode reforçar seu ataque desarmado com 1 ponto de EA. O dado de dano aumenta com o nível, e você pode adicionar o dano após o acerto ter sido garantido, inclusive em casos de crítico e de Fulgor Negro.
 
-| Pontos de EA | Dado               |
-| ------------ | ------------------ |
-| 1            | 1d4 + mod de Alma  |
-| 2            | 1d6 + mod de Alma  |
-| 3            | 1d8 + mod de Alma  |
-| 4            | 1d10 + mod de Alma |
-| 5            | 1d12 + mod de Alma |
-| 6            | 2d6 + mod de Alma  |
+| Nível | Dado |
+| ----- | ---- |
+| 1     | 1d4  |
+| 3     | 1d6  |
+| 5     | 1d8  |
+| 7     | 2d4  |
+| 9     | 2d6  |
+| 11    | 2d8  |
 
 ## Nível 1 - Armadura Amaldiçoada
 
-Você pode reforçar seu corpo com EA. Como uma reação, você escolhe uma quantia de pontos de EA para diminuir o dano. O dado é determinado pela quantia de pontos empregados:
+Você pode reforçar seu corpo por 1 ponto de EA para o próximo ataque. Como uma reação, você escolhe uma quantia de pontos de EA para diminuir o dano. O dado é determinado pelo nível:
 
-| Pontos de EA | Dado               |
-| ------------ | ------------------ |
-| 1            | 1d4 + mod de Alma  |
-| 2            | 1d6 + mod de Alma  |
-| 3            | 1d8 + mod de Alma  |
-| 4            | 1d10 + mod de Alma |
-| 5            | 1d12 + mod de Alma |
-| 6            | 2d6 + mod de Alma  |
+| Nível | Dado |
+| ----- | ---- |
+| 1     | 1d4  |
+| 3     | 1d6  |
+| 5     | 1d8  |
+| 7     | 2d4  |
+| 9     | 2d6  |
+| 11    | 2d8  |
 ## Nível 3 - Surto de Movimentos
 
 Por 1 ponto de EA você pode realizar 2 ações entre Disparar, Desengajar, Esquivar, Usar Item e Teste de Perícia como ação bônus.
@@ -187,7 +187,7 @@ Por 1 ponto de EA você pode realizar 2 ações entre Disparar, Desengajar, Esqu
 
 Você pode gastar 3 pontos de EA para realizar 2 ataques desarmados ou 1 ataque de arma como parte de sua ação de ataque.
 ## Nível 7 - Impacto/Armadura Potente
-Ao usar as habilidades **Impacto Amaldiçoado** e **Armadura Amaldiçoada**, some seu **mod de Ego** no total.
+Ao usar as habilidades **Impacto Amaldiçoado** e **Armadura Amaldiçoada**, some seu **mod de Alma** no total.
 # Mestre de Shikigami
 
 Feiticeiros possuem a capacidade de solidificar sua Energia Amaldiçoada em um Shikigami, um ser vivo constituído da Energia Amaldiçoada do usuário, que determina sua aparência. Os shikigamis são pacíficos com o usuário e seus aliados, não podem ser Encantados, e funcionam como criaturas próprias ao qual o usuário comanda.

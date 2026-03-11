@@ -35,7 +35,7 @@ Determina sua agilidade ao iniciar o combate. Seu modificador básico de iniciat
 # Perícias
 
 Perícias representam formas de agir utilizando um de seus Atributos. Sempre que quiser fazer uma ação, escolha uma perícia e um atributo. O jogador então deve explicar como agirá de acordo com a combinação e o mestre acorda ou não com a lógica/sentido dada pelo jogador. 
-Personagens podem adquirir proficiência em perícias. Ao fazer o teste de Perícia com proficiência, dobre o valor do modificador de atributo escolhido. Caso seu modificador de atributo seja negativo, considere-o como 0.
+Personagens podem adquirir proficiência em perícias. Ao fazer o teste de Perícia com proficiência, adicione 1d4 na rolagem além de seu modificador de atributo.
 A lista abaixo abrange todas as perícias e os atributos mais comumente atribuídos a elas:
 
 - **Atletismo**: Corpo, Agilidade

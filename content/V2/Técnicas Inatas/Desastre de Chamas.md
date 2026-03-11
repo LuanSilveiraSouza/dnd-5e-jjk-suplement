@@ -2,27 +2,23 @@
 Fogo, chamas, magma e vulcões: Tudo está incluído no seu arsenal de destruição em massa.
 # Nível 1 - Chamas do Desastre
 Você aprendeu os fundamentos da manipulação de fogo, sendo capaz de lançar uma onda de chamas pelas mãos.
-Como ação bônus, ao custo de 2 pontos de Energia Amaldiçoada, você libera um cone de 3 unidades que força criaturas na área a realizarem um teste de resistência de Agilidade.  
-Em caso de falha, sofrem 2d6 de dano de fogo; em caso de sucesso, sofrem metade do dano.
-O fogo incendeia quaisquer objetos inflamáveis na área que não estejam sendo usados ou carregados.
-A partir do nível 3, você pode optar por gastar 1 ponto extra de EA para o total de dano de fogo ser 4d6. Você pode adicionar pontos extras nos níveis 5 (6d6) e 7 (8d6).
-# Nível 3 - Vulcões em Erupção
-Com maior compreensão de suas chamas, você passa a criar vulcões. Como uma ação, ao custo de 4 pontos de Energia Amaldiçoada por vulcão, você pode criar uma quantidade de vulcões igual ao seu Mod de Ego (Mínimo de 1), a até 15 unidades de você. Cada vulcão ocupa um círculo de 1 unidade de raio.
-Como ação bônus, você pode fazer com que cada vulcão entre em erupção, forçando criaturas em uma linha de 4 unidades de comprimento por 2 unidades de largura originada de cada vulcão a realizarem um teste de resistência de Agilidade.  
-Em caso de falha, sofrem 4d10 de dano de fogo e ficam Restritas pela magma por 5 turnos.  
-Em caso de sucesso, sofrem metade do dano e não ficam Restritas.
-A criatura pode repetir o teste no início de seus turnos com um teste de Atletismo, encerrando a condição em caso de sucesso. A área afetada se torna terreno difícil por 5 turnos.
+Custando 1 ação e 2 pontos de EA, você libera um cone de 2 unidades que força criaturas na área a realizarem um teste de resistência de Agilidade. Em caso de falha, sofrem 1d6 de dano de fogo; em caso de sucesso, sofrem metade do dano.
+O fogo incendeia quaisquer objetos inflamáveis na área que não estejam sendo usados ou carregados, e o dano segue a progressão de acordo com os níveis:
+
+| Nível de Feiticeiro | 1   | 3   | 5   | 7   | 9   | 11  |
+| ------------------- | --- | --- | --- | --- | --- | --- |
+| Dado de Dano        | 1d6 | 2d6 | 3d6 | 4d6 | 5d6 | 6d6 |
+# Nível 3 - Pirocinese
+Sua manipulação de chamas é melhorada, garantindo os seguintes benefícios:
+- Você pode controlar chamas externas, podendo as mover ou extinguir. Você também pode incendiar objetos inflamáveis que não estejam sendo usados/segurados por alguém como ação grátis. 
+- Ao custo de 1 ponto de EA, você pode fazer com que um ataque desarmado seu cause um teste de Resistência de Corpo no alvo. Caso ele falhe, o alvo fica com a condição Queimado até o fim do próximo turno
+- Você adquire um novo modo de usar as Chamas do Desastre: Como um ataque corpo a corpo, Em um alvo único, a 1 unidade de distância de você, como ação bônus por 3 pontos de EA.
 # Nível 5 - Insetos de Brasa
-Você aprende a criar pequenos shikigamis em forma de insetos a partir do seu corpo.
-Como uma ação, ao custo de 5 pontos de Energia Amaldiçoada, você cria um Enxame de Insetos de Brasa em um espaço de 1 unidade ao seu redor.  
-Estes shikigamis agem imediatamente após o seu turno.
-
-![[Insetos-Brasa-Statblock.png]]
-
-# Nível 7 - Paisagem Infernal
-Sua presença agora é sentida por toda parte.
-Como ação, ao custo de 8 pontos de Energia Amaldiçoada, você faz com que todos os objetos não mágicos em um raio de 15 unidades derretam em lava, a qual você pode controlar.
-Qualquer criatura que toque a lava deve realizar um teste de resistência de Corpo ou sofrer 4d6 de dano de fogo.
+Você aprende a criar pequenos shikigamis em forma de insetos que agem como um enxame suicida. Como uma ação, custando 2 pontos de EA, você faz um ataque de 10 unidades de distância que ignora coberturas de 1/2 e 3/4 e que causa 2d4 de dano energético no acerto. Você pode aumentar a quantidade de insetos no enxame, consequentemente aumentando o dano. Para cada 2 pontos de EA, some 1d4 de dano extra, até um total de seu **Mod de Ego X 2**.
+# Nível 7 - Vulcões em Erupção
+Com maior compreensão de suas chamas, você passa a criar vulcões. Como uma ação, ao custo de 5 pontos de Energia Amaldiçoada por vulcão, você pode criar uma quantidade de vulcões igual ao seu Mod de Ego (Mínimo de 1), a até 10 unidades de você. Cada vulcão ocupa 1 unidade de espaço.
+Como ação bônus, você pode fazer com que cada vulcão entre em erupção, forçando criaturas em uma linha de 3 unidades de comprimento originada de cada vulcão a realizarem um teste de resistência de Agilidade.  
+Em caso de falha, sofrem 3d6 de dano de fogo e ficam Restritas pela magma por 5 turnos. Em caso de sucesso, sofrem metade do dano e não ficam Restritas. A criatura pode repetir o teste no início de seus turnos com um teste de Atletismo, encerrando a condição em caso de sucesso. A área afetada se torna terreno difícil por 5 turnos.
 # Nível 9
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Nível 11
@@ -30,17 +26,15 @@ Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Nível 12
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Talentos
-## Pirocinese
-Por meio de treino e compreensão, você descobre novas aplicações para suas chamas. Você ganha resistência a dano de fogo. Caso escolha este talento 2 vezes você se torna imune a dano de fogo.
-## Estrela Cadente
-Com foco e planejamento cuidadoso, você desenvolveu novas possibilidades: Como ação bônus, você pode gastar Energia Amaldiçoada para obter deslocamento de voo de 10 unidades por um número de rodadas igual à quantidade de Energia Amaldiçoada gasta.
+## Corpo Chamuscado
+Usar suas chamas exaustivamente desenvolveu seu corpo. Você ganha imunidade a dano de fogo e a condição Queimado.
+## Jatos de Fogo
+Com foco e planejamento cuidadoso, você desenvolveu a capacidade de expelir potentes jatos de fogo de seus membros que servem como propulsão: Como ação bônus, você pode gastar Energia Amaldiçoada para obter deslocamento de voo de 10 unidades por um número de rodadas igual à quantidade de Energia Amaldiçoada gasta.
 ## Maximum: Meteoro
 Você aprende a extrair o máximo das suas Chamas do Desastre, criando sua técnica máxima. Como uma ação, ao custo de 10 pontos de Energia Amaldiçoada, você voa alto e reúne materiais para formar um gigantesco meteoro.
-No turno seguinte, ao atingir o solo, todas as criaturas em um raio de 20 unidades de você (exceto você) devem realizar um teste de resistência de Agilidade.  
-Em caso de falha, sofrem 6d8 de dano de concussão + 4d6 de dano de fogo.  
-Em caso de sucesso, sofrem metade do dano.
+No turno seguinte, ao atingir o solo, todas as criaturas em um raio de 10 unidades de você (exceto você) devem realizar um teste de resistência de Agilidade. Em caso de falha, sofrem 6d6 de dano de concussão + 2d8 de dano de fogo. Em caso de sucesso, sofrem metade do dano.
 ## Expansão de Domínio: Caixão da Montanha de Ferro
-Você aprende a expandir seu domínio, criando uma dimensão massiva de magma semelhante a um vulcão colossal. Enquanto estiver dentro dela, todas as criaturas, exceto você, devem realizar um teste de resistência de Corpo ao final de cada turno. Em caso de falha, sofrem 4d12 de dano de fogo. Em caso de sucesso, sofrem metade do dano.
+Você aprende a expandir seu domínio, criando uma dimensão massiva de magma semelhante a um vulcão colossal. Enquanto estiver dentro dela, todas as criaturas, exceto você, devem realizar um teste de resistência de Corpo ao final de cada turno. Em caso de falha, sofrem 2d12 de dano de fogo. Em caso de sucesso, sofrem metade do dano.
 
 ![[Caixao-Montanha-Ferro.png|Caixão da Montanha de Ferro]]
 
