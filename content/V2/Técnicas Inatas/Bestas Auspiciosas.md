@@ -3,7 +3,7 @@ Ao cobrir o rosto, você pode se tornar um canal para o espírito das quatro bes
 
 ![[Bestas-Auspiciosas.png|Bestas Auspiciosas]]
 # Nível 1 - Besta #1: Kaichi
-Como uma ação bônus que utiliza 3 pontos de EA, você invoca um chifre perfurador amarelo. Este chifre pode ser usado para realizar um ataque de 5 unidades de distância que causa 1d6 de dano perfurante. O dano aumenta para 1d8 no 3º nível, 1d10 no 5º nível, 2d6 no 7º nível e 2d8 no 9º nível.
+Como uma ação bônus que utiliza 3 pontos de EA, você invoca um chifre perfurador amarelo. Este chifre pode ser usado para realizar um ataque de 5 unidades de distância que causa 1d8 de dano perfurante.
 O Kaichi dura 1 turno. Você pode utilizar todas as características da habilidade [[V2/Talentos/Energia Amaldiçoada#Nível 3 - Projétil Infundido|Projétil Infundido]] nele, com a diferença de só ter um Kaichi ativo por vez.
 # Nível 3 - Besta #2: Reiki
 Você invoca um líquido escuro para aprimorar sua movimentação. Você pode usar uma ação grátis para gastar 1 Energia Amaldiçoada e dobrar seu movimento e ignorar terrenos difíceis até o final do seu turno atual. Alternativamente, como uma reação, por 2 Energias Amaldiçoadas, você pode adicionar +2 à sua CA até o início de seu próximo turno.

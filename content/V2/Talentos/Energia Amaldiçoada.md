@@ -157,29 +157,29 @@ Ao rolar para Fulgor Negro após um acerto crítico ou ao usar Postura das Faís
 
 ## Nível 1 - Impacto Amaldiçoado
 
-Você pode reforçar seu ataque desarmado com 1 ponto de EA. O dado de dano aumenta com o nível, e você pode adicionar o dano após o acerto ter sido garantido, inclusive em casos de crítico e de Fulgor Negro.
+Você pode reforçar seu ataque desarmado com pontos de EA. O dado de dano aumenta com o nível, e você pode adicionar o dano após o acerto ter sido garantido, inclusive em casos de crítico e de Fulgor Negro.
 
-| Nível | Dado |
-| ----- | ---- |
-| 1     | 1d4  |
-| 3     | 1d6  |
-| 5     | 1d8  |
-| 7     | 2d4  |
-| 9     | 2d6  |
-| 11    | 2d8  |
+| Nível | Dado | Custo de EA |
+| ----- | ---- | ----------- |
+| 1     | 1d6  | 1           |
+| 3     | 1d8  | 2           |
+| 5     | 1d10 | 3           |
+| 7     | 2d6  | 4           |
+| 9     | 2d8  | 5           |
+| 11    | 2d10 | 6           |
 
 ## Nível 1 - Armadura Amaldiçoada
 
-Você pode reforçar seu corpo por 1 ponto de EA para o próximo ataque. Como uma reação, você escolhe uma quantia de pontos de EA para diminuir o dano. O dado é determinado pelo nível:
+Você pode reforçar seu corpo com pontos de EA para o próximo ataque. Como uma reação, você escolhe uma quantia de pontos de EA para diminuir o dano. O dado é determinado pelo nível:
 
-| Nível | Dado |
-| ----- | ---- |
-| 1     | 1d4  |
-| 3     | 1d6  |
-| 5     | 1d8  |
-| 7     | 2d4  |
-| 9     | 2d6  |
-| 11    | 2d8  |
+| Nível | Dado | Custo de EA |
+| ----- | ---- | ----------- |
+| 1     | 1d6  | 1           |
+| 3     | 1d8  | 2           |
+| 5     | 1d10 | 3           |
+| 7     | 2d6  | 4           |
+| 9     | 2d8  | 5           |
+| 11    | 2d10 | 6           |
 ## Nível 3 - Surto de Movimentos
 
 Por 1 ponto de EA você pode realizar 2 ações entre Disparar, Desengajar, Esquivar, Usar Item e Teste de Perícia como ação bônus.

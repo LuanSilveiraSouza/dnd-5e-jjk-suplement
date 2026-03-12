@@ -1,58 +1,34 @@
-**Atributo de Conjuração**: Escolha entre Carisma e Inteligência
-**DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Sua técnica permite entrar em sintonia com qualquer forma de vida vegetal e as infundir com sua Energia Amaldiçoada, potencializando as características inerentes a planta em si.
-# Nível 1
-## Florestas do Desastre
-Você começou a compreender o poder da natureza. Você adquire a capacidade de manipular a natureza à vontade. Você recebe as seguintes técnicas amaldiçoadas, além de Druidcraft:
-
-**Plantas Vinculantes.** Como uma ação, por 1 Energia Amaldiçoada, você pode escolher um alvo a até 9 metros (30 pés) de você para ser preso por plantas. O alvo deve realizar um teste de resistência de Força; em caso de falha, ficará **Agarrado**. Ele pode fazer um teste de Força para se libertar; em caso de sucesso, se solta das amarras, em caso de falha, permanece preso.
-
-**Raízes Perfurantes.** Como uma ação, por 1 Energia Amaldiçoada, você pode erguer várias raízes do solo para atingir um alvo. Todas as criaturas em uma linha de 15 metros (50 pés) devem realizar um teste de resistência de Destreza; em caso de falha, sofrem 1d12 de dano perfurante, e em caso de sucesso, sofrem metade do dano.  
-O dano aumenta para 2d12 no 7º nível, 3d12 no 13º nível e 4d12 no 18º nível.
-
-**Muralha de Raízes.** Como reação, por 1 Energia Amaldiçoada, você ergue raízes profundas do solo para defender a si mesmo ou seus aliados. Quando você ou um aliado for alvo de uma jogada de ataque, você pode fazer surgir uma parede de raízes com 3 metros (10 pés) de altura e 1,5 metro (5 pés) de largura, cobrindo uma área de 3 metros (10 pés) ao seu redor. A parede possui uma quantidade de pontos de vida igual ao seu Bônus de Proficiência multiplicado pelo seu bônus de proficiência.
-
-# Nível 3
-## Feixe de Raízes
-
-Você aprendeu a criar pequenas esferas de madeira para lançar e perfurar seus oponentes. Como uma ação, você pode criar duas esferas de madeira pelo custo de 2 Energias Amaldiçoadas. As esferas possuem pontos de vida iguais ao seu Bônus de Proficiência, CA igual a 10 + seu Bônus de Proficiência, e flutuam ao seu redor.
-
-Como ação bônus, você pode enviar uma ou mais esferas contra um alvo a até 9 metros (30 pés). Faça uma jogada de ataque de Energia Amaldiçoada; em caso de acerto, as esferas criam grandes galhos que perfuram o alvo, causando 3d10 de dano perfurante. Após acertarem ou errarem, as esferas desaparecem.
-
+# Nível 1 - Floresta do Desastre
+Você começou a compreender o poder da natureza, adquirindo a capacidade de manipulá-la à vontade. Você se torna proficiente em Lidar com Fauna/Flora, e tem vantagem em testes envolvendo especificamente a flora.
+Você também recebe as seguintes técnicas amaldiçoadas:
+- **Plantas Restritivas:** Como uma ação, por 1 EA, você pode escolher um alvo a até 5 unidades de você para ser preso por plantas. O alvo deve realizar um teste de resistência de Corpo; em caso de falha, ficará **Agarrado**. Ele pode fazer um teste de Corpo para se libertar; em caso de sucesso, se solta das amarras, em caso de falha, permanece preso.
+- **Raízes Perfurantes:** Como uma ação, por 3 EA e até 5 unidades de distância de você, crie uma videira lotada de espinhos. A videira ocupa um espaço de 1 unidade, conta como terreno difícil, dura 5 turnos e possui 1 HP e 10 CA. Com 1 ação bônus, escolha um alvo a até 3 unidades da videira para fazer um teste de resistência de Corpo. Caso passe, nada acontece. Caso falhe, raízes o puxam violentamente em direção aos espinhos, causando 1d10 de dano perfurante.  
+# Nível 3 - Esfera de Raízes
+Você aprendeu a criar pequenas esferas de madeira para atacar seus oponentes. Como uma ação bônus, você conjura uma esfera de madeira pelo custo de 3 EA. As esferas possuem 1 HP, 10 CA e flutuam ao seu redor. Você pode ter ate 2 esferas conjuradas ao mesmo tempo.
+Como ação, você pode enviar uma ou mais esferas contra um alvo a até 5 unidades. Faça uma jogada de ataque de Energia Amaldiçoada; em caso de acerto, cada esfera causa 1d8 de dano perfurante. As esferas desaparecem logo após, independente se acertarem ou não.
 Você também pode usar sua ação bônus para se posicionar sobre uma das esferas, adquirindo deslocamento de voo igual ao seu deslocamento de caminhada enquanto estiver sobre ela.
-# Nível 7
-## Campo de Flores
-Você pode criar um círculo de pétalas que envolve seus oponentes e remove sua vontade de lutar. Como uma ação, por 10 Energias Amaldiçoadas, você cria um círculo de 9 metros (30 pés) de raio em um ponto a até 30 metros (100 pés) de você. Todas as criaturas na área devem realizar um teste de resistência de Sabedoria.
-Em caso de falha, sua vontade de lutar é completamente drenada, e sua mente entra em um estado de tranquilidade e felicidade. Elas ficam incapazes de realizar qualquer ação que ajude em combate por 1 minuto. Em caso de sucesso, nada acontece.
-O estado pode terminar antecipadamente se a criatura for alvo de um ataque ou teste de resistência, ou se obtiver sucesso em um teste de resistência de Sabedoria no início de seu turno. Ataques contra criaturas nesse estado são feitos com vantagem, e testes de resistência realizados por elas são feitos com desvantagem.
-# Nível 10
-## Brotos Amaldiçoados
-Você estudou a verdadeira natureza de sua técnica inata, criando um novo tipo de planta que se alimenta de Energia Amaldiçoada. Como uma ação, por 8 Energias Amaldiçoadas, você pode criar e lançar um número de brotos amaldiçoados igual ao seu Bônus de Proficiência contra um ou mais alvos a até 9 metros (30 pés). Faça uma jogada de ataque de Energia Amaldiçoada para cada broto; em caso de acerto, eles se fixam na criatura.
-No início do turno da criatura, ela perde uma quantidade de pontos de vida igual ao seu Bônus de Proficiência. A criatura pode realizar um teste de Força para remover o broto, removendo-o em caso de sucesso.
-Alternativamente, você pode gastar 10 Energias Amaldiçoadas para criar uma árvore de tamanho Grande que lança um broto amaldiçoado contra cada criatura hostil a até 9 metros (30 pés) dela. A árvore dura 1 minuto e lança novos brotos no início de cada um dos seus turnos.
-# Nível 13
+# Nível 5 - Campo de Flores
+Você pode criar uma área cheia de flores que envolve seus oponentes e remove sua vontade de lutar. Como uma ação, por 8 EA, você cria um círculo de 5 unidades de raio em um ponto a até 10 unidades de você. Todas as criaturas na área devem realizar um teste de resistência de Mente. Em caso de falha, sua vontade de lutar é completamente drenada, e sua mente entra em um estado de tranquilidade e felicidade. Elas ficam incapazes de realizar qualquer ação de combate por 1 turno. Em caso de sucesso, nada acontece.
+O estado pode terminar antecipadamente se a criatura for alvo de um ataque ou teste de resistência, ou se obtiver sucesso em um teste de resistência de Mente no início de seu turno. Ataques contra criaturas nesse estado são feitos com vantagem, e testes de resistência realizados por elas são feitos com desvantagem.
+# Nível 7 - Brotos Amaldiçoados
+Você estudou a verdadeira natureza de sua técnica inata, criando um novo tipo de planta que se alimenta de Energia Amaldiçoada. Como uma ação + sua movimentação completa neste turno, por 8 EA, você pode criar e lançar 2 brotos amaldiçoados contra um ou mais alvos a 10 unidades de você. Faça uma jogada de ataque de Energia Amaldiçoada para cada broto; em caso de acerto, eles se fixam na criatura.
+No início do turno da criatura, ela perde 1 ponto de EA por broto. A criatura pode realizar um teste de Corpo para remover o broto, removendo-o em caso de sucesso.
+Alternativamente, você pode gastar 12 Energias Amaldiçoadas para criar uma árvore de tamanho Grande que lança um broto amaldiçoado contra cada criatura hostil a até 5 unidades dela. A árvore dura 3 turnos e lança novos brotos no início de cada um dos seus turnos.
+# Nível 9
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 18
+# Nível 11
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 20
+# Nível 12
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Talentos
-## Clorocinese
-**Pré-requisitos**: Grau 1 ou Superior.
 
-Por meio de treino e compreensão, você encontrou novas aplicações para suas raízes. Escolha duas magias abaixo do 5º círculo relacionadas à natureza. Elas custam uma quantidade de Energia Amaldiçoada igual ao nível da magia (este talento pode ser escolhido mais de uma vez).
 ## Buquê
-**Pré-requisitos**: Grau 1 ou Superior.
-
-Você encontrou uma forma de fazer mais com menos. Como uma ação, por 3 Energias Amaldiçoadas, você pode aplicar os efeitos de Campo de Flores a uma única criatura.
-
-## Raízes Drenantes
-**Pré-requisitos**: Grau 1 ou Superior.
-
-Seu poder aumentou e foi refinado. Como uma ação, por 5 Energias Amaldiçoadas, você pode conceder a si mesmo a habilidade de drenar Energia Amaldiçoada. Após um ataque corpo a corpo ou um ataque de Técnica Inata, você rola 1d4 e recupera o valor obtido em Energia Amaldiçoada.
-
-## Expansão de Domínio: Mar Cerimonial de Luz
-**Pré-requisitos**: Grau Especial.
-
-Você refinou sua técnica inata ao máximo, aprendendo sua Expansão de Domínio. Todas as criaturas dentro do domínio ficam sob os efeitos de Campo de Flores e sofrem 2d4 de dano necrótico, que você absorve como Energia Amaldiçoada.
+Você encontrou uma forma de fazer mais com menos. Como uma ação por pontos de 3 EA, você pode aplicar os efeitos de Campo de Flores a uma única criatura.
+## Punhos de Broto
+Você imbuiu o poder de seus brotos amaldiçoados em suas mãos. Como uma ação bônus por 1 ponto de EA, você faz com que seu próximo ataque desarmado roube 1d4 pontos de EA do alvo. 
+## Maximum: Rosa-Mãe
+O pináculo de sua técnica. Por uma ação completa (ação + ação bônus + movimentação) custando 10 pontos de EA, você conjura uma imensa flor em um de seus braços, e carrega uma quantidade imensa de energia nela. No início de seu próximo turno, todas as criaturas em uma linha de 10 unidades fazem um teste de Agilidade. A falha resulta em 8d6 de dano energético, enquanto o sucesso garante metade do dano. 
+## Expansão de Domínio: Mar Brilhante das Raízes Crescentes
+Você refinou sua técnica inata ao máximo, aprendendo sua Expansão de Domínio. Sua Rosa-Mãe passa a requerir apenas ação + movimentação, e o disparo é feito no fim de seu turno.

@@ -2,12 +2,7 @@
 Fogo, chamas, magma e vulcões: Tudo está incluído no seu arsenal de destruição em massa.
 # Nível 1 - Chamas do Desastre
 Você aprendeu os fundamentos da manipulação de fogo, sendo capaz de lançar uma onda de chamas pelas mãos.
-Custando 1 ação e 2 pontos de EA, você libera um cone de 2 unidades que força criaturas na área a realizarem um teste de resistência de Agilidade. Em caso de falha, sofrem 1d6 de dano de fogo; em caso de sucesso, sofrem metade do dano.
-O fogo incendeia quaisquer objetos inflamáveis na área que não estejam sendo usados ou carregados, e o dano segue a progressão de acordo com os níveis:
-
-| Nível de Feiticeiro | 1   | 3   | 5   | 7   | 9   | 11  |
-| ------------------- | --- | --- | --- | --- | --- | --- |
-| Dado de Dano        | 1d6 | 2d6 | 3d6 | 4d6 | 5d6 | 6d6 |
+Custando 1 ação e 2 pontos de EA, você libera um cone de 2 unidades que força criaturas na área a realizarem um teste de resistência de Agilidade. Em caso de falha, sofrem 1d6 de dano de fogo; em caso de sucesso, sofrem metade do dano. O fogo também incendeia quaisquer objetos inflamáveis na área que não estejam sendo usados ou carregados.
 # Nível 3 - Pirocinese
 Sua manipulação de chamas é melhorada, garantindo os seguintes benefícios:
 - Você pode controlar chamas externas, podendo as mover ou extinguir. Você também pode incendiar objetos inflamáveis que não estejam sendo usados/segurados por alguém como ação grátis. 
