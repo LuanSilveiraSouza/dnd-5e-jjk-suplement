@@ -23,6 +23,8 @@ Para determinar os atributos iniciais de seu personagem, role **6x 3d6**. Use as
 ---
 # Pontos de Vida (HP)
 Representa sua saúde, constituição, e o quantidade de golpes que consegue aguentar. No nível 1 todos possuem **12 + 1d6** em pontos de vida. Sempre que subir de nível, adicione **1d6** ao total.
+# Deslocamento
+Representa a quantidade de unidades de distância que você consegue se mover com 1 ação de movimento. Inicialmente todos possuem deslocamento de 4 unidades.
 # Energia Amaldiçoada (EA)
 Representa o "tanque" de energia amaldiçoada do indivíduo. As ações que usam energia amaldiçoada subtraem do total. Este atributo é definido por **Nível x 2 + Mod Alma (caso o Mod Alma seja negativo não subtraia)**. 
 # Classe de Armadura (CA)

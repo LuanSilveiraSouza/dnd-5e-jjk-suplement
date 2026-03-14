@@ -1,4 +1,5 @@
 O combate de feiticeiros é brutal, impiedoso e dinâmico. Em momentos de clímax narrativos o Mestre pode intervir com gatilhos, momentos de aprimoramento pessoal que demonstram o pináculo da Energia Amaldiçoada. Alguns gatilhos são:
+- Técnica Inata de nível superior: Caso o personagem esteja próximo de desbloquear uma evolução de sua Técnica, a depender da ocasião, ele pode aprendê-la e utilizá-la no meio do combate.
 - Energia Amaldiçoada Reversa: Chegar a 0HP. O mestre pode determinar que o personagem aprende a usar Energia Positiva ou rola um d100, com 90+ resultando em sucesso.
 - Domínio Incompleto: Estar dentro de alguma barreira de terceiros.
 - Expansão de Domínio: Grau 1 ou superior, possuir alguma técnica de Barreira e ter expandido o domínio de forma incompleta.

@@ -6,9 +6,9 @@ O sistema de dano a membros corporais pode ser usado por algumas Técnicas Inata
 | Braços         | -4         | 1/4 do HP Máximo |
 | Pernas         | -6         | 1/4 do HP Máximo |
 | Torso          | -6         | 1/2 do HP Máximo |
-| Cabeça         | -8         | 1/4 do HP Máximo |
+| Cabeça         | -10        | 1/4 do HP Máximo |
 
-Caso acerte, o dano precisa ser igual ou superior ao valor de HP do membro para afetá-lo o suficiente. O alvo perde os pontos de vida normalmente com o ataque. Caso esteja agarrando o alvo, faça a rolagem de acerto com vantagem.
+Caso acerte, o dano precisa ser igual ou superior ao valor de HP do membro para afetá-lo o suficiente. O alvo perde os pontos de vida normalmente com o ataque.
 
 Ao afetar um membro, ele fica quebrado. Caso o membro seja afetado novamente, ele é perdido. A tabela abaixo descreve os efeitos em ambos os casos:
 
@@ -21,4 +21,4 @@ Ao afetar um membro, ele fica quebrado. Caso o membro seja afetado novamente, el
 | Torso          | Desvantagem em testes de Corpo                                                                                                                                                            | O alvo morre a menos que consiga viver sem torso.  |
 | Cabeça         | Rode 1d4: 1 (Desvantagem em Testes de Ego, e não pode se concentrar em nada); 2 (-5 em Testes envolvendo audição); 3 (-5 em Testes envolvendo visão); 4 (Desvantagem em Testes de Mente). | O alvo morre a menos que consiga viver sem cabeça. |
 
-As partes quebradas são recuperadas em um descanso. As partes perdidas podem ser recuperadas usando Energia Amaldiçoada Reversa: 2 pontos de EA reversa retorna o membro para o estado quebrado, enquanto 5 pontos de EA reversa retorna o membro para o estado normal.
+As partes quebradas são recuperadas em um descanso. As partes perdidas podem ser recuperadas usando Energia Amaldiçoada Reversa: 2 pontos de Energia reversa retorna o membro para o estado quebrado, enquanto 5 pontos de Energia reversa retorna o membro para o estado normal.

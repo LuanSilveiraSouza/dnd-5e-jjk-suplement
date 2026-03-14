@@ -21,25 +21,25 @@ Personagens no nível 10 possuem masterização da forma básica de sua técnica
 ## Níveis 9, 11 e 12: Pináculo da Técnica
 Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem pode escolher em qualquer ordem que desejar. Geralmente de 3 a 4 opções, com duas destas envolvendo a versão Maximum da Técnica, ao qual simboliza a forma suprema de usabilidade da técnica, e a Expansão de Domínio, ao qual o personagem finalmente consegue imbuir sua técnica em um domínio, garantindo o efeito de acerto garantido.
 
-# Exemplos de Efeitos de Técnicas
-- Ataque a distância, alvo único e dano massivo;
-- Dano em área, dano mediano e salvaguarda onde o alvo recebe metade do dano caso seja bem sucedido;
-- Dano em área, dano alto e salvaguarda onde o alvo não recebe dano caso seja bem sucedido;
-- Benefício mediano para aliados, área média, um efeito adverso para o usuário;
-- Benefício mínimo para aliados, área grande, sem efeitos adversos;
-- Benefício alto, aliado único, vários turnos;
-- Ataque Corpo a Corpo, dano alto, salvaguarda onde o alvo adquire uma condição menor caso falhe;
-- Ataque Corpo a Corpo, dano baixo, salvaguarda com dano alto;
-- Benefício próprio médio por vários turnos;
+# Tabela de Efeitos de Técnicas
 
-| Custo | Dano/Benefício | Malefício | Distância     | Área           | Teste               | Duração  | Ação                |
-| ----- | -------------- | --------- | ------------- | -------------- | ------------------- | -------- | ------------------- |
-| -3    |                | Alto      |               |                |                     |          | Ação Completa       |
-| -1    | Baixo          | Médio     |               |                |                     |          | Ação + Movimentação |
-| -     | Médio          |           | Corpo a Corpo |                |                     | Imediato | Ação                |
-| +1    | Alto           |           | 5 Unidades    | 3x3 Unidades   | DC Baixo (8 + mod)  | 1 Turno  | Ação Bônus/Reação   |
-| +2    | Muito Alto     |           | 10 Unidades   | 5x5 Unidades   | DC Médio (10 + mod) | 3 Turnos |                     |
-| +3    | Extremo        |           | 20 Unidades   | 10x10 Unidades | DC Alto (12 + mod)  | 5 Turnos | Ação Grátis         |
+| Custo | Dano/Benefício | Distância     | Área           | Teste               | Duração  | Pontos de Ação | Malefício |
+| ----- | -------------- | ------------- | -------------- | ------------------- | -------- | -------------- | --------- |
+| -3    |                |               |                |                     |          | 3+Reação       | Alto      |
+| -1    | Baixo          |               |                |                     |          | 3              | Médio     |
+| -     | Médio          | Corpo a Corpo |                |                     | Imediato | 2              |           |
+| +1    | Alto           | 5 Unidades    | 3x3 Unidades   | DC Baixo (8 + mod)  | 1 Turno  | 1/Reação       |           |
+| +2    | Muito Alto     | 10 Unidades   | 5x5 Unidades   | DC Médio (10 + mod) | 3 Turnos |                |           |
+| +3    | Extremo        | 20 Unidades   | 10x10 Unidades | DC Alto (12 + mod)  | 5 Turnos |                |           |
+## Exemplos de Malefícios
+Você pode incluir malefícios para compensar as vantagens que sua técnica possui. Alguns exemplos são:
+**Malefício Médio**
+- A técnica requer selos de uma mão para ser conjurada, logo você não pode conjurar caso não tenha uma mão livre;
+- Você não pode usar ações de movimento no turno;
+**Malefício Alto**
+-  A técnica requer selos de uma mão para ser conjurada, logo você não pode conjurar caso não tenha ambas mãos livres;
+- Ataques contra você são feitos com vantagem até o início do seu próximo turno;
+- Você adquire uma condição ou sofre dano caso falhe no acerto da técnica;
 # Dano de Técnicas por Nível
 Use esta tabela como base para o dano de habilidades de Técnicas Inatas por nível. Você pode alterar os dados de dano de acordo com a ideia da técnica: por exemplo, se a técnica envolve um alvo único mas é formada por vários ataques seguidos, você pode alterar o dano para 2d4 em vez de 1d8. Se a técnica possui um teste com efeito adicional, diminua o dado para 1d4 com o teste falho garantindo 1d6 de dano extra. Utilize a criatividade e mantenha contato constante com o Mestre para garantir a opinião dele na combinação de efeitos desejados.
 
@@ -51,21 +51,6 @@ Use esta tabela como base para o dano de habilidades de Técnicas Inatas por ní
 | 7                | 4                | 2d4        | 2d6        | 2d8       | 2d10            | 2d12         |
 | 9                | 5                | 2d6        | 2d8        | 2d10      | 2d12            | 3d10         |
 | 11               | 6                | 2d8        | 2d10       | 2d12      | 3d10            | 3d12         |
-
-| Nível de Feiticeiro | Vida Mínima | Vida Média | Vida Máxima |
-| ------------------- | ----------- | ---------- | ----------- |
-| 1                   | 13          | 15.5       | 18          |
-| 2                   | 14          | 19         | 24          |
-| 3                   | 15          | 22.5       | 30          |
-| 4                   | 16          | 26         | 36          |
-| 5                   | 17          | 29.5       | 42          |
-| 6                   | 18          | 33         | 48          |
-| 7                   | 19          | 36.5       | 54          |
-| 8                   | 20          | 40         | 60          |
-| 9                   | 21          | 43.5       | 66          |
-| 10                  | 22          | 47         | 72          |
-| 11                  | 23          | 50.5       | 78          |
-| 12                  | 24          | 54         | 84          |
 
 # Tipos de Dano
 Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[V1/Mecânicas/Talentos/Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.

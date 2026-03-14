@@ -1,17 +1,16 @@
 
 # Itens 
 
-| Item                                | Custo    | Efeito                                             |     |
-| ----------------------------------- | -------- | -------------------------------------------------- | --- |
-| Celular                             | $1,000   | Comunicação em longa distância                     |     |
-| Essência Abençoada                  | $1,000   | Cura 10 HP como ação e 2d4 + 2 HP como ação bônus  |     |
-| Essência Abençoada Maior            | $5,000   | Cura 28 HP como ação 4d6 + 4 HP como ação bônus    |     |
-| Essência Abençoada Superior         | $50,000  | Cura 54 HP como ação 6d8 + 6 HP como ação bônus    |     |
-| Essência Abençoada Suprema          | $100,000 | Cura 88 HP como ação e 8d10 + 8 HP como ação bônus |     |
+| Item                        | Custo    | Efeito                                             |     |
+| --------------------------- | -------- | -------------------------------------------------- | --- |
+| Celular                     | $1,000   | Comunicação em longa distância                     |     |
+| Essência Abençoada          | $1,000   | Cura 10 HP como ação e 2d4 + 2 HP como ação bônus  |     |
+| Essência Abençoada Maior    | $5,000   | Cura 28 HP como ação 4d6 + 4 HP como ação bônus    |     |
+| Essência Abençoada Superior | $50,000  | Cura 54 HP como ação 6d8 + 6 HP como ação bônus    |     |
 
 # Armas
 Sua origem concede proficiência em certas armas, refletindo tanto sua criação quanto as ferramentas que você provavelmente usará com mais frequência. Seja uma espada longa ou uma pistola, sua arma e sua habilidade em empunhá-la com eficácia podem significar a diferença entre a vida e a morte ao enfrentar maldições.
-A tabela de Armas mostra os tipos de armas, seu preço, peso, o dano que causam ao atingir o alvo e quaisquer propriedades especiais que possuam. Cada arma é classificada como corpo a corpo ou à distância. Uma arma corpo a corpo é usada para atacar um alvo a até 1 unidade de você, enquanto uma arma à distância é usada para atacar um alvo a uma certa distância.
+A tabela de Armas mostra os tipos de armas, seu preço, peso, o dano que causam ao atingir o alvo e quaisquer propriedades especiais que possuam. Cada arma é classificada como corpo a corpo ou a distância. Uma arma corpo a corpo é usada para atacar um alvo a até 1 unidade de você, enquanto uma arma a distância é usada para atacar um alvo a uma certa distância.
 ## Proficiência em Armas
 Sua origem e talentos lhe concedem a capacidade de obter proficiência em certos tipos de armas. 
 As proficiências são divididas em **Armas Improvisadas**, **Armas de Uma Mão**, **Armas de Duas Mãos**, **Arcos** e **Armas de Fogo**.
@@ -21,14 +20,14 @@ Quando os personagens decidem usar uma ferramenta ou item que poderia ser usado 
 Quando uma arma improvisada é usada, o dado de dano é 1d4 (o tipo de dano é decidido pelo Mestre com base na arma). Ela pode ser usada como uma arma corpo a corpo ou uma arma de arremesso, dependendo da arma. Uma arma de arremesso improvisada tem um alcance de 5 unidades.
 ## Propriedades de Armas
 Os diferentes tipos de propriedades especiais de armas estão listados abaixo:
-- Leve: Pode ser usada como ataque extra custando 1 ação bônus, desde que esteja na mão não dominante;
+- Leve: Pode ser usada como ataque extra custando 1 ponto de ação, desde que esteja na mão não dominante;
 - Arremesso: Você pode fazer um ataque a distância com a arma. O número X representa a distância máxima em unidades que você pode fazer o ataque com a arma;
 - Duas Mãos: Por conta de seu tamanho, você precisa usar as duas mãos para segurar a arma;
 - Versátil: A arma tem o dado de dano aumentado caso a segure com as duas mãos;
 - Extensão: O alcance da arma é de 2 unidades em vez de 1;
 - Munição: A arma usa algum tipo de munição como projétil. O número X representa a distância máxima em unidades que você pode fazer o ataque com a arma;
 - Recarga: Você só pode fazer 1 ataque por turno com esta arma;
-- Recarga(X): A arma possui um carregador com munições. Ao gastar todos os projéteis representados por X, é necessário usar uma ação para recarregar a arma.
+- Recarga(X): A arma possui um carregador com munições. Ao gastar todos os projéteis representados por X, é necessário usar 1 ponto de Ação para recarregar a arma.
 - Silencioso: Disparos à longa distância bem sucedidos da arma não corroboram para perder a condição de Oculto.
 ## Armas Especiais
 Armas com regras especiais são descritas aqui.
@@ -97,7 +96,7 @@ Esta adaga causa 1d6 de dano cortante.
 ### Espada de Mão
 ![[image-17.png]]
 *Arma (Espada Curta), Rara*
-Você adiciona +1 ao acerto e ao dano da arma. Você pode controlar remotamente a mão do punho da espada como uma ação bônus, fazendo a arma se mover até 4 unidades por turno até um total de 20 unidades de distância do usuário. Em adição a isso, você pode atacar normalmente com a espada usando uma ação.
+Você adiciona +1 ao acerto e ao dano da arma. Você pode controlar remotamente a mão do punho da espada com 1 ponto de Ação, fazendo a arma se mover até 4 unidades até um total de 20 unidades de distância do usuário. Em adição a isso, você pode atacar normalmente com a espada usando uma 2 pontos de Ação.
 ### Honoyagi
 ![[image-8.png]]
 *Arma (Espada Longa), Rara*
@@ -106,10 +105,10 @@ Você adiciona +1 ao acerto e ao dano da arma. Ao desembainhar esta Katana, a re
 ### Corda Negra
 ![[image-1.png]]
 *Arma (Chicote), Muito Rara*
-Ao atacar com esta arma, você pode usar uma carga que desativa todas as características relacionadas a magia e energia amaldiçoada. No entanto, para cada acerto enquanto este efeito estiver ativo, você subtrai um do seu bônus de acerto e dano. Ao atingir -5, a Corda Negra se dissipará.
+Você pode considerar esta arma como uma Manopla, afim de utilizá-la como **Ataque Desarmado**. A Corda Negra possui 10 cargas, aos quais podem ser utilizadas em ataques bem sucedidos para neutralizar Técnicas Inatas. Após as 10 cargas serem utilizadas, a corda se dissipará.
 ### Osso de Dragão
 ![[image-3.png]]
-*Arma (Cimitarra), Muito Rara*
+*Arma (Espada Longa), Muito Rara*
 Você recebe um bônus nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. O bônus é igual a um terço do dano causado no seu último ataque, arredondado para baixo.
 ### Braço de Aço
 ![[image-13.png]]
@@ -130,7 +129,7 @@ Você recebe +2 nas jogadas de ataque e dano feitas com esta ferramenta amaldiç
 ### Corrente de 1000 Milhas
 ![[image-2.png]]
 **Arma (Chicote), Grau Especial**
-Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. Além disso, como uma ação bônus, você pode adicionar 10 unidades ao alcance, contanto que uma das extremidades esteja coberta. Você também pode adicionar uma arma à extremidade da corrente, desde que a arma não seja de duas mãos.
+Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. Além disso, por 1 ponto de Ação, você pode adicionar 10 unidades ao alcance, contanto que uma das extremidades esteja coberta. Você também pode adicionar uma arma com a propriedade **Leve** à extremidade da corrente.
 ### Espada da Vida Purulenta
 ![[image-7.png]]
 **Arma (Espada Curta), Grau Especial**
@@ -139,7 +138,7 @@ Você pode reforçar os ataques da arma com 5 pontos de EA. Caso gaste, o alvo d
 ### Lança Invertida do Céu
 ![[image-4.png]]
 **Arma (Adaga), Grau Especial**
-Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. Além disso, todas as características relacionadas a técnicas amaldiçoadas do alvo são ignoradas.
+Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. Além disso, todas as características relacionadas a técnicas inatas do alvo são ignoradas.
 ### Nuvem Brincalhona
 ![[image-5.png]]
 **Arma (Cajado), Grau Especial**
@@ -151,11 +150,11 @@ Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferram
 ### Espada de Proporção
 ![[image-12.png]]
 **Arma (Espada Curta), Grau Especial**
-Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. Sempre que realizar uma jogada de ataque, você pode gastar 1 ponto de EA para rolar 1d10. Se o resultado for 3 ou 7, o ataque é considerado um acerto crítico e acertos críticos possuem 2 dados de dano adicionais. Você pode usar esta habilidade 5 vezes por encontro.
+Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. Sempre que realizar uma jogada de ataque, você pode gastar 1 ponto de EA para rolar 1d10. Se o resultado for 3 ou 7, o ataque é considerado um acerto crítico com 2 dados de dano adicionais. Você pode usar esta habilidade 5 vezes por encontro.
 ### Olhos e Presas de Serpente
 ![[image-14.png]]
 **Item (Megafone), Grau Especial**
-Como uma ação bônus enquanto empunha Olhos e Presas de Serpente, você pode usar qualquer uma das palavras amaldiçoadas no item de fala amaldiçoada, contanto que tenha Energia Amaldiçoada suficiente. Você sofrerá as mesmas consequências que um usuário normal de fala amaldiçoada. Após gastar 20 de Energia Amaldiçoada, o item evapora.
+Por 1 ponto de Ação enquanto empunha Olhos e Presas de Serpente, você pode usar qualquer uma das palavras amaldiçoadas na técnica da [[V2/Técnicas Inatas/Fala Amaldiçoada|Fala Amaldiçoada]], contanto que tenha Energia Amaldiçoada suficiente. Você sofrerá as mesmas consequências que um usuário normal de fala amaldiçoada. Após gastar 20 de Energia Amaldiçoada, o item evapora.
 ### Kamutoke
 ![[image-6.png]]
 **Arma (Adaga), Grau Especial**
@@ -165,5 +164,5 @@ Ao empunhar esta arma, você pode gastar 10 de energia amaldiçoada para lançar
 ![[image-11.png]]
 **Arma (Lança), Grau Especial**
 Você recebe um bônus de +3 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. 
-Ao empunhar Hiten, você pode gastar 5 de energia amaldiçoada para invocar uma nuvem a até 5 unidades de você. Você ou outra pessoa pode ficar dentro da nuvem e ganhar uma velocidade de voo igual à velocidade de caminhada do portador, mas isso dura um número de rodadas igual ao modificador de Ego do portador. O custo de ação é uma ação bônus para invocar e uma ação livre para montar.
+Ao empunhar Hiten, você pode gastar 5 de energia amaldiçoada para invocar uma nuvem a até 4 unidades de você. Você ou outra pessoa pode ficar dentro da nuvem e ganhar uma velocidade de voo igual à velocidade de caminhada do portador, mas isso dura um número de rodadas igual ao modificador de Ego do portador. O custo é de 1 ponto de Ação para invocar e uma ação grátis para montar.
 **Solução Marcial Suprema**: Se alguém possuir tanto a Kamutoke quanto Hiten, pode criar uma reação especial entre as duas ferramentas amaldiçoadas. Se o raio atingir especificamente a nuvem de Hiten, devido à energia amaldiçoada compatível, a nuvem absorve a eletricidade e então explode em uma enorme explosão elétrica. Todas as pessoas a até 5 unidades devem fazer um teste de resistência de Agilidade de DC igual a **10 + Mod Ego** e sofrer 6d6 de dano elétrico em caso de falha. Metade desse dano em caso de sucesso. Isso só pode ser feito uma vez por descanso, pois a energia amaldiçoada não terá sinergia por um período de tempo.

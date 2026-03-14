@@ -22,6 +22,7 @@ Diversas habilidades físicas e envolvendo Energia Amaldiçoada possuem a capaci
 ## Agarrado
 - Você e a criatura que te agarrou movem-se juntos. Caso você faça a ação de movimento simples, vocês se movem até metade de seu deslocamento. Caso a criatura faça a ação de movimento simples, vocês se movem o deslocamento total da criatura.
 - A criatura tem vantagem em ataques corpo a corpo contra você;
+- A criatura não pode usar Reações;
 - Você perde a condição caso se mova para fora do alcance da criatura que o agarrou ou caso a criatura adquira as condições de Caído, Restringido, Paralizado, Atordoado, ou receba um nível de Exaustão.
 ## Restringido
 - Você se move metade do deslocamento;
