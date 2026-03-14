@@ -15,7 +15,7 @@ A tabela de Armas mostra os tipos de armas, seu preço, peso, o dano que causam 
 ## Proficiência em Armas
 Sua origem e talentos lhe concedem a capacidade de obter proficiência em certos tipos de armas. 
 As proficiências são divididas em **Armas Improvisadas**, **Armas de Uma Mão**, **Armas de Duas Mãos**, **Arcos** e **Armas de Fogo**.
-Você pode escolher entre seu modificador de Corpo ou Agilidade para somar nas rolagens de acerto. Quando você possui proficiência em um tipo de arma, adicione 1d4 na rolagem além de seu modificador. 
+Você pode escolher entre seu modificador de Corpo ou Agilidade para somar nas rolagens de acerto. Quando você possui proficiência em um tipo de arma, adicione 1d6 na rolagem além de seu modificador. 
 ## Armas Improvisadas
 Quando os personagens decidem usar uma ferramenta ou item que poderia ser usado como uma arma em potencial, o Mestre pode permitir que o usem como uma arma improvisada. Se um personagem for proficiente com armas improvisadas ou se a arma improvisada for semelhante a um tipo de arma, como um martelo, o Mestre pode permitir que o personagem adicione seu modificador de atributo à rolagem de ataque.
 Quando uma arma improvisada é usada, o dado de dano é 1d4 (o tipo de dano é decidido pelo Mestre com base na arma). Ela pode ser usada como uma arma corpo a corpo ou uma arma de arremesso, dependendo da arma. Uma arma de arremesso improvisada tem um alcance de 5 unidades.

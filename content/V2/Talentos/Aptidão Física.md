@@ -2,24 +2,23 @@
 
 ## Nível 1 - Artes Marciais Básicas
 Seu dano de ataque desarmado aumenta para 1d6 de dano contundente.
-## Nível 5 - Artes Marciais Intermediárias
+## Nível 4 - Artes Marciais Intermediárias
 Seu dano de ataque desarmado aumenta para 1d8 de dano contundente.
-## Nível 9 - Artes Marciais Avançadas
+## Nível 8 - Artes Marciais Avançadas
+Seu dano de ataque desarmado aumenta para 2d4 de dano contundente.
+## Nível 12 - Mestre em Artes Marciais
 Seu dano de ataque desarmado aumenta para 1d10 de dano contundente.
-## Nível 11 - Mestre em Artes Marciais
-Seu dano de ataque desarmado aumenta para 1d12 de dano contundente.
 # Combate Corpo a Corpo Defensivo
 
-## Nível 1 - Aparar
-Como uma reação a um ataque corpo a corpo feito contra você, você pode adicionar +2 ao CA para este ataque em específico. Caso esteja usando uma arma com duas mãos, adicione +3 em vez de +2 ao CA.
-## Nível 3 - Proteção 
-Quando uma criatura que você pode ver ataca um alvo que não seja você e que esteja a até 1 unidade de você, você pode usar sua reação para impor desvantagem na jogada de ataque.
-## Nível 5 - Reatividade 
+## Nível 2 - Proteção 
+Quando uma criatura que você pode ver ataca um aliado que não seja você e que esteja a até 1 unidade de você, você pode usar sua reação para trocar de lugar com o aliado, fazendo o ataque usar seu CA e o dano, em caso de sucesso, ser direcionado a você.
+## Nível 4 - Aparar
+Ao realizar a Reação de Esquiva contra um ataque corpo a corpo feito contra você, você pode adicionar +3 ao CA apenas para este ataque. Caso esteja usando uma arma com duas mãos, adicione +4.
+## Nível 6 - Reatividade 
 - Você pode usar 2 reações por rodada, desde que as habilidades de reação sejam as descritas neste talento.
-- Quando uma criatura que você pode ver ataca um aliado que não seja você e que esteja a até 1 unidade de você, você pode usar sua reação para trocar de lugar com o aliado, fazendo o ataque usar seu CA e o dano, em caso de sucesso, ser direcionado a você.
-## Nível 7 - Postura Defensiva
-Como uma ação bônus, você pode entrar em uma postura defensiva que dura até o início do seu próximo turno. Enquanto estiver em sua postura defensiva, você pode fazer ataques de oportunidade sem usar sua reação e pode usar sua reação para fazer um ataque corpo a corpo contra uma criatura que se mova mais de 1 unidade enquanto estiver ao seu alcance.
-## Nível 9 - Reatividade
+## Nível 8 - Postura Defensiva
+Por 1 ponto de Ação, você pode entrar em uma postura defensiva que dura até o início do seu próximo turno. Enquanto estiver em sua postura defensiva, Esquiva e Aparar não gastam sua reação.
+## Nível 10 - Reatividade
 - Você pode usar 3 reações por rodada, desde que as habilidades de reação sejam as descritas neste talento.
 # Arruaceiro
 
