@@ -1,8 +1,18 @@
+```mermaid
+flowchart TD
+id1{{Energia Positiva}} --> id11(Cura)
+id11 --> id12(Cura Externa)
+id11 --> id13(Cura Otimizada)
+
+id1 --> id21(Liberação de Energia Positiva)
+id1 --> id22(Reversão de Feitiço)
+id22 --> id23{{Multiplicação de Feitiço}}
+```
 # Energia Positiva - Suporte
 **Pré-requisitos**: Gatilho.
 Em um momento de torpor e de risco de morte você entende o processo de transformar Energia Amaldiçoada em energia positiva ao multiplicar negativo com negativo. 
 ## Nível 3 - Cura
-O uso básico de Energia Positiva consiste em curar seus próprios ferimentos. Com uma ação você usa X pontos de EA para transformá-los em Xd6 de dados de vida. Você também pode curar ferimentos físicos graves (como membros quebrados/decepados) por 5 pontos de EA.
+O uso básico de Energia Positiva consiste em curar seus próprios ferimentos. Com uma ação você usa X pontos de EA para transformá-los em Xd4 de dados de vida. Você também pode curar ferimentos físicos graves (como membros quebrados/decepados) por 5 pontos de EA.
 A quantidade de pontos de EA que você pode gastar por descanso é determinada pelo seu **nível atual X 2** (arredondado para baixo).
 ## Nível 5 - Cura Externa
 Você foi além da cura pessoal, conseguindo utilizar Energia Positiva em terceiros. Você também adquire proficiência em Sobrevivência.

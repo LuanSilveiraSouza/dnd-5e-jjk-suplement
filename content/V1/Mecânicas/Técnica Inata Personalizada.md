@@ -59,7 +59,7 @@ Os níveis seguintes ao 10 possuem várias alternativas das quais o personagem p
 | Alto           | Sim       | Sim         | Sim                 | Vários Turnos | 3           |
 
 # Tipos de Dano
-Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[V1/Mecânicas/Talentos/Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.
+Você pode optar por alterar o tipo de dano da técnica ao qual suas técnicas se baseiam (igual ao Talento [[v1/Mecânicas/Talentos/Energia Amaldiçoada#Energia Amaldiçoada Elemental|Energia Amaldiçoada Elemental]]). O tipo de dano por padrão é **dano energético**, ao qual simboliza a Energia Amaldiçoada em sua forma "pura". Considere a tabela abaixo para o tipo de dano oposto, ao qual será utilizado na [[v1/Mecânicas/Talentos/Energia Amaldiçoada Reversa#Reversão de Feitiço|Energia Amaldiçoada Elemental]]. Converse com o mestre caso queira trocar o tipo de dano oposto para um que faça mais sentido com sua técnica.
 
 | Tipo        | Descrição                                                     | Oposto      |
 | ----------- | ------------------------------------------------------------- | ----------- |

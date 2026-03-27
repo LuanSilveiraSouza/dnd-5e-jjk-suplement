@@ -1,3 +1,21 @@
+```mermaid
+flowchart TD
+id11(Domínio Inato) --> id21(Cortina)
+id21 --> id22(Cortina Complexa)
+id22 --> id23(Cortina Independente)
+id22 --> id24(Intruso de Barreiras)
+id21 --> id25(Cesto de Vime Oco)
+
+id11 --> id31(Domínio Simples)
+id31 --> id32(Saque da Espada do Crepúsculo)
+id32 --> id33(Batto: Saque Rápido)
+id33 --> id34(Véu do Luar)
+id31 --> id35(Adepto do Novo Estilo das Sombras)
+id35 --> id36(Mestre do Novo Estilo das Sombras)
+
+id11 --> id41(Emoção das Pétalas Caídas)
+id41 --> id42(Amplificação de Domínio)
+```
 # Cortinas
 
 ## Nível 1 - Cortina Básica
@@ -61,7 +79,7 @@ Você também pode utilizar esta técnica ofensivamente, desde que tenha equipad
 ## Nível 9 - Amplificação de Domínio
 **Pré-requisitos**: Técnica Inata.
 
-Você aprendeu como utilizar o poder de um domínio sem usá-lo ativamente. Por 2 pontos de Ação e metade da Energia Amaldiçoada que seu domínio requer, você pode cobrir seu corpo para "vestir" seu domínio afim de neutralizar técnicas amaldiçoadas por 5 turnos. Uma vez ativado, você nega automaticamente qualquer técnica defensiva, técnica ofensiva ou encantamento que o afete e pode ignorar barreiras como a do [[V2/Técnicas Inatas/Ilimitado|Ilimitado]]. Você também negará o efeito de acerto garantido de um domínio se estiver dentro dele. 
+Você aprendeu como utilizar o poder de um domínio sem usá-lo ativamente. Por 2 pontos de Ação e metade da Energia Amaldiçoada que seu domínio requer, você pode cobrir seu corpo para "vestir" seu domínio afim de neutralizar técnicas amaldiçoadas por 5 turnos. Uma vez ativado, você nega automaticamente qualquer técnica defensiva, técnica ofensiva ou encantamento que o afete e pode ignorar barreiras como a do [[Feitiços/Ilimitado|Ilimitado]]. Você também negará o efeito de acerto garantido de um domínio se estiver dentro dele. 
 Entretanto, você não pode usar sua Técnica Inata a menos que dispense Amplificação de Domínio por 1 ponto de Ação. Mesmo se a dispensar, você pode reativá-la por 1 ponto de Ação por 5 turnos sem gastar a energia amaldiçoada novamente. Esta técnica não funciona contra Liberação Máxima de Técnica, Técnica com Entoamento e Técnica Maximum, o garantindo apenas resistência ao invés de imunidade.
 ## Nível 11 - Domínio Refinado
 Pré-requisitos: Expansão de Domínio; 400 pontos de Refinamento.

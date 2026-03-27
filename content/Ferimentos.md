@@ -1,5 +1,5 @@
 O mundo dos Feiticeiros é cruel, e muitas vezes as batalhas trazem consequências físicas temporárias e até mesmo permanentes. 
-O sistema de dano a membros corporais pode ser usado por algumas Técnicas Inatas ou a critério do Mestre, em momentos narrativamente importantes. Ao escolher um membro em específico, considere a seguinte tabela para a penalidade no valor de acerto do ataque:
+O sistema de ferimentos profundos pode ser usado por alguns feitiços ou a critério do Mestre, em momentos narrativamente importantes. Ao escolher um membro em específico, considere a seguinte tabela para a penalidade no valor de acerto do ataque:
 
 | Parte do Corpo | Penalidade | HP               |
 | -------------- | ---------- | ---------------- |

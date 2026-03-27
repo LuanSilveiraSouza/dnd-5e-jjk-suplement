@@ -12,7 +12,7 @@ Os naipes definem como o dano será aplicado bem como possíveis efeitos caso ex
 | ------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ♠️ **Espada** | **Dano** cortante               | Soma 2 dados de dano extras.                                                                                                                                       |
 | ♣️ **Paus**   | **Dano** de energia amaldiçoada | Empurra em 3m para um lado à escolha do jogador.                                                                                                                   |
-| ♦️ **Ouro**   | **Dano** de fogo                | Salvaguarda de Constituição, com sucesso resultando em 1 turno [[V1/Recursos do D&D 5e/Condições#Queimado\|Queimado]] e falha aumentando para turnos igual ao seu bônus de proficiência. |
+| ♦️ **Ouro**   | **Dano** de fogo                | Salvaguarda de Constituição, com sucesso resultando em 1 turno [[v1/Recursos do D&D 5e/Condições#Queimado\|Queimado]] e falha aumentando para turnos igual ao seu bônus de proficiência. |
 | ♥️ **Copas**  | **Dano** necrótico              | Drena 1 ponto de energia amaldiçoada do alvo por 2 turnos.                                                                                                         |
 ## Combos 
 Os combos do coringa são feitos de acordo com os combos do **Poker (Texas Hold'em)**, os combos estão ranqueados em ordem de maior pontuação seguindo as regras da variante citada anteriormente. Os danos progridem conforme os níveis de feiticeiro. 

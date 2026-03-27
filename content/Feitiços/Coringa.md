@@ -29,7 +29,7 @@ Ao ativar qualquer combo em um alvo, você pode adicionar 2 pontos de EA e ativa
 | ------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ♠️ **Espada** | **Dano** cortante   | +1 dado de dano do combo.                                                                                                                                      |
 | ♣️ **Paus**   | **Dano** energético | Empurra em 2 unidades para um lado à escolha do jogador.                                                                                                       |
-| ♦️ **Ouro**   | **Dano** de fogo    | Teste de Resistência de Corpo, com sucesso resultando em 1 turno [[V2/Condições#Queimado\|Queimado]] e a falha aumentando para turnos igual ao seu mod de Ego. |
+| ♦️ **Ouro**   | **Dano** de fogo    | Teste de Resistência de Corpo, com sucesso resultando em 1 turno [[Condições#Queimado\|Queimado]] e a falha aumentando para turnos igual ao seu mod de Ego. |
 | ♥️ **Copas**  | **Dano** necrótico  | Drena 1 ponto de energia amaldiçoada do alvo por 2 turnos.                                                                                                     |
 
 # Nível 5 - Técnica Avançada

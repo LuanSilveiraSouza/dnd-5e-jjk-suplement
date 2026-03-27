@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "pt-BR",
     baseUrl: "LuanSilveiraSouza.github.io/dnd-5e-jjk-suplement",
-    ignorePatterns: ["private", "templates", "statblocks", ".obsidian"],
+    ignorePatterns: ["private", "templates", "statblocks", "v1", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

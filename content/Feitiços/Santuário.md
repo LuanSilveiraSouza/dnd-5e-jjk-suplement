@@ -41,7 +41,7 @@ Além disso, você ganha dois braços extras logo abaixo dos originais, bem como
 - Pode realizar uma ação bônus adicional em seus turnos.
 - Pode agarrar ou empurrar uma criatura como ação bônus.
 - Pode realizar um ataque adicional ao usar a Ação de Ataque.
-- Você recebe o talento [[V1/Mecânicas/Talentos/Energia Amaldiçoada#Liberação Máxima de Técnica|Liberação Máxima de Técnica]]. Uma vez por turno, pode usar a Liberação Máxima em uma de suas Técnicas Amaldiçoadas sem precisar gastar ações adicionais.
+- Você recebe o talento [[v1/Mecânicas/Talentos/Energia Amaldiçoada#Liberação Máxima de Técnica|Liberação Máxima de Técnica]]. Uma vez por turno, pode usar a Liberação Máxima em uma de suas Técnicas Amaldiçoadas sem precisar gastar ações adicionais.
 # Nível 13
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Nível 18
