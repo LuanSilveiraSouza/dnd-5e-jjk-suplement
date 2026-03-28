@@ -39,6 +39,8 @@ Você pode incluir malefícios para compensar as vantagens que sua técnica poss
 - Você não pode usar ações de movimento no turno;
 **Malefício Alto**
 -  A técnica requer selos de uma mão para ser conjurada, logo você não pode conjurar caso não tenha ambas mãos livres;
+- Você não pode usar ações de movimento no turno e reações até o início de seu próximo turno;
+- Você gasta 1 turno conjurando o feitiço, para liberá-lo no turno seguinte;
 - Ataques contra você são feitos com vantagem até o início do seu próximo turno;
 - Você adquire uma condição ou sofre dano caso falhe no acerto da técnica;
 # Dano de Feitiço por Nível

@@ -9,7 +9,7 @@ Todo jogador pode preencher seu Medidor de Frustração por meio de rolagens de 
 Você pode usar seus Pontos de Emoção para desbloquear novas opções de combate ou potencializar certas habilidades. Ao fim do combate, todos tem seu Medido de Emoção zerado.
 ## Ação Extra
 _2 Pontos de Frustração_
-Você pode realizar duas ações de ataque ao invés de uma no seu turno atual. Caso você erre o segundo ataque, seus pontos não são consumidos.
+Você pode realizar duas ações ao invés de uma no seu turno atual. Caso você opte por uma segunda ação de ataque erre o segundo ataque, seus pontos não são consumidos.
 ## Potência Máxima
 _3 Pontos de Frustração_
 Seu próximo ataque bem sucedido causa o dano máximo possível.

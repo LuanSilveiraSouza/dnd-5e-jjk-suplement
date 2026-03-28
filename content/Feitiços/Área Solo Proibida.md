@@ -1,9 +1,9 @@
 
 Sua Técnica Inata permite conjurar áreas que provê benefícios ofensivos para seus aliados.
 # Nível 1 - Zona Proibida
-Por meio de cânticos e danças, você extrai o potencial máximo daqueles ao seu redor. Como uma ação completa (Ação + Ação Bônus + Movimento) por 1 ponto de EA, você cria uma esfera de 3 unidades de raio que dura até o início de seu próximo turno. Todos os aliados dentro da esfera recebem vantagem em todas as suas jogadas, mas qualquer ataque contra você também recebe vantagem. 
+Por meio de cânticos e danças, você extrai o potencial máximo daqueles ao seu redor. Como uma ação completa (Ação + Movimento) por 1 Ponto de Energia, você cria uma esfera de 3 unidades de raio que dura até o início de seu próximo turno. Todos os aliados dentro da esfera recebem vantagem em todas as suas jogadas, mas qualquer ataque contra você também recebe vantagem. 
 # Nível 3 - Foco Proibido
-Você passa a ter maior controle sobre sua Zona, podendo focá-la em uma única criatura. Por 3 EA, escolha uma criatura a até 5 unidades de você; ela ficará sob os efeitos da sua Zona por até 5 turnos.
+Você passa a ter maior controle sobre sua Zona, podendo focá-la em uma única criatura. Por 3 Pontos de Energia, escolha uma criatura a até 5 unidades de você; ela ficará sob os efeitos da sua Zona por até 5 turnos.
 Você pode encerrar o efeito como uma ação bônus ou ele termina caso você perca a concentração ao sofrer dano.
 # Nível 5 - Arena
 Você pode ampliar a área da Zona Proibida para 5 unidades de raio por +2 pontos de EA.

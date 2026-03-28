@@ -13,7 +13,7 @@
 
 # Armas
 Sua origem concede proficiência em certas armas, refletindo tanto sua criação quanto as ferramentas que você provavelmente usará com mais frequência. Seja uma espada longa ou uma pistola, sua arma e sua habilidade em empunhá-la com eficácia podem significar a diferença entre a vida e a morte ao enfrentar maldições.
-A tabela de Armas mostra os tipos de armas, seu preço, peso, o dano que causam ao atingir o alvo e quaisquer propriedades especiais que possuam. Cada arma é classificada como corpo a corpo ou a distância. Uma arma corpo a corpo é usada para atacar um alvo a até 1 unidade de você, enquanto uma arma a distância é usada para atacar um alvo a uma certa distância.
+A tabela de Armas mostra os tipos de armas, seu preço, peso, o dano que causam ao atingir o alvo e quaisquer propriedades especiais que possuam. Cada arma é classificada como corpo a corpo ou a distância. Uma arma corpo a corpo é usada para atacar um alvo a até 1 unidade de você, enquanto uma arma a distância é usada para atacar um alvo a 2 unidades ou mais, possuindo desvantagem em alvos em 1 unidade de distância de você.
 ## Proficiência em Armas
 Sua origem e talentos lhe concedem a capacidade de obter proficiência em certos tipos de armas. 
 As proficiências são divididas em **Armas Improvisadas**, **Armas de Uma Mão**, **Armas de Duas Mãos**, **Arcos** e **Armas de Fogo**.
@@ -40,29 +40,29 @@ Manoplas seguem o formato das mãos como luvas. Quaisquer características que e
 
 ## Armas Brancas
 
-| Arma                     | Custo  | Dano | Tipo de Dano | Propriedades                                   |
-| ------------------------ | ------ | ---- | ------------ | ---------------------------------------------- |
-| **Armas de Uma Mão**     |        |      |              |                                                |
-| Adaga                    | $200   | 1d4  | Perfurante   | Leve, Arremesso (Alcance 4)                    |
-| Machadinha               | $500   | 1d4  | Cortante     | Leve, Arremesso (Alcance 4)                    |
-| Martelo Leve             | $200   | 1d4  | Contundente  | Leve, Arremesso (Alcance 4)                    |
-| Manopla                  | $100   | 1d4  | Contundente  | Leve, Especial                                 |
-| Porrete                  | $500   | 1d6  | Contundente  | -                                              |
-| Espada Curta             | $1,000 | 1d6  | Cortante     | -                                              |
-| Lança Curta              | $500   | 1d6  | Perfurante   | Arremesso (Alcance 6)                          |
-| Chicote                  | $2,000 | 1d6  | Cortante     | Extensão, Especial                             |
-| **Armas de Duas Mãos**   |        |      |              |                                                |
-| Cajado                   | $100   | 1d6  | Contundente  | Versátil (1d8)                                 |
-| Lança                    | $1,000 | 1d6  | Perfurante   | Arremesso (Alcance 10), Extensão, Versátil(d8) |
-| Espada Longa             | $2,000 | 1d8  | Cortante     | Versátil(1d10)                                 |
-| Rapieira                 | $1,500 | 1d8  | Perfurante   | -                                              |
-| Glaive                   | $2,000 | 1d8  | Cortante     | Extensão, Duas mãos                            |
-| Alabarda                 | $2,000 | 1d8  | Perfurante   | Extensão, Duas mãos                            |
-| Martelo Grande           | $2,000 | 1d8  | Contundente  | Extensão, Duas mãos                            |
-| Malho                    | $1,000 | 1d10 | Contundente  | Duas mãos                                      |
-| Machado Grande           | $3,000 | 1d10 | Cortante     | Duas mãos                                      |
-| Espada Grande            | $5,000 | 2d4  | Cortante     | Duas mãos                                      |
-| Lança Pesada             | $3,000 | 2d4  | Perfurante   | Duas mãos                                      |
+| Arma                   | Custo  | Dano | Tipo de Dano | Propriedades                                    |
+| ---------------------- | ------ | ---- | ------------ | ----------------------------------------------- |
+| **Armas de Uma Mão**   |        |      |              |                                                 |
+| Adaga                  | $200   | 1d4  | Perfurante   | Leve, Arremesso (Alcance 4)                     |
+| Machadinha             | $500   | 1d4  | Cortante     | Leve, Arremesso (Alcance 4)                     |
+| Martelo Leve           | $200   | 1d4  | Contundente  | Leve, Arremesso (Alcance 4)                     |
+| Manopla                | $100   | 1d4  | Contundente  | Leve, Especial                                  |
+| Porrete                | $500   | 1d6  | Contundente  | -                                               |
+| Espada Curta           | $1,000 | 1d6  | Cortante     | -                                               |
+| Lança Curta            | $500   | 1d6  | Perfurante   | Arremesso (Alcance 6)                           |
+| Chicote                | $2,000 | 1d6  | Cortante     | Extensão, Especial                              |
+| **Armas de Duas Mãos** |        |      |              |                                                 |
+| Cajado                 | $100   | 1d6  | Contundente  | Versátil (1d8)                                  |
+| Lança                  | $1,000 | 1d6  | Perfurante   | Arremesso (Alcance 10), Extensão, Versátil(1d8) |
+| Espada Longa           | $2,000 | 1d8  | Cortante     | Versátil(1d10)                                  |
+| Rapieira               | $1,500 | 1d8  | Perfurante   | -                                               |
+| Glaive                 | $2,000 | 1d8  | Cortante     | Extensão, Duas mãos                             |
+| Alabarda               | $2,000 | 1d8  | Perfurante   | Extensão, Duas mãos                             |
+| Martelo Grande         | $2,000 | 1d8  | Contundente  | Extensão, Duas mãos                             |
+| Malho                  | $1,000 | 1d10 | Contundente  | Duas mãos                                       |
+| Machado Grande         | $3,000 | 1d10 | Cortante     | Duas mãos                                       |
+| Espada Grande          | $5,000 | 2d4  | Cortante     | Duas mãos                                       |
+| Lança Pesada           | $3,000 | 2d4  | Perfurante   | Duas mãos                                       |
 
 ## Armas à Distância
 

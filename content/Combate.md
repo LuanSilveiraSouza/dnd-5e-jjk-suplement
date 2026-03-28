@@ -19,10 +19,10 @@ Escolha a quantia de alvos com a distância definida por sua arma e faça uma ro
 Escolha 1 alvo a até 1 unidade de você para fazer um duelo de teste de Corpo/Agilidade e realizar algum movimento ofensivo no sucesso, como aplicar a condição de [[Condições#Agarrado|Agarrado]] ou [[Condições#Caído|Caído]], empurrá-lo 1 unidade para trás, etc.
 ### Técnica Amaldiçoada
 Use uma habilidade de sua Técnica Inata (se tiver) ou uma Técnica provinda de Talentos ao qual é capaz de fazer. Os pontos de Ação irão depender da técnica escolhida.
-## Ação Grátis
+## Ações Secundárias
 Você pode realizar todas as opções abaixo um vez por turno:
 ### Teste de Perícia
-Você pode usar esta ação apenas uma vez por turno. Você pode fazer qualquer teste envolvendo perícias, como Esconder-se (**Furtividade**), analisar inimigo (**Raciocínio**), **Intimidação**, etc.
+Você pode usar esta ação apenas uma vez por turno. Você pode fazer qualquer teste envolvendo perícias, como esconder-se (**Furtividade**), analisar inimigo (**Raciocínio**), **Intimidação**, etc.
 ### Usar Item
 Você pode usar esta ação apenas uma vez por turno. Use um item consumível ou troque de arma.
 ### Interagir com Objeto
@@ -37,8 +37,7 @@ Caso um inimigo inicie um ataque a você, antes dele realizar a rolagem de acert
 ### Trocar Golpe
 Caso um inimigo acerte um ataque corpo a corpo a você, você pode revidar com um **Ataque Desarmado** ou **Ataque com Arma** de volta.
 # Furtividade
-Todos podem utilizar-se de táticas para se esconder e surpreender os inimigos. Para fazer isso, usa-se a perícia de Furtividade, enquanto a perícia de Percepção é utilizada para detectar inimigos com a condição Oculto. Ao esconder-se, você oculta tanto sua forma física, ao qual leva em consideração a visão e audição, quanto sua Energia Amaldiçoada. O talento [[Talentos/Energia Amaldiçoada#Nível 1 - Rastreador de Energia Amaldiçoada|Rastreador de Energia Amaldiçoada]] auxilia na detecção de Energia Amaldiçoada, enquanto o talento [[Talentos/Energia Amaldiçoada#Nível 3 - Ocultador de Energia Amaldiçoada|Ocultador de Energia Amaldiçoada]] previne a detecção de sua Energia Amaldiçoada.
-Caso uma criatura esteja oculta e ataque outra, o combate se inicia com a condição de [[Condições#Surpreso|Surpreso]], onde o lado não oculto faz a rolagem de iniciativa com uma penalidade de -5.
+Todos podem utilizar-se de táticas para se esconder e surpreender os inimigos. Para fazer isso, usa-se a perícia de Furtividade, enquanto a perícia de Percepção é utilizada para detectar inimigos com a condição [[Condições#Oculto|Oculto]]. Ao esconder-se, você oculta tanto sua forma física, ao qual leva em consideração a visão e audição, quanto sua Energia Amaldiçoada. O talento [[Talentos/Energia Amaldiçoada#Nível 1 - Rastreador de Energia Amaldiçoada|Rastreador de Energia Amaldiçoada]] auxilia na detecção de Energia Amaldiçoada, enquanto o talento [[Talentos/Energia Amaldiçoada#Nível 3 - Ocultador de Energia Amaldiçoada|Ocultador de Energia Amaldiçoada]] previne a detecção de sua Energia Amaldiçoada.
 # Cobertura
 O ambiente pode servir a seu favor de várias formas. Uma delas é como cobertura, provendo benefícios de acordo com o grau de cobertura:
 - **Meia Cobertura**: +2 de AC e vantagem em testes de Agilidade;

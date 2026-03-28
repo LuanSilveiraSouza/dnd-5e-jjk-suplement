@@ -3,19 +3,19 @@ Sua Técnica se baseia em uma Expansão de Domínio que lhe permite fazer uma s�
 Você recebe três tipos de ataques de Pachinko. Cada ataque aumenta sua **Expectativa** em certo valor, com um máximo de 19.
 
 **Esferas Verdes**  
-Ação bônus, 1 Energia Amaldiçoada.  
+1 Ponto de Energia.  
 Ataque à distância (5 unidades).  
 Acerto: **1d4 de dano contundente**.  
 +1 Espectativa.
 
 **Estaca Vermelha**  
-Ação, 2 Energias Amaldiçoadas.  
+2 Pontos de Energia.  
 Ataque corpo a corpo.  
 Acerto: **1d8 de dano contundente**.  
 +3 Espectativa.
 
 **Porta Dourada**
-Ação, 3 Energias Amaldiçoadas.  
+3 Pontos de Energia.  
 Ataque corpo a corpo ou à distância (5 unidades).  
 Acerto: **1d6 de dano contundente**.  
 O alvo deve realizar teste de Corpo ou fica **Restrito**.  
@@ -23,7 +23,7 @@ O alvo deve realizar teste de Corpo ou fica **Restrito**.
 # Nível 3 - Expansão de Domínio: Aposta da Morte Ociosa
 Você obtém acesso à sua Expansão de Domínio.
 Uma vez por descanso, como ação, você e quaisquer criaturas à sua escolha em um raio de 20 unidades são levados a um semiplano que se assemelha a uma estação de metrô, enquanto uma música começa a tocar.
-Este domínio dura 10 turnos e não pode ser reagido, a menos que o usuário oponente possua um domínio com pelo menos **400 pontos de refinamento** e tenha refinamento superior ao seu.
+Este domínio dura 10 turnos e não pode ser reagido, a menos que o usuário oponente tenha um refinamento de domínio superior ao seu.
 
 Você pode consumir a Expectativa gerada por Ataques de Pachinko realizados dentro do domínio usando sua ação bônus para uma rolagem de **1d20 + bônus de Expectativa**. Isto inicia um evento de acordo com o valor do teste:
 ### Eventos Possíveis
@@ -58,7 +58,7 @@ Se os três resultados forem iguais, você ganha o **Jackpot**.
 - Você recebe os efeitos de **Técnica Amaldiçoada Reversa** como se tivesse gasto Energia Amaldiçoada igual ao seu modificador de Ego.
 - Não pode ser reduzido abaixo de 1 PV e cura todos os ferimentos. A exceção é caso o dano de um ataque ultrapasse seu HP total.
 - Recupera um uso gratuito de Aposta da Morte Ociosa.
-Após gastar todos os usos, você pode conjurar o domínio novamente gastando **20 Energias Amaldiçoadas**.
+Após gastar todos os usos, você pode conjurar o domínio novamente gastando **18 Pontos Energia**.
 # Nível 5 - Em Jogo
 Seus Ataques de Pachinko geram +1 de Expectativa cada.
 # Nível 7 - A Febre
@@ -78,7 +78,7 @@ Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 ## Grande Sorte
 O alcance das tabelas de **Eventos Possíveis** e **Multiplicadores** é reduzido em -1.
 ## Maximum: Trem do Amor
-Como ação, ao custo de 10 Energias Amaldiçoadas, você invoca um trem.
+Como ação, ao custo de 10 Pontos de Energia, você invoca um trem.
 Forma uma linha de 20 unidades de comprimento e 4 unidades de largura.
 Alvos devem realizar teste de Agilidade:
 - Falha: são lançados 20 unidades na direção oposta e sofrem **8d6 de dano contundente**.

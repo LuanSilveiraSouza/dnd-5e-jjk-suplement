@@ -24,11 +24,13 @@ Para determinar os atributos iniciais de seu personagem, role **6x 3d6**. Use as
 # Pontos de Vida (HP)
 Representa sua saúde, constituição, e o quantidade de golpes que consegue aguentar. No nível 1 todos possuem **12 + 1d6** em pontos de vida. Sempre que subir de nível, adicione **1d6** ao total.
 # Deslocamento
-Representa a quantidade de unidades de distância que você consegue se mover com 1 ação de movimento. Inicialmente todos possuem deslocamento de 4 unidades.
+Representa a quantidade de unidades de distância que você consegue se mover com 1 ação de movimento. Inicialmente todos possuem deslocamento de 5 unidades.
+# Classe de Armadura (CA)
+Determina a dificuldade de acertar ataques em você. Pode ser uma armadura natural ou algum equipamento amaldiçoado. O valor base (sem armadura) é **10 + Mod Corpo/Agilidade**.
 # Energia Amaldiçoada (EA)
 Representa o "tanque" de energia amaldiçoada do indivíduo. As ações que usam energia amaldiçoada subtraem do total. Este atributo é definido por **Nível x 2 + Mod Alma (caso o Mod Alma seja negativo não subtraia)**. 
-# Classe de Armadura (CA)
-Determina a dificuldade de acertar ataques em você. Pode ser uma armadura natural ou algum equipamento amaldiçoado. O valor base (sem armadura) é 10 + Modificador de Corpo ou Agilidade.
+# Classe de Dificuldade (CD)
+Usado em habilidades de Feitiços. Determina o valor ao qual o alvo precisa passar em algum teste forçado por uma habilidade de seu Feitiço. Este atributo é definido por **10 + Mod Ego**.
 
 ---
 # Perícias
@@ -39,7 +41,6 @@ A lista abaixo abrange todas as perícias e os atributos mais comumente atribuí
 
 - **Atletismo**: Corpo, Agilidade
 - **Acrobacia**: Corpo, Agilidade
-- **Resistência**: Corpo, Mente, Alma
 - **Conhecimento**: Mente, Alma
 - **Furtividade**: Agilidade, Alma
 - **Gatunagem**: Agilidade
@@ -52,3 +53,10 @@ A lista abaixo abrange todas as perícias e os atributos mais comumente atribuí
 - **Enganação**: Alma, Ego
 - **Intimidação**: Corpo, Agilidade, Mente, Alma, Ego
 - **Persuasão**: Mente, Ego
+# Testes de Resistência
+É possível forçar alvos a fazerem testes com suas perícias, afim de ativar algum efeito no caso de falha. Além disso, todos os personagens podem ser forçados a fazerem um teste de resistência, ao qual utiliza um dos atributos principais para definir se o personagem aguenta a carga relacionada ao atributo. Assim como perícias, é possível adquirir proficiência em testes de resistência, adicionando +5 na rolagem além do seu modificador de atributo.
+- Teste de Resistência de Corpo: Envenenamento, prender a respiração, colidir com uma parede.
+- Teste de Resistência de Agilidade: Esquivar de um ataque em área, cair de grandes alturas.
+- Teste de Resistência de Mente: Suportar uma carga imensa de informações, resistir a danos psíquicos.
+- Teste de Resistência de Alma: Negar efeitos de alteração corporal, suprimir a energia amaldiçoada.
+- Teste de Resistência de Ego: Usar feitiços com força total, evitar ser amedrontado/encantado.
