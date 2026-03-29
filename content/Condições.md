@@ -22,7 +22,7 @@ Diversas habilidades físicas e envolvendo Energia Amaldiçoada possuem a capaci
 ## Agarrado
 - Você e a criatura que te agarrou movem-se juntos. Caso você se movimente ambos se movem juntos, a até metade de seu deslocamento. Caso a criatura se movimente ambos se movem o deslocamento total da criatura;
 - A criatura tem vantagem em ataques corpo a corpo contra você;
-- Você perde a condição caso se mova para fora do alcance da criatura que o agarrou ou caso a criatura adquira as condições de Caído, Restringido, Paralizado, Atordoado, ou receba um nível de Exaustão.
+- Você perde a condição caso se mova para fora do alcance da criatura que o agarrou ou caso a criatura adquira as condições de Caído, Restringido, Paralisado, Atordoado, ou receba um nível de Exaustão.
 ## Restringido
 - Você não pode se mover;
 - Você tem desvantagem em testes de Agilidade.
@@ -30,7 +30,7 @@ Diversas habilidades físicas e envolvendo Energia Amaldiçoada possuem a capaci
 - Você não pode usar reações;
 - Você tem desvantagem em testes de Percepção, Raciocínio e Investigação;
 - Você tem desvantagem em testes de Corpo.
-## Paralizado
+## Paralisado
 - Seu CA é reduzido em -1;
 - Você tem desvantagem em testes de Agilidade.
 ## Queimado

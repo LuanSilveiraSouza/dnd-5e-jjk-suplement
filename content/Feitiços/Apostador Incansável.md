@@ -1,4 +1,4 @@
-Sua Técnica se baseia em uma Expansão de Domínio que lhe permite fazer uma série de apostas e receber Energia Amaldiçoada Infinita temporariamente, também manipulando a Sorte ao seu favor para ter mais chances de atingir Jackpots.
+Seu Feitiço baseia-se em uma Expansão de Domínio que lhe permite fazer uma série de apostas e receber Energia Amaldiçoada Infinita temporariamente, também manipulando a Sorte ao seu favor para ter mais chances de atingir Jackpots.
 # Nível 1 - Manifestação de Pachinko
 Você recebe três tipos de ataques de Pachinko. Cada ataque aumenta sua **Expectativa** em certo valor, com um máximo de 19.
 

@@ -3,9 +3,9 @@ Sua técnica inata gira em torno de jogar múltiplas cartas por turno em seus op
 
 # Nível 1 - Cartas Amaldiçoadas
 
-Devido à sua origem você começa com 1 baralho com 52 cartas e dois coringas. Como uma ação, por 3 Energia Amaldiçoada, você pode jogar 2 cartas com sua energia amaldiçoada. Faça duas jogadas de ataque à distância com energia amaldiçoada, com alcance de 5 unidades. Em caso de acerto, cada carta causa 1d4 de dano perfurante e se prende ao oponente, ao qual servirá para ativar algum dos combos de carta. As cartas ficam presas ao oponente por 4 turnos, e esse contador é reiniciado caso uma nova carta seja presa ao alvo. Cada alvo pode ter um máximo de 5 cartas presas em si.
+Devido à sua origem você começa com 1 baralho com 52 cartas e dois coringas. Como uma ação, por 3 Pontos de Energia, você pode jogar 2 cartas com sua energia amaldiçoada. Faça duas jogadas de ataque à distância com energia amaldiçoada, com alcance de 5 unidades. Em caso de acerto, cada carta causa 1d4 de dano perfurante e se prende ao oponente, ao qual servirá para ativar algum dos combos de carta. As cartas ficam presas ao oponente por 4 turnos, e esse contador é reiniciado caso uma nova carta seja presa ao alvo. Cada alvo pode ter um máximo de 5 cartas presas em si.
 
-Sempre que rolar iniciativa, embaralhe seu baralho e compre 5 cartas. Você pode comprar mais duas cartas como uma ação bônus, com um máximo de 7 cartas na mão ao final da sua rodada, descartando qualquer carta extra a sua escolha.
+No início de todo combate, embaralhe seu baralho e compre 5 cartas. Você pode comprar mais duas cartas como uma reação, com um máximo de 7 cartas na mão ao final da sua rodada, descartando qualquer carta extra a sua escolha.
 ## Combos 
 Os combos do coringa são feitos de acordo com os combos do **Poker (Texas Hold'em)**, e estão ranqueados em ordem de maior pontuação seguindo as regras citadas anteriormente. Como ação grátis, você pode ativar o combo mais alto atual de acordo com as cartas presas em um alvo, e o dano progride conforme os níveis de feiticeiro descritos abaixo:
 
@@ -23,7 +23,7 @@ Os combos do coringa são feitos de acordo com os combos do **Poker (Texas Hold'
 | 10      | High Card (Carta Alta)   | A♠️ J♦️ 9♣️ 5♥️ 2♦️ — nenhuma combinação formada               | 1              | 1d4            | 1d6            | 1d8            | 2d4            | 1d10            |
 # Nível 3 - Naipes
 
-Ao ativar qualquer combo em um alvo, você pode adicionar 2 pontos de EA e ativar um efeito extra de acordo com o naipe presente no combo. Caso haja 2 ou mais naipes, escolha 1 deles.
+Ao ativar qualquer combo em um alvo, você pode adicionar 2 Pontos de Energia e ativar um efeito extra de acordo com o naipe presente no combo. Caso haja 2 ou mais naipes, escolha 1 deles.
 
 | Naipe         | Dano                | Efeito                                                                                                                                                         |
 | ------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

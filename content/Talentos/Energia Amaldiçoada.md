@@ -1,38 +1,58 @@
-
-
 ```mermaid
-mindmap
-((*))
-	(Rastreador de Energia Amaldiçoada)
-		(Abençoado pelo Fulgor Negro)
-			[Postura das Faíscas]
-				))Escolhido pelas Faíscas((
-		(Ocultador de Energia Amaldiçoada)
-			{{Eficiência Energética}}
-				))Um em Um Bilhão((
-	(Impacto Amaldiçoado)
-		(Armadura Amaldiçoada)
-			[Armadura Potente]
-		[Impacto Potente]
-		[Barragem de Golpes]
-	(Infusão de Objetos)
-		(Projétil Infundido)
-		(Sobrecarga)
-			[Corte Amaldiçoado]
-	(Energia Amaldiçoada Elemental)
-		[Elemento Masterizado]
-			))Instinto da Alma((
-	(Liberação Aprimorada)
-		[Liberação Máxima de Técnica]
-		[Entoamento]
-			{{Entoamento Complexo}}
-	(Reserva Ampliada)
-		{{Reserva Imensa}}
-			))Reserva sem Fundo((
-	(Regeneração de Energia Amaldiçoada)
-		(Conversão de Energia Vital)
-			[Regeneração Eficiente]
-				{{Recuperação Completa}}
+flowchart TD
+id90(1 Ponto de Talento)
+id91[2 Pontos de Talento]
+id92{{3 Pontos de Talento}}
+id93[/Gatilho/]
+id90 --- id91
+id91 --- id92
+id92 --- id93
+
+id1(((Energia Amaldiçoada)))
+id11(Reserva Ampliada)
+id12{{Reserva Imensa}}
+id13[/Reserva sem Fundo/]
+id21(Liberação Aprimorada)
+id22[Liberação Máxima de Técnica]
+id23[Entoamento]
+id24{{Entoamento Complexo}}
+id31(Regeneração de Energia Amaldiçoada)
+id32(Conversão de Energia Vital)
+id33[Regeneração Eficiente]
+id34{{Recuperação Completa}}
+id41(Infusão de Objetos)
+id42[Projétil Infundido]
+id43(Sobrecarga)
+id44[Corte Amaldiçoado]
+id51(Rastreador de Energia Amaldiçoada)
+id52(Ocultador de Energia Amaldiçoada)
+id53{{Eficiência Energética}}
+id54[/Um em Um Bilhão/]
+id55(Abençoado pelo Fulgor Negro)
+id56[Postura das Faíscas]
+id57[/Escolhido pelas Faíscas/]
+id1 --> id11
+id11 --> id12
+id12 --> id13
+id1 --> id21
+id21 --> id22
+id21 --> id23
+id23 --> id24
+id1 --> id31
+id31 --> id32
+id31 --> id33
+id33 --> id34
+id1 --> id41
+id41 --> id42
+id41 --> id43
+id43 --> id44
+id1 --> id51
+id51 --> id52
+id51 --> id53
+id53 --> id54
+id51 --> id55
+id55 --> id56
+id56 --> id57
 ```
 # Regeneração de Energia Amaldiçoada
 

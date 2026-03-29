@@ -1,21 +1,39 @@
-
-
 ```mermaid
-mindmap
-((*))
-	(Cortina)
-		(Cesto de Vime Oco)
-		(Cortina Complexa)
-			[Cortina Independente]
-			[Intruso de Barreiras]
-	(Domínio Simples)
-		(Saque da Espada do Crepúsculo)
-			(Adepto do Novo Estilo das Sombras)
-			[Batto: Saque Rápido]
-				[Mestre do Novo Estilo das Sombras]
-				[Véu do Luar]
-	[Emoção das Pétalas Caídas]
+flowchart TD
+id90(1 Ponto de Talento)
+id91[2 Pontos de Talento]
+id92{{3 Pontos de Talento}}
+id90 --- id91
+id91 --- id92
+
+id1(((Barreiras)))
+id2[Emoção das Pétalas Caídas]
+id11(Domínio Simples)
+id12(Saque da Espada do Crepúsculo)
+id13(Adepto do Novo Estilo das Sombras)
+id14[Batto: Saque Rápido]
+id15[Véu do Luar]
+id16{{Mestre do Novo Estilo das Sombas}}
+id21(Cortina)
+id22(Cesto de Vime Oco)
+id23[Cortina Complexa]
+id24[Intruso de Barreiras]
+id25(Cortina Independente)
+
+id1 --> id2
+id1 --> id11
+id11 --> id12
+id11 --> id13
+id12 --> id14
+id14 --> id15
+id14 --> id16
+id1 --> id21
+id21 --> id22
+id21 --> id23
+id23 --> id24
+id23 --> id25
 ```
+
 # Cortina
 Você pode gastar 3 pontos de Energia para abrir uma cortina que cobre os céus e o solo em um raio de até 500 unidades de raio por 10 minutos. Ao ativar, uma substância escura e viscosa se derrama pelos céus, e a barreira exterior toma a forma de um domo (meia esfera). O dia se torna noite e os Espíritos Amaldiçoados tendem a sair de seus esconderijos, principalmente os de grau 4 a grau 2.
 - A barreira da Cortina funciona como um isolante eletromagnético, impedindo a comunicação de celulares e outros dispositivos eletrônicos entre quem está dentro com quem está fora. 

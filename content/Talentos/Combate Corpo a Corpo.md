@@ -1,25 +1,43 @@
-
-
 ```mermaid
-mindmap
-((*))
-	(Combate Básico)
-		(Combate Aprimorado)
-			[Combate Avançado]
-				{{Mestre de Combate}}
-	(Proteção)
-		[Postura Defensiva]
-		[Aparar]
-	(Espreitador)
-		(Mobilidade)
-			[Atleta]
-			[Alerta]
-	(Brigão)
-		(Agarrador)
-			[Investida]
-			[Atacante Selvagem]
-```
+flowchart TD
+id90(1 Ponto de Talento)
+id91[2 Pontos de Talento]
+id92{{3 Pontos de Talento}}
+id90 --- id91
+id91 --- id92
 
+id1(((Combate Corpo a Corpo)))
+id11(Combate Básico)
+id12[Combate Aprimorado]
+id13[Combate Avançado]
+id14{{Mestre de Combate}}
+id21(Proteção)
+id22[Aparar]
+id23[Postura Defensiva]
+id31(Espreitador)
+id32[Mobilidade]
+id33(Atleta)
+id34(Alerta)
+id41(Brigão)
+id42(Agarrador)
+id43[Atacante Selvagem]
+id44[Investida]
+id1 --> id11
+id11 --> id12
+id12 --> id13
+id13 --> id14
+id1 --> id21
+id21 --> id22
+id21 --> id23
+id1 --> id31
+id31 --> id32
+id32 --> id33
+id32 --> id34
+id1 --> id41
+id41 --> id42
+id42 --> id43
+id42 --> id44
+```
 # Combate Básico
 Seu dano de ataque desarmado aumenta para 1d6 de dano contundente.
 ## Combate Intermediário
@@ -36,7 +54,7 @@ Como Ação, você pode entrar em uma postura defensiva que dura até o início 
 Ao realizar a Reação de Esquiva contra um ataque corpo a corpo feito contra você, você pode adicionar +3 ao CA apenas para este ataque. Caso esteja usando uma arma de duas mãos, adicione +4.
 # Brigão
 - Você é proficiente com armas improvisadas. Ao fazer rolagens de acerto, some 1d6.
-- Quando você acerta uma criatura com um ataque desarmado ou uma arma improvisada em seu turno, você pode tentar agarrar o alvo por 1 ponto de Ação.
+- Quando você acerta uma criatura com um ataque desarmado ou uma arma improvisada em seu turno, você pode tentar agarrar o alvo com sua reação.
 ## Agarrador
 Você pode usar sua ação para tentar imobilizar uma criatura que você esteja agarrando. Para fazer isso, faça outro teste de agarrar. Se você for bem-sucedido, você e a criatura ficam impedidos de se mover até o fim da imobilização.
 ## Investida
@@ -55,5 +73,4 @@ Uma vez por turno, ao rolar o dano de um ataque corpo a corpo, você pode rolar 
 - Você pode Escalar, Nadar e Saltar usando **Movimento Simples**. Caso seja necessário um teste para completar o movimento, você faz a rolagem com vantagem.
 ## Alerta
 - Você não pode ser surpreendido enquanto estiver consciente.
-- Seu valor de iniciativa se torna **mod de Agilidade + mod de Ego**.
 - Outras criaturas não têm vantagem em jogadas de ataque contra você quando estiverem com a condição de **Oculto**.

@@ -1,18 +1,18 @@
-Sua Técnica Inata é extremamente mortal para seu oponente e perigosa a você mesmo, podendo até o levar a morte. Você compensa isso com um uso inteligente das propriedades elétricas e eletromagnéticas para causar impactos elétricos devastadores.
+Seu Feitiço é extremamente mortal para seu oponente e perigoso a você mesmo, podendo até o levar a morte. Você compensa isso com um uso inteligente das propriedades elétricas e eletromagnéticas para causar impactos elétricos devastadores.
 # Nível 1 - Energia Elétrica
-Você ainda não conhece sua técnica inata, mas já possui domínio absurdo sobre sua Energia. Uma vez por turno, quando causar dano com um ataque corpo a corpo, você pode gastar 2 pontos de EA para adicionar **1d8 de dano elétrico** ao total. 
+Você ainda não conhece seu Feitiço, mas já possui domínio absurdo sobre sua Energia. Uma vez por turno, quando causar dano com um ataque corpo a corpo, você pode gastar 2 Pontos de Energia para adicionar **1d8 de dano elétrico** ao total. 
 # Nível 3 - Corpo Relâmpago
-Sua Energia Amaldiçoada eletrifica constantemente seu corpo, tornando suas reações instantâneas. Seus olhos ganham marcas em forma de relâmpago, sinal de que sua energia está sempre se renovando.
-- Você adiciona seu Modificador de Ego às jogadas de Iniciativa.
+Sua Energia Amaldiçoada eletrifica constantemente seu corpo, tornando suas reações instantâneas. Seus olhos ganham marcas em forma de relâmpago, sinal de que sua energia está sempre se renovando. 
 - Sempre que causar dano elétrico, adicione seu Modificador de Ego no dano.
+- A reação de Trocar Golpes é feita com vantagem.
 # Nível 5 - Descarga Elétrica
 Seu controle evoluiu ao ponto de separar cargas elétricas:
 - Após atingir uma criatura com **Energia Elétrica**, você pode marcá-la com uma **carga positiva**.
 - Você pode manter um número de cargas em um alvo igual ao seu modificador de Ego. Um alvo ficará com as cargas por até 10 turnos, com a contagem zerando ao receber uma nova carga.
 - Como ação que custa 5 pontos de EA e com distância de 10 unidades, você pode liberar um raio que se direciona às cargas acumuladas, causando **1d6 de dano elétrico** por carga aplicada.
 # Nível 7 - Liberação da Besta Mítica: Âmbar
-Você finalmente desperta sua técnica inata — e seu terrível custo.
-Como ação, ao custo de **10 Energias Amaldiçoadas**, seu corpo começa a ser preenchido por energia elétrica amaldiçoada, reconstruindo sua carne para manifestar fenômenos elétricos.
+Você finalmente desperta seu feitiço — e seu terrível custo.
+Como ação, ao custo de **10 Pontos de Energia**, seu corpo começa a ser preenchido por energia elétrica amaldiçoada, reconstruindo sua carne para manifestar fenômenos elétricos.
 Essa forma só pode ser usada **uma vez por semana**, pois após seu término seu corpo colapsa.
 Você pode desativar a forma como ação bônus, mas quanto mais tempo permanecer ativo, maior o efeito colateral. Ao atingir **1 minuto (10 Turnos)**, você morre instantaneamente.
 
@@ -72,7 +72,7 @@ Seus ataques desarmados passam a causar **+1 dado de dano energético adicional*
 
 ---
 #### Descarga Estrondosa (2 Turnos)
-Como ação, por 6 Energias Amaldiçoadas, você pode realizar um ataque contra uma criatura a até 5 unidades.
+Como ação, por 6 Pontos de Energia, você pode realizar um ataque contra uma criatura a até 5 unidades.
 - Acerto: **Xd8 de dano elétrico**, onde X é o número de cargas acumuladas no alvo. O alvo realiza um teste de Resistência de Mente, e caso falhe fica **Surdo** até o fim de seu próximo turno.
 
 ---
@@ -85,7 +85,7 @@ Você ganha +10 em testes de Percepção e ganha uma reação extra.
 
 ---
 #### Feixe Amaldiçoado (8 Turnos)
-Como ação, por 8 Energias Amaldiçoadas, dispara um raio concentrado em linha de 5 unidades.
+Como ação, por 8 Pontos de Energia, dispara um raio concentrado em linha de 5 unidades.
 Criaturas na linha fazem teste de Agilidade de DC **8 + mod Ego:
 - Falha: **3d10 de dano energético** e ficam **Cegas** até o início do seu próximo turno.
 - Sucesso: metade do dano, sem cegueira.
@@ -98,7 +98,7 @@ Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Talentos
 
 ## Surto Defensivo
-Por 1 ponto de EA, como reação ao ser atingido por um ataque corpo a corpo, você pode forçar o atacante a realizar um teste de Resistência de Corpo. Falha: fica **Paralisado** até o início do próximo turno dele.
+Por 1 Ponto de Energia, como reação ao ser atingido por um ataque corpo a corpo, você pode forçar o atacante a realizar um teste de Resistência de Corpo. Falha: fica **Paralisado** até o início do próximo turno dele.
 ## Arma Imbuída
 Ao atingir com um ataque corpo a corpo com arma, ela também recebe uma carga.
 Como ação bônus, você pode liberar uma **Descarga Elétrica** entre você e a arma.

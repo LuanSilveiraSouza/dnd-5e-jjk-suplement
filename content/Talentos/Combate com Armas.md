@@ -1,24 +1,50 @@
-
 ```mermaid
-mindmap
-((*))
-	(Armas de Uma Mão)
-		[Duelista]
-		[Empunhadura Dupla]
-	(Armas de Duas Mãos)
-		[Esmagador]
-		[Armas de Haste]
-	(Armas de Fogo)
-		(Atirador de Elite)
-			[Pistoleiro]
-			[Mira Telescópica]
-	(Arqueiro)
-		(Arqueiro de Elite)
-			[Tiro Rápido]
-			[Tiro Preciso]
-			[Olhos de Água]
-	))Especialista em Arma Amaldiçoada((
-		))Mestre em Arma Amaldiçoada((
+flowchart TD
+id90(1 Ponto de Talento)
+id91[2 Pontos de Talento]
+id92{{3 Pontos de Talento}}
+id93[/Gatilho/]
+id90 --- id91
+id91 --- id92
+id92 --- id93
+
+id1(((Combate com Armas)))
+id11[/Especialista em Arma Amaldiçoada/]
+id12[/Mestre em Arma Amaldiçoada/]
+id21(Arqueiro)
+id22(Arqueiro de Elite)
+id23[Tiro Preciso]
+id24[Tiro Rápido]
+id25{{Olhos de Águia}}
+id31(Armas de Fogo)
+id32(Atirador de Elite)
+id33[Pistoleiro]
+id34[Mira Telescópica]
+id41(Armas de Uma Mão)
+id42[Duelistas]
+id43[Empunhadura Dupla]
+id51(Armas de Duas Mãos)
+id52[Esmagador]
+id53[Armas de Haste]
+
+id1 --> id11
+id11 --> id12
+id1 --> id21
+id21 --> id22
+id22 --> id23
+id22 --> id24
+id23 -->|Opcional|id25
+id24 -->|Opcional|id25
+id1 --> id31
+id31 --> id32
+id32 --> id33
+id32 --> id34
+id1 --> id41
+id41 --> id42
+id41 --> id43
+id1 --> id51
+id51 --> id52
+id51 --> id53
 ```
 # Armas de Uma Mão
 Você ganha proficiência com Armas de de Uma Mão. Ao fazer rolagens de acerto, some 1d6.

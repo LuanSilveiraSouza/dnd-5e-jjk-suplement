@@ -1,21 +1,40 @@
-
 ```mermaid
-mindmap
-(Mestre de Shikigami)
-	(Feitiço Compartilhado)
-	(Protetor)
-		[Guarda-Costas]
-	(Coordenação)
-		[Uníssono]
-			{{Vínculo Perfeito}}
-	(Ataque Aprimorado)
-		[Impacto Amaldiçoado]
-		(Forma de Arma)
-			[Arma Aprimorada]
-	(Evolução)
-		[Evolução+]
-			{{Shikigami Avançado}}
-			[Shikigamis Múltiplos]
+flowchart TD
+id90(1 Ponto de Talento)
+id91[2 Pontos de Talento]
+id92{{3 Pontos de Talento}}
+id90 --- id91
+id91 --- id92
+
+id1(Mestre de Shikigami)
+id2(Feitiço Compartilhado)
+id11(Protetor)
+id12[Guarda-Costas]
+id21(Evolução)
+id22[Evolução+]
+id23[Shikigamis Múltiplos]
+id24{{Shikigami Avançado}}
+id31(Coordenação)
+id32[Uníssono]
+id33{{Vínculo Perfeito}}
+id41(Ataque Aprimorado)
+id42[Impacto Amaldiçoado]
+id43(Forma de Arma)
+id44[Arma Aprimorada]
+id1 --> id2
+id2 --> id11
+id11 --> id12
+id1 --> id21
+id21 --> id22
+id22 --> id23
+id22 --> id24
+id1 --> id31
+id31 --> id32
+id32 --> id33
+id1 --> id41
+id41 --> id42
+id41 --> id43
+id43 --> id44
 ```
 # Mestre de Shikigami
 

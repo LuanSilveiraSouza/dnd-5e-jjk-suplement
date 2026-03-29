@@ -1,17 +1,32 @@
-
-
 ```mermaid
-mindmap
-))Energia Positiva((
-	(Cura)
-		[Cura Externa]
-		[Cura Otimizada]
-			{{Cura Masterizada}}
-	(Conversão Aprimorada)
-		[Conversão Superior]
-	(Reversão de Feitiço)
-		))Multiplicação de Feitiço((
+flowchart TD
+id90(1 Ponto de Talento)
+id91[2 Pontos de Talento]
+id92{{3 Pontos de Talento}}
+id93[/Gatilho/]
+id90 --- id91
+id91 --- id92
+id92 --- id93
+
+id1[/Energia Positiva/]
+id11(Cura)
+id12[Cura Externa]
+id13[Cura Otimizada]
+id14{{Cura Masterizada}}
+id21(Conversão Aprimorada)
+id22[Conversão Superior]
+id31(Reversão de Feitiço)
+id32[/Multiplicação de Feitiço/]
+id1 --> id11
+id11 --> id12
+id11 --> id13
+id13 --> id14
+id1 --> id21
+id21 --> id22
+id1 --> id31
+id31 --> id32
 ```
+
 # Energia Positiva
 **Pré-requisitos**: Gatilho.
 Em um momento de torpor e de risco de morte você entende o processo de transformar Energia Amaldiçoada em energia positiva ao multiplicar negativo com negativo.

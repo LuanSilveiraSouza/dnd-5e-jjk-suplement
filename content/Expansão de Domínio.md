@@ -70,34 +70,57 @@ Existem várias maneiras de aprimorar seu domínio, desde treinar consigo mesmo 
 
 # Habilidades de Refinamento
 ```mermaid
-mindmap
-((*))
-	(Amplificação de Domínio)
-	))Domínio Incompleto((
-	))Expansão de Domínio((
-		(Domínio Durável)
-			[Barreira Resistente]
-				[Barreira Durável]
-			{{Compressão}}
-		(Domínio Duradouro)
-			[Expansão Eficiente]
-				{{Masterização Total}}
-		(Expansão Rápida)
-			[Expansão Relâmpago]
-			{{Expansão de 0.2 Segundo}}
-		[Potência Aumentada]
-			[Efeito Perigoso]
-		))Domínio sem Barreira((
-		{{Recuperação de Burnout}}
+flowchart TD
+id90(1 Ponto de Talento)
+id91[2 Pontos de Talento]
+id92{{3 Pontos de Talento}}
+id93[/Gatilho/]
+id90 --- id91
+id91 --- id92
+id92 --- id93
+
+id1[/Domínio Incompleto/]
+id2[/Expansão de Domínio/]
+id3(Amplificação de Domínio)
+id4[/Domínio sem Barreira/]
+id5{{Recuperação de Burnout}}
+id11(Domínio Durável)
+id12[Barreira Resistente]
+id13[Barreira Durável]
+id14{{Compressão}}
+id21(Domínio Duradouro)
+id22[Expansão Eficiente]
+id23{{Masterização Total}}
+id31(Expansão Rápida)
+id32[Expansão Relâmpago]
+id33{{Expansão de 0.2 Segundo}}
+id41[Potência Aumentada]
+id42[Efeito Perigoso]
+id1 --> id2
+id2 --> id3
+id2 --> id4
+id2 --> id5
+id2 --> id11
+id11 --> id12
+id12 --> id13
+id11 --> id14
+id2 --> id21
+id21 --> id22
+id22 --> id23
+id2 --> id31
+id31 --> id32
+id31 --> id33
+id2 --> id41
+id41 --> id42
 ```
 
 ## Domínio Incompleto
 Através de um estudo profundo da sua técnica e muita criatividade, você alcançou um domínio incompleto. Como uma ação por 9 de energia amaldiçoada, você pode expandir seu domínio incompleto em um círculo de 10 metros ao seu redor por 5 turnos. Para isso, você deve estar cercado por objetos ou barreiras em todos os lados, a até 20 unidades de distância, já que você ainda não aprendeu a aplicar uma barreira. Como você não imbuiu um feitiço em seu domínio, ele não terá um efeito de acerto garantido; no entanto, ainda aprimorará seu feitiço, permitindo que você faça testes de ataque com energia amaldiçoada com vantagem, e as criaturas terão desvantagem ao fazer testes de resistência contra sua técnica amaldiçoada. Seu domínio terá os mesmos efeitos que seu domínio completo; contudo, quaisquer dados de dano, duração do efeito ou reduções de custo serão reduzidos à metade. Caso seu domínio reduza o custo das técnicas amaldiçoadas a 0, ele será apenas reduzido à metade.
-## Amplificação de Domínio
-Você aprendeu como utilizar o poder de um domínio sem usá-lo ativamente. Como Ação custando metade da Energia Amaldiçoada que seu domínio requer, você pode cobrir seu corpo para "vestir" seu domínio afim de neutralizar técnicas amaldiçoadas por 5 turnos. Uma vez ativado, você nega automaticamente qualquer técnica defensiva, técnica ofensiva ou encantamento que o afete e pode ignorar barreiras como a do [[Feitiços/Ilimitado|Ilimitado]]. Esta técnica não negará o efeito de acerto garantido de um domínio se estiver dentro dele, entretanto. 
-Entretanto, você não pode usar seu Feitiço a menos que dispense Amplificação de Domínio como uma reação. Mesmo se a dispensar, você pode reativá-la como uma reação por 5 turnos sem gastar a energia amaldiçoada novamente. Esta técnica não funciona contra Liberação Máxima de Técnica, Técnica com Entoamento e Técnica Maximum, o garantindo apenas resistência ao invés de imunidade.
 ## Expansão de Domínio
 Você aprende a expandir seu domínio completamente. O efeito de acerto garantido e quaisquer bônus são definidos pelo seu Feitiço.
+### Amplificação de Domínio
+Você aprendeu como utilizar o poder de um domínio sem usá-lo ativamente. Como Ação custando metade da Energia Amaldiçoada que seu domínio requer, você pode cobrir seu corpo para "vestir" seu domínio afim de neutralizar técnicas amaldiçoadas por 5 turnos. Uma vez ativado, você nega automaticamente qualquer técnica defensiva, técnica ofensiva ou encantamento que o afete e pode ignorar barreiras como a do [[Feitiços/Ilimitado|Ilimitado]]. Esta técnica não negará o efeito de acerto garantido de um domínio se estiver dentro dele, entretanto. 
+Entretanto, você não pode usar seu Feitiço a menos que dispense Amplificação de Domínio como uma reação. Mesmo se a dispensar, você pode reativá-la como uma reação por 5 turnos sem gastar a energia amaldiçoada novamente. Esta técnica não funciona contra Liberação Máxima de Técnica, Técnica com Entoamento e Técnica Maximum, o garantindo apenas resistência ao invés de imunidade.
 ### Domínio Durável
 Seu domínio se tornará mais resistente quanto mais refinado for. Seus pontos de vida de domínio aumentam em +1 para cada ponto de refinamento que você possuir.
 #### Barreira Resistente
