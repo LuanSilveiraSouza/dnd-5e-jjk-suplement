@@ -224,7 +224,7 @@ Você pode reforçar seu corpo com pontos de Energia para o próximo ataque. Com
 ## Barragem de Golpes
 
 Você pode gastar 2 pontos de Energia para realizar 1 ataque desarmado extra como parte de sua ação de ataque.
-## Impacto/ Potente
+## Impacto Potente
 Some seu **mod de Alma X 2** ao usar a habilidade **Impacto Amaldiçoado**.
 ## Armadura Potente
 Some seu **mod de Alma X 2** ao usar a habilidade **Armadura Amaldiçoado**.

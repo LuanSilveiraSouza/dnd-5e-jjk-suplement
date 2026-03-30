@@ -1,112 +1,71 @@
-**Atributo de Conjuração**: Escolha entre Carisma e Sabedoria
-**DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
-
 Você conhece um sabor que ninguém mais conhecerá: o das maldições. Exorcizá-las parece simplista para você, pois são recursos sendo desperdiçados. Em vez disso você as absorve e as controla a seu bel prazer.
-# Nível 1
-## Absorção de Espíritos Amaldiçoados
-Como ação ou reação, ao custo de 1 ponto de Energia Amaldiçoada, você pode exorcizar uma criatura do tipo Morto-Vivo com 0 pontos de vida ou uma criatura cujo ND (Nível de Desafio) seja menor que seu bônus de proficiência, desde que esteja a até 36 metros de você, transformando sua alma em um pequeno orbe negro para ser consumido.
+# Nível 1 - Absorção de Espíritos Amaldiçoados
+Como ação ou reação, ao custo de 2 Pontos de Energia, você pode toca em um Espírito Amaldiçoado com 0 pontos de vida ou cujo nível seja igual ou menor a metade de seu nível, transformando sua alma em um pequeno orbe negro para ser consumido.
 
-Após isso, você pode invocá-la como aliada para lutar por você. Você pode invocar seus Espíritos Amaldiçoados como uma ação, gastando Energia Amaldiçoada igual ao ND deles. Você pode invocar simultaneamente uma quantidade de espíritos igual ao seu modificador de Atributo de Conjuração.
+Após isso, você pode invocá-la como aliada para lutar por você. Você pode invocar seus Espíritos Amaldiçoados como uma ação, gastando Energia Amaldiçoada igual ao nível deles. Você pode invocar simultaneamente uma quantidade de espíritos igual ao seu mod de Ego.
 
-O tipo da criatura passa a ser Espírito Amaldiçoado. Eles perdem o livre-arbítrio e obedecem a todos os seus comandos. Se forem reduzidos a 0 pontos de vida, morrem instantaneamente e não podem ser revividos por nenhum meio. Eles não podem agir por conta própria.
+As criaturas perdem o livre-arbítrio e obedecem a todos os seus comandos, não podendo agir por conta própria. Se forem reduzidos a 0 pontos de vida, morrem instantaneamente e não podem ser revividos por nenhum meio.
 
-Você pode usar uma ação bônus para comandar criaturas invocadas a atacar, usar magia, sua técnica inata, e uma ação para ordenar algo mais específico, como “proteja aquela criatura”, “pegue aquilo”, “defenda essa área”, etc.
+Você pode usar uma ação para comandar criaturas invocadas a atacar, inclusive usando seu feitiço. As criaturas usam movimentação e reação livremente.
 
-Você só pode consumir orbes sem efeitos colaterais físicos se a criatura tiver ND igual ou inferior ao seu nível. Se tentar consumir um orbe de uma criatura com ND superior ao seu nível, deve realizar um teste de resistência de Constituição com CD 5 + ND da criatura.  
-Em caso de sucesso, você absorve a criatura e pode utilizá-la após um descanso curto ou longo.  
-Em caso de falha, você sofre 2 níveis de exaustão e recebe Xd12 de dano necrótico, onde X é o ND da criatura.
+Você só pode consumir orbes sem efeitos colaterais físicos se a criatura tiver um nível igual ou inferior ao seu. Se tentar consumir um orbe de uma criatura com nível superior ao seu, deve realizar um teste de resistência de Corpo com CD 5 + nível da criatura. Em caso de sucesso, você absorve a criatura e pode utilizá-la após um descanso. Em caso de falha, você sofre 2 níveis de exaustão e recebe Xd6 de dano necrótico, onde X é o nível da criatura.
 
-Você também pode absorver maldições de outros feiticeiros, desde que mate o mestre primeiro.
-
-Você pode possuir quantos Espíritos Amaldiçoados quiser. Porém, a cada 10 espíritos consumidos, deve realizar um teste de resistência de Sabedoria CD 10.
+Você pode possuir quantos Espíritos Amaldiçoados quiser. Porém, a cada 10 espíritos consumidos, deve realizar um teste de resistência de Mente de CD 10.
 - Sucesso: nenhum efeito colateral.
 - Falha por 5 ou menos: 1 nível de exaustão.
 - Falha por 5 ou mais: 2 níveis de exaustão.
 - Falha por 10 ou mais: 3 níveis de exaustão.
-# Nível 3
-## Espíritos Infundidos com Maldição
+# Nível 3 - Espíritos Infundidos
 Sua Energia Amaldiçoada fortalece seus Espíritos Amaldiçoados das seguintes formas:
-- Força, Constituição e Destreza recebem bônus igual ao seu Bônus de Proficiência.
-- Recuperam todos os pontos de vida ao final de um descanso curto.
+- Os atributos de Corpo e Agilidade recebem um bônus de +2.
+- Recuperam todos os pontos de vida ao final de um descanso.
 - Tornam-se imunes às condições Amedrontado e Enfeitiçado.
 - Você sempre sabe quando um de seus espíritos é exorcizado, independentemente da distância.
 
-Além disso, como reação ao custo de X pontos de Energia Amaldiçoada, você pode sacrificar um Espírito Amaldiçoado para reduzir o dano recebido em Xd20, onde X é o ND da criatura sacrificada.
-# Nível 7
-## Controle Perfeito
+Além disso, como reação ao custo de X Pontos de Energia, você pode sacrificar um Espírito Amaldiçoado para reduzir o dano recebido em Xd8, onde X é o nível da criatura sacrificada.
+# Nível 5 - Controle Perfeito
 Você domina completamente sua técnica, obtendo os seguintes benefícios:
-- A quantidade de espíritos necessária para exigir um teste de Sabedoria aumenta para 20.
-- O custo de invocação de seus espíritos é reduzido pelo seu Bônus de Proficiência (mínimo 1 ponto).
-- A CD para consumir espíritos com ND maior que seu nível é reduzida pelo seu Bônus de Proficiência.
-- Você pode invocar Espíritos Amaldiçoados como ação bônus.
-# Nível 10
-## Maximum: Uzumaki
+- A quantidade de espíritos necessária para exigir um teste de Mente aumenta para 20.
+- O custo de invocação de seus espíritos é reduzido pelo seu **mod de Ego** (mínimo de 1).
+- A CD para consumir espíritos com nível maior que seu nível é reduzida em -3.
+- Você pode invocar 1 Espírito Amaldiçoado como ação grátis por turno.
+# Nível 7 - Maximum: Uzumaki
 Como uma ação, você pode reunir dois ou mais de seus Espíritos Amaldiçoados em um padrão espiralado, formando uma espiral sombria para ataque.
 
-Todas as criaturas em um cone de 9 metros devem realizar um teste de resistência de Destreza.
-- Sucesso: sofre metade do dano.
-- Falha: sofre 2d12 de dano necrótico.
+Todas as criaturas na área devem realizar um teste de resistência de Agilidade, sofrendo metade do dano em caso de sucesso.
+- Dano: Xd12 de dano necrótico.
+- Área: Cone de 3 + X unidades.
+- Custo: X + 10 Pontos de Energia
+Onde X é a quantidade de Espíritos utilizados na técnica (mínimo de 2).
 
-Para cada espírito além do mínimo de dois:
-- A área aumenta em 1,5 metro.
-- O dano aumenta em +1d12.
-
-Todos os espíritos utilizados morrem.
-
-Entretanto, você pode obter as ações deles (incluindo ações lendárias) ao custo abaixo:
-
-| Tipo de Ação  | Custo em Energia Amaldiçoada |
-| ------------- | ---------------------------- |
-| Ação Bônus    | 3                            |
-| Ação          | 4                            |
-| Reação        | 5                            |
-| Ação Lendária | 10                           |
-
-# Nível 13
+Todos os espíritos utilizados morrem. Entretanto, você pode utilizar os Feitiços dos Espíritos Amaldiçoados uma única vez, pelo custo de Energia descrito na habilidade do Feitiço.
+# Nível 9
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 18
+# Nível 11
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 20
+# Nível 12
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Talentos
-# Incorporação de Espírito Amaldiçoado
-**Pré-requisitos**: Grau 1 ou Superior.
+# Incorporação
 
-Ao absorver a essência de seus Espíritos Amaldiçoados, você pode se transformar neles ao custo de Energia Amaldiçoada igual ao ND da criatura.
+Ao absorver a essência de seus Espíritos Amaldiçoados, você pode se transformar neles ao custo de Energia Amaldiçoada igual ao nível da criatura.
 
-Você pode permanecer transformado por um número de horas igual à metade do seu nível (arredondado para baixo). Pode encerrar a transformação antes com uma ação bônus. A transformação termina automaticamente se você cair inconsciente, for reduzido a 0 pontos de vida ou morrer.
+Você pode permanecer transformado por um número de horas igual à metade do seu nível (arredondado para baixo). Pode encerrar a transformação antes com uma ação grátis. A transformação termina automaticamente se você cair inconsciente, for reduzido a 0 pontos de vida ou morrer.
 
 Enquanto transformado:
-- Suas estatísticas são substituídas pelas do Espírito Amaldiçoado, mas você mantém alinhamento, personalidade e valores de Inteligência, Sabedoria e Carisma.
+- Suas estatísticas são substituídas pelas do Espírito Amaldiçoado, mas você mantém alinhamento, personalidade e valores de Mente, Alma e Ego.
 - Você assume os pontos de vida e Dados de Vida da criatura. Ao retornar, volta aos pontos anteriores. Dano excedente é transferido para sua forma original.
 - Você perde acesso às características de Manipulação de Espíritos Amaldiçoados.
 - Decide se seu equipamento cai no chão, se funde à nova forma ou é utilizado por ela (a critério do mestre quanto à viabilidade).
-# Invocação Defensiva
-**Pré-requisitos**: Grau 1 ou Superior.
-
-Sua velocidade de reação e controle aumentaram. Como reação, ao custo de 5 pontos de Energia Amaldiçoada, você pode invocar uma criatura para receber o dano de um ataque em seu lugar.
-
 # Versatilidade de Uzumaki
-**Pré-requisitos**: Grau 1 ou Superior.
-
 Após estudos aprofundados, você criou uma versão menor e mais letal do Uzumaki.
 
-Como ação bônus, você pode gastar dois Espíritos Amaldiçoados para criar um Uzumaki miniatura que cabe na sua mão. Ele é invisível para criaturas, a menos que usem uma ação bônus para realizar um teste de Percepção CD 25.
+Como ação, você pode gastar dois Espíritos Amaldiçoados para criar um Uzumaki miniatura que cabe na sua mão. Ele é invisível para criaturas, a menos que as mesmas realizem um teste de Percepção de CD 25. Você tem vantagem no ataque se o alvo não tiver detectado o Uzumaki Mínimo. 
 
-Como ação ou reação, ao custo de 5 pontos de Energia Amaldiçoada, você pode liberar a energia condensada contra uma criatura. Faça uma jogada de ataque com Energia Amaldiçoada. Em caso de acerto, causa Xd12 de dano necrótico (X é a soma dos NDs das duas maldições).
+Como ação ou reação, ao custo de 5 Pontos de Energia, você pode liberar a energia condensada contra uma criatura. Faça uma jogada de ataque com Energia Amaldiçoada. Em caso de acerto, causa Xd6 de dano necrótico (X é a soma dos níveis das duas maldições).
 
-Assim como em Máximo: Uzumaki, ignora resistência e trata imunidade como resistência.
-
-Você tem vantagem no ataque se o alvo não tiver detectado o Uzumaki Mínimo.
-
-Você também obtém todas as ações, reações, ações bônus, ações lendárias e a Técnica Inata das criaturas utilizadas.
+Diferentemente do Máximo: Uzumaki, este ataque ignora resistência e trata imunidade como resistência. Você também obtém os Feitiços das criaturas utilizadas: escolha 1 das habilidades dos Feitiços de ambas para utilizar no próximo turno. 
 # Expansão de Domínio: Profusão do Útero
-**Pré-requisitos**: Grau Especial.
-
-Você aprende a expandir seu domínio. Uma árvore de almas surge atrás de você, cercada por quatro Budas sentados nos pontos cardeais, enquanto sua barreira se abre.
-
-A área afetada conta como terreno difícil para todas as criaturas.
-
-Você pode usar qualquer um de seus Espíritos Amaldiçoados sem custo.
-
-Criaturas do tipo Morto-vivo devem realizar um teste de resistência de Carisma no início de seus turnos ou serão instantaneamente absorvidas por você.
+Você aprende a expandir seu domínio. Uma árvore de almas surge atrás de você, cercada por quatro Budas sentados nos pontos cardeais.
+A área afetada conta como terreno difícil para todas as criaturas e você pode usar qualquer um de seus Espíritos Amaldiçoados sem custo.
+Além disso, Espíritos Amaldiçoados devem realizar um teste de resistência de Mente no início de seus turnos ou serão instantaneamente absorvidos por você.

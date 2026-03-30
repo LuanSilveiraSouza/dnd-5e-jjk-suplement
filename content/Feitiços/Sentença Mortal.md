@@ -1,63 +1,51 @@
-**Atributo de Conjuração**: Escolha entre Carisma e Inteligência
-**DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
-
 Sua Técnica é Inerente ao domínio, ao qual compreende um auditório judicial. Um Shikigami especial atua como Juiz, e você troca a violência do combate por argumentos, afim de punir seu oponente por algum crime que este cometeu.
 
 ![[Sentença-Mortal.png]]
-# Nível 1
-## Martelo do Juiz
-Uma vez por descanso longo, você pode invocar gratuitamente um martelo mágico. Caso contrário, é necessário gastar 1 Energia Amaldiçoada para convocá-lo à sua mão.
+# Nível 1 - Martelo do Juiz
 
-Essa arma possui 3 formas: forma base (martelo leve), malho e martelo de haste (Alcance, 1d10).
-# Nível 3
-## Expansão de Domínio: Sentença Mortal
-Seu talento prodigioso permite expandir seu domínio. Dentro deste domínio, nenhuma ação ofensiva pode ser realizada por qualquer das partes até a audição ser completa.
+Uma vez por descanso, como ação grátis, você pode invocar gratuitamente um martelo mágico. Caso contrário, é necessário gastar 1 Ponto de Energia para convocá-lo à sua mão.
+Essa arma possui 3 formas: Martelo Leve, Malho e Martelo Grande.
+# Nível 3 - Expansão de Domínio: Sentença Mortal
+Seu talento prodigioso permite expandir seu domínio uma vez por descanso por um custo 0 de Energia. Dentro deste domínio, nenhuma ação ofensiva pode ser realizada por qualquer das partes até a audição ser completa.
 
-Você deve realizar um teste de Persuasão que determina a qualidade da evidência do crime e sua argumentação acima disso. Após isso a criatura alvo deve fazer um de Persuasão contra o valor do seu próprio, sendo inocentada em caso de sucesso. A tabela abaixo mostra a lista de punições: 
+Seu Shikigami age como um juiz. Ele escolhe aleatoriamente um crime cometido pelo alvo de seu domínio, assim como uma evidência do crime, ao qual é entregue a você na forma de um envelope lacrado.
 
-| Valor d20 | Resultado                | Descrição                                                                                                   | Punição                                                                          |
-| --------- | ------------------------ | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| 1         | Inocente                 | A pessoa é inocente, mas foi acusada de um crime hediondo facilmente refutável. Você falha automaticamente. | Nada (Confisco + Pena de Morte apenas se o réu admitir o crime por algum motivo) |
-| 2-9       | Culpado                  | A pessoa é culpada de um crime leve com evidências mínimas. Sua rolagem é normal.                           | Confisco                                                                         |
-| 10-15     | Muito Culpado            | A pessoa é culpada de um crime e você possui boas evidências. Ela faz a rolagem com desvantagem.            | Confisco                                                                         |
-| 15-19     | Severamente Culpado      | A pessoa é culpada de um crime grave e você possui evidências sólidas.                                      | Pena de Morte                                                                    |
-| 20        | Imperdoavelmente Culpado | A pessoa é culpada além de qualquer dúvida de um pecado imperdoável. Você obtém sucesso automático.         | Confisco + Pena de Morte                                                         |
+Você joga 1d20 para determinar o gravidade do crime e outro para determinar a qualidade da evidência. O alvo então realiza um teste de Persuasão contra o CD da qualidade da evidência, recebendo a punição adequada de acordo com a gravidade do crime caso não consiga se provar como inocente. Além disso, o alvo pode admitir que é culpado (mesmo em casos onde é inocente), aplicando automaticamente o efeito do crime em questão.
 
-**Confisco.** O alvo perde habilidades de Energia Amaldiçoada ou quaisquer itens mágicos que esteja portando.
+| d20   | Gravidade do Crime | Qualidade da Evidência | Punição                  |
+| ----- | ------------------ | ---------------------- | ------------------------ |
+| 1-10  | Leve               | Inconclusiva (CD 10)   | Aprisionado              |
+| 11-15 | Médio              | Refutável (CD 15)      | Confisco                 |
+| 16-19 | Pesado             | Concreta (CD 20)       | Aprisionado + Confisco   |
+| 20    | Hediondo           | Irrefutável (CD 25)    | Confisco + Pena de Morte |
+**Aprisionado**. Uma algema de luz sólida prende o alvo a você, obrigando ele a ficar a até 3 unidades de distância de você. Caso se mova para longe, o alvo é forçado a fazer um teste de atletismo. Caso falhe, ele é puxado em direção a você e fica **Caído**.
 
-**Pena de Morte.** Seu Martelo do Juiz é substituído pela Espada do Executor, que mata o acusado com um único acerto.
-# Nível 7
-## Aprimoramentos do Martelo
-Seu domínio sobre o Martelo do Juiz melhorou. Agora você pode invocá-lo novamente como ação livre e aumentar seu tamanho até Enorme, aumentando também seus dados de dano e sua área de efeito.
-# Nível 10
-## Evidência Superior
-Ao rolar para determinar a evidência, você pode rolar dois dados e escolher o resultado mais vantajoso.
+**Confisco.** O alvo fica impossibilitado de usar seu Feitiço. Caso ele tenha equipado uma arma com um Feitiço, a arma se torna o alvo em vez disso. Em último caso, se o alvo não tiver um Feitiço, ele fica impossibilitado de usar qualquer habilidade de Energia Amaldiçoada.
 
-No 18º nível, você rola três dados em vez de dois.
-# Nível 13
+**Pena de Morte.** Seu Martelo do Juiz é substituído pela Espada do Executor.
+## Espada do Executor 
+_Espada Curta (Rara)_
+Você adiciona +1 nas rolagens de acerto e de dano, e a arma causa 1d8 de dano radiante adicional. Além disso, caso o alvo tenha um valor em pontos de vida igual ou menor que **6 X mod Ego**, ele é instantaneamente morto.
+
+Os efeitos da punição são aplicados por 10 turnos. Em qualquer momento, o alvo pode pedir por um rejulgamento de segunda ou terceira instância. Em ambas as ocasiões, tanto o crime como a evidência são gerados novamente.
+# Nível 5 - Martelo Aprimorado
+Você melhora seu Martelo do Juiz, podendo convocar para sua mão quantas vezes quiser, como ação grátis e por custo 0 de Energia. Além disso, cada forma do Martelo adquire uma nova habilidade:
+- Martelo Leve: A distância de arremesso é ampliada para 8 unidades.
+- Malho: Por 2 Pontos de Energia adicionais, você aumenta o martelo para proporções gigantescas. Seu próximo ataque possui um adicional de +3 na rolagem de acerto e causa 2d6 de dano contundente.
+- Martelo Grande: A Extensão do martelo é ampliada para 3 unidades de distância.
+# Nível 7 - Técnicas Argumentativas
+Você se torna proficiente em Persuasão. Ao fazer as rolagens de Gravidade de Crime e Qualidade de Evidência, faça como testes de Persuasão.
+# Nível 9
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 18
+# Nível 11
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 20
+# Nível 12
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Talentos
-## Versatilidade de Ferramenta
-**Pré-requisitos**: Grau 1 ou Superior.
 
-Ao expandir seu entendimento sobre o martelo, além das formas normais, você pode transformá-lo em qualquer arma corpo a corpo.
-## Peso do Julgamento
-**Pré-requisitos**: Grau 1 ou Superior.
-
-Quando você atinge uma criatura com seu Martelo do Juiz, pode gastar 2 Energias Amaldiçoadas para causar o dobro do dado de dano da arma.
-
-Além disso, a criatura deve realizar um teste de resistência de Força; em caso de falha, fica Caída.
-## Libertação do Julgamento
-**Pré-requisitos**: Grau 1 ou Superior.
-
-Sua sintonia com a Sentença Mortal permite invocar o Julgador fora do domínio. Como ação bônus, por 5 Energias Amaldiçoadas, você invoca o Julgador.
-
-Sempre que seu oponente realizar um ataque, ele é penalizado por agressão, sofrendo –1 em jogadas de ataque e testes de resistência.
-## Justiça Imparável
-**Pré-requisitos**: Grau 1 ou Superior.
-
-Você alcança o auge da sua técnica, demonstrando que apenas com habilidade verdadeira se vence. Agora você pode usar Sentença Mortal um número de vezes igual ao seu Bônus de Proficiência antes de precisar gastar Energia Amaldiçoada.
+## Peso da Culpa
+Seu Shikigami afeta o alvo com uma culpa retroativa. Caso o alvo da Sentença Mortal tenha causado dano a você, ele ganha desvantagem em testes de Persuasão, Atuação, Enganação e Intimidação.
+## Justiça Implacável
+Você alcança o auge da sua técnica, demonstrando que apenas com habilidade verdadeira se vence. Agora você pode usar Sentença Mortal 3 vezes por descanso antes de precisar gastar Energia Amaldiçoada.
+## Maximum: Balanço Absoluto
+Seu Shikigami atinge a equivalência absoluta. Como uma ação custando 5 Pontos de Energia, você escolhe um alvo a até 10 unidades de você para realizar um teste de resistência de Alma. Caso falhe, durante 6 turnos, metade de todo o dano que você recebe é redirecionado para o alvo. Caso ele seja bem sucedido, este efeito dura apenas 2 turnos. 

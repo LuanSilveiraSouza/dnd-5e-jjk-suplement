@@ -1,92 +1,81 @@
-**Atributo de Conjuração**: Escolha entre Carisma e Inteligência
-**DC de Energia Amaldiçoada**: 8 + Atributo de Conjuração + Bônus de Proficiência
 
 Crie e controle remotamente marionetes usando sua Energia Amaldiçoada, permitindo o combate de uma distância segura.
-# Nível 1
-## Mechamaru Supremo
-Você adquire maestria sobre marionetes. Você recebe proficiência com Ferramentas de Inventor e, ao longo de um descanso longo, pode criar uma marionete.
+# Nível 1 - Mechamaru
+Você adquire maestria sobre marionetes. Você recebe proficiência com Ferramentas de Inventor e, ao longo de um descanso, pode criar uma marionete.
 
-Como uma ação por 1 Energia Amaldiçoada (EA), você pode imbuir uma Marionete; ela pode possuir apenas 2 Traços Menores. Você pode ter um número de marionetes igual ao seu bônus de proficiência.
+Como uma ação por 1 Ponto de Energia, você pode imbuir uma Marionete; ela pode possuir apenas 2 Traços Menores. Você pode ter um número de marionetes igual ao seu mod de Ego.
 
-Qualquer Marionete só pode realizar uma ação se você usar sua ação bônus para comandá-la. Ela não pode usar reação, a menos que você utilize sua própria reação para comandá-la. A marionete pode usar ações bônus por conta própria.
+Qualquer Marionete só pode realizar uma ação se você usar sua própria ação para comandá-la. A marionete pode se movimentar e usar reações por conta própria.
 
-Você pode falar, ouvir e enxergar através de qualquer uma de suas Marionetes. Caso tenha mais de uma ativa ao mesmo tempo, você precisa controlá-las simultaneamente.
+Você pode falar, ouvir e enxergar através de qualquer uma de suas Marionetes. Caso tenha mais de uma ativa ao mesmo tempo, você pode controlá-las simultaneamente.
 
 Sempre que adquirir uma Marionete, utilize as seguintes estatísticas:
-- Os valores iniciais de Força, Constituição e Destreza da Marionete são 15, 14 e 13 + pontos de bônus para distribuir entre eles iguais ao seu Bônus de Proficiência. Os demais atributos são iguais aos seus.
+- Os atributos de Mente, Alma e Ego são iguais ao seu.
 - A Marionete é um construto de tamanho Médio.
-- O dado de vida da Marionete depende do material: madeira (d4), pedra (d6), ferro (d8) e metal moderno (d10). Ela possui a mesma quantidade de Dados de Vida que você.
-- Deslocamento de 30 pés.
-- A CA da Marionete é igual à sua Percepção Passiva + o modificador de Destreza dela.
-- Possui o mesmo bônus de proficiência que você.
+- Deslocamento de 5 unidades.
+- A CA da Marionete é 10 + o modificador de Agilidade dela.
 - Imune à condição Enfeitiçado.
-- Proficiência em testes de resistência de Força, Constituição e Destreza.
-- Pode realizar um ataque desarmado que causa 1d6 + Força de dano contundente.
+- Proficiência em testes de resistência de Corpo e Agilidade.
+- Pode realizar um ataque desarmado que causa 1d6 + mod de Corpo de dano contundente.
+- Os atributos de Corpo e Agilidade, além do dado de vida, dependem do material utilizado na sua construção. Elas possuem uma quantidade de dados igual ao seu nível.
+
+| Material | Valores de Corpo/Agilidade | Dado de Vida | Custo de Material |
+| -------- | -------------------------- | ------------ | ----------------- |
+| Madeira  | 12/15                      | d4           | $100              |
+| Pedra    | 15/12                      | d6           | $500              |
+| Ferro    | 17/12                      | d6           | $500              |
+| Aço      | 15/15                      | d8           | $1,000            |
+
 ## Traços da Marionete
 
 ### Traços Menores
 
-- **Defesa Aprimorada.** A CA passa a ser sua Percepção Passiva + (modificador de Destreza × 2).
-- **Treinamento Básico com Armas.** Proficiência com armas simples e escudos.
-- **Movimento Acelerado.** Recebe seu recurso de Movimento sem Armadura, aumentando conforme você sobe de nível nesta classe.
-- **Golpes Aprimorados.** Ataques desarmados passam a causar 1d8 perfurante, cortante ou contundente. Superam resistência. Pode usar Força ou Destreza.
-- **Sentidos Aguçados.** Visão no Escuro de 18 metros e vantagem em Percepção contra criaturas vivas.
+- **Defesa Aprimorada.** A CA passa a ser 12 + mod Agilidade dela.
+- **Treinamento Básico com Armas.** Proficiência com um tipo de arma.
+- **Golpes Aprimorados.** Ataques desarmados passam a causar 1d8 perfurante, cortante ou contundente.
+- **Sentidos Aguçados.** Vantagem em Percepção.
 ### Traços Intermediários
 
-- **Alcance Aprimorado.** Alcance aumenta em 1,5 metro.
-- **Treinamento Avançado com Armas.** Proficiência com armas marciais.
-- **Carapaça Endurecida.** Resistência a dano contundente, cortante ou perfurante não mágico.
-- **Desviar Projéteis.** Como reação, reduz dano de projétil em 1d12 + seu nível de feiticeiro jujutsu.
-- **Magia Menor.** Aprende 1 truque e 1 magia de 1º nível da lista de mago. Usa Bônus de Proficiência. A magia de 1º nível exige descanso longo para reutilizar.
+- **Alcance Aprimorado.** Alcance de ataques corpo a corpo aumentado em 1 unidade.
+- **Treinamento Avançado com Armas.** Proficiência com mais um tipo de arma.
+- **Carapaça Endurecida.** Resistência a dano contundente, cortante ou perfurante.
+- **Desviar Projéteis.** Como reação, pode redirecionar um projétil para qualquer alvo atrás ou ao seu lado, causando metade do dano a você e metade no alvo escolhido.
+- **Impacto Amaldiçoado.** Aprende o Talento [[Talentos/Energia Amaldiçoada#Impacto Amaldiçoado|Impacto Amaldiçoado]].
 ### Traços Avançados
 
-- **Colosso.** Tamanho aumenta para Grande (como a magia Aumentar/Reduzir).
+- **Colosso.** Tamanho Grande; Vantagem em testes de Duelo.
 - **Aberração Voadora.** Recebe voo igual ao deslocamento.
-- **Magia Maior.** Aprende 1 truque e magias de 1º, 2º e 3º nível da lista de mago. Conjura como 3º nível, 1 vez cada por descanso longo.
-- **Treinamento em Armaduras.** Proficiência com todas as armaduras.
-- **Golpes de Alto Calibre.** Ataques desarmados causam 2d8 e contam como mágicos. Pode usar Força ou Destreza.
+- **Impacto Potente.** Aprende o Talento [[Talentos/Energia Amaldiçoada#Impacto Potente|Impacto Potente]]. 
+- **Golpes de Alto Calibre.** Ataques desarmados passam a causar 1d12 perfurante, cortante ou contundente.
 ### Traços Absolutos
 
-- **Mecha.** Tamanho Colossal. Você deve estar dentro dela para controlá-la (cobertura total). Dado de Vida d12.
-- **Canhão de Energia.** Ação: ataque à distância (Des + Proficiência + 3) causando 20d6 de dano de força. Recarrega com 5–6 em 1d6.
-- **Rajada de Energia.** Ação: cria 5 orbes de energia amaldiçoada. Ataque à distância com +3; 6d6 de dano de força por acerto. Recarrega com 5–6 em 1d6.
-
-# Nível 3
-## Marionete Intermediária
+- **Mecha.** Tamanho Colossal; Imunidade a testes de Duelo de outros alvos e vantagem em testes de Duelo feitos por você. Você deve estar dentro dela para controlá-la (cobertura total). Dado de Vida d12.
+- **Canhão de Energia.** Ação: 15 unidades de distância; 3d12 de dano energético; 10 Pontos de Energia.
+- **Rajada de Energia.** Ação: Cria 5 orbes de energia; 10 unidade de distância; 1d8 de dano energético por orbe; 8 Pontos de Energia.
+# Nível 3 - Marionete Intermediária
 Você aprimora sua marionete. Recebe uma Marionete Intermediária, invocada como ação por 3 EA. Pode ter 2 Traços Menores e 2 Intermediários.
-# Nível 7
-## Marionete Avançada
-Você corrige falhas da sua criação. Recebe uma Marionete Avançada, invocada por 6 EA. Pode ter 2 Traços Menores, 2 Intermediários e 2 Avançados.
-# Nível 10
-## Marionete Absoluta
-Você aperfeiçoa completamente sua criação. Recebe uma Marionete Mestra, invocada por 10 EA. Pode ter 2 Traços Menores, 2 Intermediários, 2 Avançados e 2 Absolutos.
-# Nível 13
+# Nível 5 - Marionete Avançada
+Você corrige falhas da sua criação. Recebe uma Marionete Avançada, invocada por 6 Pontos de Energia. Pode ter 2 Traços Menores, 2 Intermediários e 2 Avançados.
+# Nível 7 - Marionete Absoluta
+Você aperfeiçoa completamente sua criação. Recebe uma Marionete Mestra, invocada por 10 Pontos de Energia. Pode ter 2 Traços Menores, 2 Intermediários, 2 Avançados e 2 Absolutos.
+# Nível 9
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 18
+# Nível 11
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 20
+# Nível 12
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Talentos
-
-## Maximum: 
-**Pré-requisitos**: Grau 1 ou Superior.
-## Expansão de Domínio:
-**Pré-requisitos**: Grau Especial.
 ## Armadura de Marionete
-**Pré-requisitos**: Grau 1 ou Superior.
 
 Como uma ação, você pode vestir sua marionete. Você recebe os PV dela como temporários, além de seus traços e atributos físicos. Sua CA aumenta em +2.
 ## Marionetes de Comunicação
-**Pré-requisitos**: Grau 1 ou Superior.
 
-Após um descanso longo, você cria uma pequena marionete que cabe na palma da mão. Ela contém uma cópia da sua consciência no momento da criação e possui carga para cinco minutos.
+Após um descanso, você cria uma pequena marionete que cabe na palma da mão. Ela contém uma cópia da sua consciência no momento da criação e possui carga para cinco minutos.
 
-Você pode ter um número igual ao seu bônus de proficiência, e qualquer informação aprendida por uma é compartilhada entre todas. Elas podem ser programadas para ativar sob um gatilho específico.
+Você pode ter um número igual a **mod de Ego + 1**, e qualquer informação aprendida por uma é compartilhada entre todas. Elas podem ser programadas para ativar sob um gatilho específico.
 ## Máximo: Marionete Suprema
-**Pré-requisitos**: Grau 1 ou Superior.
 
 Você pode criar uma Marionete Mestra que tem o dobro de traços, mas também exige o dobro de recursos, tempo e Energia Amaldiçoada para ser criada.
 ## Expansão de Domínio: Teatro de Marionetes
-**Pré-requisitos**: Grau Especial.
 
 Você alcança o auge da sua técnica. Sua manipulação deixa de se limitar a marionetes. Agora, você pode manipular as criaturas dentro do seu domínio como se fossem marionetes.

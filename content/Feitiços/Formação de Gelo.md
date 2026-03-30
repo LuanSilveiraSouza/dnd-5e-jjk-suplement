@@ -2,7 +2,7 @@
 Seu Feitiço permite manipular a temperatura e condensar o ar ao seu redor, criando níveis extremos de frio, neve e gelo.
 
 # Nível 1 - Criação de Gelo
-Como uma ação, por 3 Ponto de Energia, você força todas as criaturas em um cone de 3 unidades a realizarem um teste de resistência de Corpo.
+Como uma ação, por 3 Pontos de Energia, você força todas as criaturas em um cone de 3 unidades a realizarem um teste de resistência de Corpo.
 
 Em caso de falha, sofrem 1d8 de dano de frio e ficam **Restringidas**, pois o gelo cobre parte de seus corpos. Em caso de sucesso, sofrem metade do dano e não ficam Restringidas.
 

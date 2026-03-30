@@ -2,15 +2,15 @@
 
 ```statblock
 layout: JJK RPG 
-name: Isômero de Alma Polimórfica  
+name: Criatura Transfigurada
 size: Médio
 type: Morto-Vivo   
 alignment: Sem alinhamento  
-ac: 13
+ac: 11
 hp: 36  
 hit_dice: 12 + 7d6  
 speed: 5 Unidades
-stats: [14, 12, 5, 12, 5]  
+stats: [13, 12, 4, 8, 4]  
 damage_immunities: Necrótico  
 condition_immunities: Encantado, Amedrontado  
 languages: -
