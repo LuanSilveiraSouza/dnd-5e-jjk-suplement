@@ -31,6 +31,10 @@ id54[/Um em Um Bilhão/]
 id55(Abençoado pelo Fulgor Negro)
 id56[Postura das Faíscas]
 id57[/Escolhido pelas Faíscas/]
+id61(Impacto Amaldiçoado)
+id62[Impacto Potente]
+id63(Armadura Amaldiçoada)
+id64[Armadura Potente]
 id1 --> id11
 id11 --> id12
 id12 --> id13
@@ -53,6 +57,10 @@ id53 --> id54
 id51 --> id55
 id55 --> id56
 id56 --> id57
+id1 --> id61
+id61 --> id62
+id61 --> id63
+id63 --> id64
 ```
 # Regeneração de Energia Amaldiçoada
 
@@ -221,9 +229,6 @@ Você pode reforçar seu corpo com pontos de Energia para o próximo ataque. Com
 | 7     | 2d6  | 4                |
 | 9     | 2d8  | 5                |
 | 11    | 2d10 | 6                |
-## Barragem de Golpes
-
-Você pode gastar 2 pontos de Energia para realizar 1 ataque desarmado extra como parte de sua ação de ataque.
 ## Impacto Potente
 Some seu **mod de Alma X 2** ao usar a habilidade **Impacto Amaldiçoado**.
 ## Armadura Potente

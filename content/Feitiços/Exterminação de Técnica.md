@@ -9,17 +9,7 @@ Enquanto as asas estiverem ativas, você pode atravessar livremente barreiras co
 Além disso, devido à sua natureza sagrada, você adquire resistência a dano radiante.
 # Nível 5 - Extinção Completa
 O dano de sua Extinção é aumentado para 1d12. Ferramentas amaldiçoadas empunhadas ou vestidas pela criatura também perdem suas habilidades enquanto o efeito estiver ativo.
-# Nível 7 - Extinção Duradoura
-A extinção agora dura 2 turnos ao invés de 1.
-# Nível 9
-Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 11
-Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 12
-Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Talentos
-
-# Maximum: Escada de Jacó
+# Nível 7 - Maximum: Escada de Jacó
 Você criou uma extensão de sua técnica — tão poderosa que pode incinerar seus oponentes enquanto uma luz radiante desce sobre eles.
 Como uma ação por 10 Pontos de Energia, você invoca uma trombeta de luz em suas mãos e sopra nela, escolhendo um ponto a até 20 unidades de você. Um feixe de luz atinge um círculo de 3 unidades de raio centrado no ponto escolhido.
 
@@ -30,11 +20,13 @@ Você também pode usar essa técnica para destruir barreiras e objetos amaldiç
 Faça uma jogada de ataque de Energia Amaldiçoada contra a CD de Energia Amaldiçoada do alvo. Em caso de acerto, você destrói o alvo, removendo quaisquer maldições que ele estivesse causando ou libertando criaturas aprisionadas dentro dele.
 
 ![[Escada-Jaco.png|Escada de Jacó]]
-# Nível 13
+## Extinção Duradoura
+A extinção agora dura 2 turnos ao invés de 1.
+# Nível 9
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 18
+# Nível 11
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
-# Nível 20
+# Nível 12
 Escolha 1 talento da lista de talentos de Técnica Inata abaixo.
 # Talentos
 
