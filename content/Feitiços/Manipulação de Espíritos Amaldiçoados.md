@@ -67,5 +67,5 @@ Como ação ou reação, ao custo de 5 Pontos de Energia, você pode liberar a e
 Diferentemente do Máximo: Uzumaki, este ataque ignora resistência e trata imunidade como resistência. Você também obtém os Feitiços das criaturas utilizadas: escolha 1 das habilidades dos Feitiços de ambas para utilizar no próximo turno. 
 # Expansão de Domínio: Profusão do Útero
 Você aprende a expandir seu domínio. Uma árvore de almas surge atrás de você, cercada por quatro Budas sentados nos pontos cardeais.
-A área afetada conta como terreno difícil para todas as criaturas e você pode usar qualquer um de seus Espíritos Amaldiçoados sem custo.
-Além disso, Espíritos Amaldiçoados devem realizar um teste de resistência de Mente no início de seus turnos ou serão instantaneamente absorvidos por você.
+Ao expandir o domínio, escolha uma lista de seus Espíritos Amaldiçoados como se fosse conjurar seu Maximum: Uzumaki, desconsiderando o custo em Pontos de Energia. Todos os alvos do domínio são afetados pelo Maximum: Uzumaki na iniciativa 20.
+Além disso, seus Espíritos Amaldiçoados sempre acertam seus ataques.

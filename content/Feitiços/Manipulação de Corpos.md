@@ -14,5 +14,7 @@ Seu controle sobre o corpo que você assume aumenta. Você pode adquire as habil
 Suas habilidades de atuação, aprimoradas por trocar de corpos, se estendem a outros usos. Você deve gastar uma semana e $2,000 para estabelecer o histórico, profissão e afiliações de uma identidade. Você não pode estabelecer uma identidade que pertença a outra pessoa.
 
 Por exemplo, você pode adquirir roupas apropriadas, cartas de apresentação e certificações com aparência oficial para se estabelecer como membro de uma casa comercial de uma cidade distante, permitindo que você se infiltre na companhia de outras pessoas.
-# Nível 7 - Maximum: Backup
+# Nível 7 - Mente Fortalecida
+Seu cérebro se solidificou conforme a troca de corpo foi sendo utilizada. Agora, ao trocar de corpos, você mantém o Feitiço do corpo anterior e do corpo atual.
+# Nível 9 - Maximum: Backup
 Por mais que você seja praticamente imortal, nunca é demais estar preparado. Como uma ação, após preparar um corpo morto, você pode designá-lo como um substituto. Caso morra no corpo atual, você pode transferir realizar a técnica de transferência independente da distância, transferindo sua consciência para o novo receptáculo. Entretanto, ao fazer isso, você gasta toda sua Energia Amaldiçoada e não pode usar Energia Amaldiçoada por 1 dia.

@@ -4,20 +4,19 @@ size: Grande
 type: Constructo  
 subtype: Besta  
 alignment: Sem alinhamento  
-ac: 13 + BP (Armadura Natural)
-hp: 26 + BP X 2
-speed: 10ft., Voo 80ft. 
-stats: [16, 17, 13, 8, 14, 10]
+ac: 13
+hp: Nível de Feiticeiro X (d6)
+speed: 2 unidades., Voo 10 unidades. 
+stats: [14, 17, 13, 10, 6]
 skillsaves:  
-- Percepção: 4
+- Percepção: 3
 senses: Percepção Passiva 14
 languages: -
 cr: 1
 traits:  
-- [Agilidade., Nue não provoca ataques de oportunidade quando se desloca voando.]  
+- [Agilidade., Nue não provoca reações de Troca de Golpes quando se desloca voando.]  
+- [Agarrar., Nue pode agarrar um aliado e mover-se metade de seu deslocamento.]
 actions:  
 - [Multiataque., Nue faz dois ataques.]  
-- [Choque., "Ataque Corpo a Corpo: +5 no acerto, alcance de 5ft., um alvo. Acerto: 8 (2d4 + 3) de dano elétrico. A criatura alvo deve ser bem sucedida em um salvaguarda de Constituição de DC 12 (ou seu **DC de Energia Amaldiçoada**) ou perderá sua reação. Em contato com a água, este ataque afeta todas as criaturas também a tocando."]  
-bonus_actions:
-- [Agarrar., Nue pode agarrar um aliado e mover-se metade de seu deslocamento.]  
+- [Choque., "Ataque Corpo a Corpo: +3 no acerto, alcance de 1 unidade., um alvo. Acerto: 2d4 de dano elétrico. A criatura alvo deve ser bem sucedida em um teste de Resistência de Alma de DC 12 (ou seu **DC de Energia Amaldiçoada**) ou perderá sua reação. Em contato com a água, este ataque afeta todas as criaturas também a tocando."]   
 ```

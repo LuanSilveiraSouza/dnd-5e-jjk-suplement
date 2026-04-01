@@ -29,22 +29,22 @@ size: Médio
 type: Constructo  
 subtype: Besta  
 alignment: Sem alinhamento  
-ac: 14 + BP (Armadura Natural)
-hp: 37 + BP X 2
-speed: 50ft.  
-stats: [17, 15, 15, 3, 12, 7]    
+ac: 15
+hp: Nível do Feiticeiro X (d8)
+speed: 8 Unidades
+stats: [17, 15, 12, 9, 12]    
 saves:  
-- Str: 5
-- Dex: 4  
+- Corpo: 6
+- Agilidade: 5
 skillsaves:  
-- Percepção: 5
-- Furtividade: 4  
+- Percepção: 3
+- Furtividade: 3
 senses: Percepção Passiva 15
 languages: -
-cr: 1
+cr: 7
 traits:  
 - [Sentidos Aguçados., O cão possui vantagem em testes de Percepção que usam audição ou olfato.]  
-- [Táticas de Matilha., O cão possui vantagem em rolagens de ataque caso um dos aliados (não incapacitado) do cão esteja a 5ft. da criatura.] 
+- [Táticas de Matilha., O cão possui vantagem em rolagens de ataque caso um dos aliados (não incapacitado) do cão esteja a 1 unidade da criatura.] 
 actions:  
-- [Mordida., "Ataque Corpo a Corpo: +5 no acerto, alcance de 5ft., um alvo. Acerto: 10 (2d6 + 3) de dano perfurante. A criatura alvo deve ser bem sucedida em um salvaguarda de Força de DC 13 ou então cairá."]  
+- [Mordida., "Ataque Corpo a Corpo: +3 no acerto, alcance de 1 unidade., um alvo. Acerto: 2d6 de dano perfurante. A criatura alvo deve ser bem sucedida em um salvaguarda de Corpo de DC 13 ou então ficará Caída."]  
 ```

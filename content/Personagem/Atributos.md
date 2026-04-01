@@ -36,7 +36,7 @@ Usado em habilidades de Feitiços. Determina o valor ao qual o alvo precisa pass
 # Perícias
 
 Perícias representam formas de agir utilizando um de seus Atributos. Sempre que quiser fazer uma ação, escolha uma perícia e um atributo. O jogador então deve explicar como agirá de acordo com a combinação e o mestre acorda ou não com a lógica/sentido dada pelo jogador. 
-Personagens podem adquirir proficiência em perícias. Ao fazer o teste de Perícia com proficiência, adicione +5 na rolagem além de seu modificador de atributo.
+Personagens podem adquirir proficiência em perícias. Ao fazer o teste de Perícia com proficiência, adicione +1d6 na rolagem além de seu modificador de atributo.
 A lista abaixo abrange todas as perícias e os atributos mais comumente atribuídos a elas:
 
 - **Atletismo**: Corpo, Agilidade
@@ -54,7 +54,7 @@ A lista abaixo abrange todas as perícias e os atributos mais comumente atribuí
 - **Intimidação**: Corpo, Agilidade, Mente, Alma, Ego
 - **Persuasão**: Mente, Ego
 # Testes de Resistência
-É possível forçar alvos a fazerem testes com suas perícias, afim de ativar algum efeito no caso de falha. Além disso, todos os personagens podem ser forçados a fazerem um teste de resistência, ao qual utiliza um dos atributos principais para definir se o personagem aguenta a carga relacionada ao atributo. Assim como perícias, é possível adquirir proficiência em testes de resistência, adicionando +5 na rolagem além do seu modificador de atributo.
+É possível forçar alvos a fazerem testes com suas perícias, afim de ativar algum efeito no caso de falha. Além disso, todos os personagens podem ser forçados a fazerem um teste de resistência, ao qual utiliza um dos atributos principais para definir se o personagem aguenta a carga relacionada ao atributo. Assim como perícias, é possível adquirir proficiência em testes de resistência, adicionando +1d6 na rolagem além do seu modificador de atributo.
 - Teste de Resistência de Corpo: Envenenamento, prender a respiração, colidir com uma parede.
 - Teste de Resistência de Agilidade: Esquivar de um ataque em área, cair de grandes alturas.
 - Teste de Resistência de Mente: Suportar uma carga imensa de informações, resistir a danos psíquicos.

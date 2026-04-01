@@ -9,8 +9,8 @@ hit_dice: 9d6 + 12
 speed: 5 Unidades, Voo 10 Unidades 
 stats: [16, 12, 10, 12, 8]
 skillsaves:  
-- Percepção: 1d4
-- Intimidação: 1d4
+- Percepção: 3
+- Intimidação: 3
 cr: 9
 actions:  
 - [Multiataque., "Ryu faz 2 ataques."]

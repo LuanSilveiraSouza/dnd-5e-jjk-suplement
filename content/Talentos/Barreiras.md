@@ -11,9 +11,10 @@ id2[Emoção das Pétalas Caídas]
 id11(Domínio Simples)
 id12(Saque da Espada do Crepúsculo)
 id13(Adepto do Novo Estilo das Sombras)
-id14[Batto: Saque Rápido]
-id15[Véu do Luar]
-id16{{Mestre do Novo Estilo das Sombas}}
+id14[Véu do Luar]
+id15[Batto: Saque Rápido]
+id16[Maculação]
+id17{{Mestre do Novo Estilo das Sombas}}
 id21(Cortina)
 id22(Cesto de Vime Oco)
 id23[Cortina Complexa]
@@ -25,8 +26,9 @@ id1 --> id11
 id11 --> id12
 id11 --> id13
 id12 --> id14
-id14 --> id15
-id14 --> id16
+id12 --> id15
+id15 --> id16
+id15 --> id17
 id1 --> id21
 id21 --> id22
 id21 --> id23
@@ -55,18 +57,25 @@ Você consegue se esgueirar e invadir barreiras sem as quebrar:
 - Enquanto dentro de uma barreira, você pode fazer um teste de Ego contra o DC do feiticeiro que a conjurou para alterar suas propriedades. A falha o impossibilita de a modificar, já o sucesso o permite alterar seu tamanho, duração, criaturas permitidas a entrar e/ou sair ou quaisquer outras propriedades presentes nela.
 # Domínio Simples
 Como Ação ou Reação à uma rolagem de ataque ou teste que utilize Energia, feitiço ou expansão de domínio, você gasta 3 pontos de Energia para preencher seus entornos em um círculo de 3 unidades por 5 turnos. O círculo possui seu total de pontos de Energia como pontos de vida. Quaisquer técnicas que atingir você ou o círculo será redirecionada para a barreira do domínio simples, reduzindo seus pontos de vida até 0.
-## Saque da Espada do Crepúsculo
-Você assume uma postura baixa e preparada. Quando uma criatura entra na área do seu **Domínio Simples**, você pode realizar, como Reação e custando 1 ponto de Energia, um ataque com arma contra ela. Em caso de acerto, você causa **dano crítico**.
+## Batto: Saque Rápido
+![[image-23.png]]
+Você aprende a técnica mais rápida do Novo Estilo das Sombras.
+Você assume uma postura baixa e preparada. Quando uma criatura entra na área do seu **Domínio Simples**, você pode realizar, como Reação e custando 2 Pontos de Energia, um ataque com arma com vantagem. Em caso de acerto, você causa **dano crítico**.
 Alternativamente, você pode optar por receber **+3 na CA e nos testes contra ataques de Energia Amaldiçoada** até o início do seu próximo turno.
 ## Adepto do Novo Estilo das Sombras
 - Você pode ativar seu Domínio Simples sem gastar sua reação. 
+- -2 em rolagens de ataques de feitiços inimigos feitos dentro de seu Domínio Simples.
 - Você pode alterar a forma de seu Domínio Simples: Ao conjurá-lo, escolha entre um círculo de 3 unidades de raio, um cone de 3 unidades de raio ou um retângulo de 3x4/2x5/1x6 unidades de tamanho. Você também não precisa mais conjurar o Domínio com você no centro.
-## Batto: Saque Rápido
-Você aprende a técnica mais rápida do Novo Estilo das Sombras.
-Como Ação custando 5 pontos de Energia, enquanto estiver empunhando uma arma corpo a corpo, você pode realizar um ataque com arma contra um número de alvos igual ao seu modificador de Agilidade (à sua escolha), desde que estejam dentro de **do seu deslocamento**. Após os ataques, você termina seu turno atrás do alvo mais distante dentre eles.
+## Saque da Espada do Crepúsculo
+![[image-20.png]]
+Como Ação custando 5 pontos de Energia, enquanto estiver empunhando uma arma corpo a corpo, você pode realizar um ataque com arma contra um número de alvos igual ao seu modificador de Agilidade (à sua escolha), desde que estejam dentro de do seu deslocamento. Após os ataques, você termina seu turno atrás do alvo mais distante dentre eles.
 Esse movimento **não provoca a Reação de Troca de Golpe**.
 ## Véu do Luar
-Por 1 ponto de Energia, você pode imbuir sua arma ou ataque desarmado com o poder do seu Domínio Simples. Ao fazer isso, adicione seu modificador de Ego às jogadas de ataque **e** dano com essa arma até o início de seu turno seguinte. 
+![[image-21.png]]
+Por 2 Ponto de Energia, você pode imbuir sua arma ou ataque desarmado com o poder do seu Domínio Simples. Ao fazer isso, adicione seu modificador de Ego às jogadas de ataque **e** dano com essa arma até o início de seu turno seguinte. 
+## Maculação
+![[image-22.png]]
+Uma técnica do Novo Estilo das Sombras que imbui um programa de interceptação automática de ataques. Como Reação custando 5 Pontos de Energia, você abre um Domínio Simples especial, permitindo realizar as reações de **Esquiva** E **Trocar Golpes**. Você pode repetir o efeito para ataques inimigos subsequentes por 2 Pontos de Energia por ataque, até seu próximo turno ou os pontos de vida de seu domínio simples acabarem, o que ocorrer antes.
 ## Mestre do Novo Estilo das Sombras
 - O tamanho de seu Domínio Simples aumenta para um círculo de 5 unidades de raio, um cone de 5 unidades de raio e 3x5/2x6/1x7 unidades como retângulo.
 - Você pode ativar seu Domínio Simples por 2 pontos de Energia.

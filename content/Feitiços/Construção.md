@@ -3,7 +3,7 @@ Você é capaz de transformar sua Energia Amaldiçoada em matéria sólida. Apes
 # Nível 1 - Constructo
 Você pode criar qualquer tipo de objeto que compreenda com sua técnica, embora sem muita eficiência. Como uma ação, ao custo de 2 Pontos de Energia, você pode criar um objeto não mágico do qual possua entendimento básico e conhecimento de suas propriedades.
 Você também pode gastar o dobro da energia amaldiçoada nessa técnica para criar um objeto com duas propriedades.  
-_(Exemplo: você cria uma espada longa combinada com uma lança; ela teria as propriedades Extensão, Versátil(1d10) e Arremesso (8/20).)_
+_(Exemplo: você cria uma espada longa combinada com uma lança; ela teria as propriedades Extensão, Versátil(1d10) e Arremesso (4).)_
 # Nível 3 - Criação Amaldiçoada
 Sua técnica de construção melhora significativamente, permitindo que você crie até mesmo objetos amaldiçoados ou mágicos.
 Você pode criar uma Ferramenta Amaldiçoada por 4 Pontos de Energia + 1 ponto para cada grau acima de comum (não podendo ultrapassar uma arma de Grau 1). Essas ferramentas amaldiçoadas criadas duram um número de horas igual ao seu Modificador de Ego, desaparecendo assim que esse tempo termina.
@@ -36,11 +36,11 @@ Você refinou sua habilidade de criar ferramentas amaldiçoadas até sua essênc
 Ao custo do dobro da energia normalmente necessária para criar aquela Ferramenta Amaldiçoada, você pode imbuir um item com a Técnica correspondente por uma semana.
 ## Maximum: Esfera Perfeita
 Por meio de pesquisa e criatividade, você descobre uma criação horrenda e destrutiva.
-- Como uma ação, ao custo de 13 Pontos de Energia, você cria uma esfera metálica perfeita com raio de 1 unidade que surge em um espaço desocupado à sua escolha a até 2 unidades de você, permanecendo ativa por **Mod de Ego X 2** turnos.
-- Qualquer criatura que termine seu turno a até 1 unidade da esfera deve realizar um teste de resistência de Agilidade. A criatura sofre 3d12 de dano contundente em caso de falha, ou metade do dano em caso de sucesso.
-- Como ação grátis por turno, você pode mover a esfera até 5 unidades. Se você arremessar a esfera contra uma criatura, ela deve realizar o teste de resistência com desvantagem, e a esfera para de se mover nesse turno.
+- Como uma ação, ao custo de 13 Pontos de Energia, você cria uma esfera metálica de formato perfeitamente esférico, criando uma pressão em quase infinita em sua superfície. Ela possui um raio de 1 unidade e surge em um espaço desocupado à sua escolha a até 2 unidades de você, permanecendo ativa por **Mod de Ego X 2** turnos.
+- Qualquer criatura que termine seu turno a até 1 unidade da esfera deve realizar um teste de resistência de Agilidade. A criatura sofre 4d12 de dano contundente em caso de falha, ou metade do dano em caso de sucesso.
+- Usando sua movimentação do turno, você pode mover a esfera até 5 unidades. Se você arremessar a esfera contra uma criatura, ela deve realizar o teste de resistência com desvantagem, e a esfera para de se mover nesse turno.
 - Ao se mover, a esfera destrói todas as barreiras e estruturas não mágicas em seu caminho.
 ## Expansão de Domínio: Tríplice Aflição
 Você refinou sua técnica ao máximo, obtendo sua Expansão de Domínio.
-Enquanto estiver dentro do seu domínio, você pode criar qualquer um de seus itens sem gastar energia amaldiçoada. Todos esses itens causam um dado de dano adicional, e ataques realizados com eles não podem errar.
+Enquanto estiver dentro do seu domínio, você pode criar qualquer um de seus itens por metade da energia amaldiçoada. Todos esses itens causam um dado de dano adicional, e ataques realizados com eles não podem errar.
 No entanto, essas armas duram apenas até o fim do domínio.

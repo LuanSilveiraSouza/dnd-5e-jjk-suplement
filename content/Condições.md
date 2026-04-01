@@ -13,6 +13,8 @@ Diversas habilidades físicas e envolvendo Energia Amaldiçoada possuem a capaci
 ## Caído
 - Você usa sua ação de movimento para se levantar;
 - Rolagens de acerto feitas contra você de 1 unidade de distância são feitas com vantagem e rolagens de acerto feitas à distância são feitas com desvantagem.
+## Berserk
+- A criatura não consegue distinguir aliado de inimigo, atacando quem estiver mais perto. Caso haja duas ou mais criaturas na mesma distância, o afetado focará no último a ter atacado ele.
 ## Encantado
 - Não pode atacar a criatura que lhe causou esta condição;
 - A criatura que lhe causou esta condição tem vantagem em testes sociais contra você.

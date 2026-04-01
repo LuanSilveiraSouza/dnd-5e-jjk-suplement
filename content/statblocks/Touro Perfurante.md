@@ -4,21 +4,21 @@ size: Grande
 type: Constructo  
 subtype: Besta 
 alignment: Sem alinhamento  
-ac: 12 + BP
-hp: 85 + BP X 2 
-speed: 60ft
-stats: [23, 14, 18, 7, 12, 7]  
+ac: 14
+hp: Nível de Feiticeiro X (d8)
+speed: 10 unidades
+stats: [18, 12, 7, 10, 12]  
 saves:  
-- Str: 9  
+- Corpo: 6  
 skillsaves:  
-- Atletismo: 12  
+- Atletismo: 3  
 senses: Percepção Passiva 11  
 languages: -
 cr: 8
 traits:  
-- [Arrancada Poderosa., "Cada 10ft. de movimento em linha reta adiciona 1d12 ao próximo ataque de Chifres."]  
+- [Arrancada Poderosa., "Cada 2 unidades de movimento em linha reta adiciona 1d12 ao próximo ataque de Chifres."]  
 actions:  
-- [Chifres., "Ataque Corpo a Corpo: +9 no acerto, alcance de 5ft., um alvo. Acerto: 12(1d12 + 6) de dano perfurante."]
-bonus_actions:
-- [Agressivo., "Como ação bônus, o Touro Perfurante pode se mover até seu deslocamento total em direção a uma criatura que pode ver."]  
+- [Chifres., "Ataque Corpo a Corpo: +9 no acerto, alcance de 1 unidade., um alvo. Acerto: 1d12 de dano perfurante."]
+reactions:
+- [Agressivo., "O Touro Perfurante escolhe um alvo. Até o fim do próximo turno, ele pode se mover até o dobro de seu deslocamento em direção ao alvo."]  
 ```

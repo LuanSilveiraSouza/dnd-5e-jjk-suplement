@@ -126,6 +126,18 @@ O braço também possui 20 pontos de vida. Como reação a um ataque corpo a cor
 ![[image-15.png]]
 *Arma (Cajado), Muito Rara*
 Você recebe +2 nas jogadas de ataque e dano feitas com esta ferramenta amaldiçoada. O cajado possui a propriedade **Extensão** adicional.
+### G-WarStaff
+![[image-19.png]]
+_Arma (Alabarda), Muito Rara_
+Uma grande caneta que drena o sangue dos inimigos ao perfurá-los, criando quadrinhos no corpo do alvo que permitem o usuário a prever seus movimentos.
+Cada golpe bem sucedido em um alvo adiciona uma carga na arma, ao qual acumula benefícios de acordo com a quantia de quadrinhos no alvo:
+
+| Quantidade de Quadrinhos | Efeito                                             |
+| ------------------------ | -------------------------------------------------- |
+| 1                        | -2 nas rolagens de acerto do alvo contra você      |
+| 2                        | **Esquiva**: +4 na CA; **Trocar Golpes**: Vantagem |
+| 3                        | Vantagem em todos seus ataque contra o alvo        |
+Apenas um alvo por combate pode ser afetado pela G-WarStaff, exceto se você matá-lo, ao qual o efeito fica disponível novamente. 
 ## Ferramentas de Grau Especial
 
 ### Corrente de 1000 Milhas

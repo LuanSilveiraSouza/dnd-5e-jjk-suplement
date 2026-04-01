@@ -39,7 +39,7 @@ id42 --> id43
 id42 --> id44
 ```
 # Combate Básico
-Seu dano de ataque desarmado aumenta para 1d6 de dano contundente.
+Você se torna proficiente em ataques desarmados, adicionando +1d6 nas rolagens de acerto. Seu dano de ataque desarmado aumenta para 1d6 de dano contundente.
 ## Combate Intermediário
 Seu dano de ataque desarmado aumenta para 1d8 de dano contundente.
 ## Combate Avançado
